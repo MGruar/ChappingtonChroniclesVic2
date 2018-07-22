@@ -3,7 +3,7 @@ alan;Alan;Alan;Alan;Alan;Alano;Alano;Alan;Alan;Alan;Alan;Alan;Àëàí;Alan;x
 all_italian;Neo-Italian;Néo-Italien;Neu-Italienisch;Neo-W³oski;Neo-Italiano;Neo-Italiano;Neo-Olasz;Neo-Italskı;Neo-Olasz;Neo-Italiaanse;Neo-Italiano;Íîâûé Èòàëüÿíñêèé;Neo-Italialainen;x
 andalucian;Andalucian;Andalucien;Andalusischen;Andaluzyjczyk;Andaluz;Andaluso;Andalúz;Andaluskı;Andalúz;Andalusische;Andaluz;Àíäàëóñèè;Andalusian;x
 anglo_african;Anglo-African;Anglo-Africain;Anglo-Afrikaner;Angloafrikañski;Anglo-Africano;Anglo-Africano;Anglo-Afrikai;Anglo-Afrièan;Anglo-Afrikai;Anglo-Afrikaanse;Anglo-Africano;Àíãëî-Àôğèêàíñêèé;Anglo-Afrikkalainen;x
-anglo_saxon;Anglo-Saxon;Anglo-Saxon;Angelsächsisch;Anglosas;Anglosajón;Anglosassone;Angolszász;Anglosaskı;Angolszász;Angelsaksisch;Anglo-Saxão;Àíãëîñàêñîíñêèé;Anglosaksit;x
+anglo_saxon;Angsax;Anglo-Saxon;Angelsächsisch;Anglosas;Anglosajón;Anglosassone;Angolszász;Anglosaskı;Angolszász;Angelsaksisch;Anglo-Saxão;Àíãëîñàêñîíñêèé;Anglosaksit;x
 araucanian;Araucanian;Araucanien;Araukanischen;Araukanian;Araucano;Araucanese;Araukán;Araucanian;Araukán;Araucanian;Araucano;Àğàóêàíñêèé;Araukaani;x
 assyrian;Assyrian;Assyrien;Assyrischen;Asyryjski;Asirio;Assiro;Asszír;Asyrskı;Asszír;Assyrisch;Assírio;Àññèğèéñêèé;Assyrialainen;x
 bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Bai;Áàé;Bai;x
@@ -41,7 +41,7 @@ penutian;Penutian;Penutien;Penutian;Penutian;Penuciano;Penuziano;Peneut Nyelv;Pe
 picard;Picard;Picard;Picard;Picard;Picard;Piccardo;Picard;Picard;Picard;Picard;Picard;Ïèêàğä;Picard;x
 pictish;Pictish;Pictish;Bildlich;Pictish;Picto;Pitto;Pictish;Pictish;Pictish;Pictish;Pictish;Ïèêòñêèé;Piktiläinen;x
 plains_algonquian;Plains Algonquian;Plaines Algonquines;Ebenen Algonkin;Równiny Algonquian;Algonquino de las Llanuras;Algonchino delle Piane;Alföld Algonquian;Plains Algonquian;Alföld Algonquian;Vlaktes Algonquian;Algonquês Das Planícies;Ğàâíèíû Àëãîíêèí;Plains Algonquian;x
-scottish;Scottish;Écossais;Schottisch;Szkocki;Escocés;Scozzese;Skót;Skotskı;Skót;Schots;Escocês;Øîòëàíäñêèé;Skotlantilainen;x
+scottish;Muirish;Écossais;Schottisch;Szkocki;Escocés;Scozzese;Skót;Skotskı;Skót;Schots;Escocês;Øîòëàíäñêèé;Skotlantilainen;x
 siouan;Siouan;Siouan;Siouan;Siouan;Siouano;Sioux;Siouan;Siouan;Siouan;Siouan;Siouan;Ñèóêñ;Siouan;x
 sonoran;Sonoran;Sonoran;Sonoran;Sonoran;Sonorano;Sonorano;Sonora;Sonoran;Sonora;Sonoran;Sonoran;Ñîíîğà;Sonoran;x
 suebi;Suebi;Suève;Suebi;Suebi;Suevo;Svevo;Szvébek;Suebi;Szvébek;Suebi;Suebi;Ñóıâè;Sveba;x
@@ -128,3 +128,4 @@ barbarian;Barbarian;Barbare;Barbar;Barbarzyñca;Bárbaro;Barbaro;Barbár;Barbar;Bar
 brithenig;Brithenig;Brithenig;Brithenig;Brithenig;Brithenig;Brithenig;Brithenig;Brithenig;Brithenig;Brithenig;Brithenig;Áğèôåíèãñêèé;Brithenig;x
 gaul;Gaul;Gaule;Gallien;Gaul;Galia;Gallo;Gallia;Galie;Gallia;Gallië;Gália;Ãàëëèÿ;Gaul;x
 laessin;Läßin;Läßin;Läßin;Läßin;Läßin;Läßino;Läßin;Läßin;Läßin;Läßin;Läßin;Ëıññèíñêèé;Läßin;x
+irish;Éireann;Irlandais;Irisch;;Irlandesa;;;;;;;;;x;;;;
