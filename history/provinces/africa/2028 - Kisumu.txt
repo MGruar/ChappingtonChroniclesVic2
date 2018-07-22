@@ -1,0 +1,5 @@
+owner=X19
+controller=X19
+trade_goods = tea
+life_rating = 15
+colonial=2

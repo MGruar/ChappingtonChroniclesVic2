@@ -1,0 +1,5 @@
+owner=YAN
+controller=YAN
+add_core=YAN
+trade_goods = fish
+life_rating = 35

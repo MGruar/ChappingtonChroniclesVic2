@@ -1,0 +1,7 @@
+owner=POM
+controller=POM
+add_core=POM
+add_core=YUG
+add_core=CRO
+trade_goods = coal
+life_rating = 35

@@ -1,0 +1,9 @@
+owner=YAN
+controller=YAN
+add_core=CWU
+add_core=NNG
+add_core=LNG
+add_core=YAN
+add_core=CHI
+trade_goods = silk
+life_rating = 32

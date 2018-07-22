@@ -1,0 +1,7 @@
+owner=YAN
+controller=YAN
+add_core=JAP
+add_core=YAN
+add_core=DTE
+trade_goods = fish
+life_rating = 20

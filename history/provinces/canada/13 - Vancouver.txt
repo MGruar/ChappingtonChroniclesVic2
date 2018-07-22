@@ -1,0 +1,14 @@
+owner=CAN
+controller=CAN
+add_core=HDA
+add_core=CAL
+add_core=CAN
+add_core=X29
+trade_goods = fish
+life_rating = 35
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

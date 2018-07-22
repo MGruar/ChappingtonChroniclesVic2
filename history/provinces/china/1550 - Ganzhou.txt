@@ -1,0 +1,7 @@
+owner=CGS
+controller=CGS
+add_core=NNG
+add_core=CGS
+add_core=CHI
+trade_goods = coal
+life_rating = 32

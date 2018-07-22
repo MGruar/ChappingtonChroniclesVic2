@@ -1,0 +1,6 @@
+owner=PSA
+controller=PSA
+add_core=PSA
+trade_goods = fish
+life_rating = 15
+colonial=2

@@ -1,0 +1,7 @@
+owner=X25
+controller=X25
+add_core=GRE
+add_core=X25
+add_core=GER
+trade_goods = iron
+life_rating = 35

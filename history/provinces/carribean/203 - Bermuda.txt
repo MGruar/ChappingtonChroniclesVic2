@@ -1,0 +1,8 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=ENG
+add_core=SCO
+trade_goods = fish
+life_rating = 35
+fort = 1

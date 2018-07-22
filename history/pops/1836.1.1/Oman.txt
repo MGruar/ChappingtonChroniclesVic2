@@ -1,0 +1,768 @@
+1166 = {
+	slaves=
+	{
+		culture = kannada
+		religion = hindu
+		size=72395
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=2932
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=11728
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=2111
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=498
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=235
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=2463
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=200840
+	}
+
+	slaves=
+	{
+		culture = kannada
+		religion = orthodox
+		size=7420
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=301
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = orthodox
+		size=7066
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = orthodox
+		size=1272
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=300
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=141
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=1484
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=12069
+	}
+
+}
+1169 = {
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size=2617
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size=10467
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size=1884
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size=445
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size=209
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size=2198
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size=243861
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=419
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=6908
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=1244
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=294
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=138
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=1451
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=31415
+	}
+
+}
+1170 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=1089
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=4358
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=784
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=185
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=87
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=915
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=101525
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=109
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = orthodox
+		size=2615
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = orthodox
+		size=471
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=111
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=52
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=549
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=6987
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=8
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=2212
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=398
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=94
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=44
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=464
+	}
+
+}
+1171 = {
+	slaves=
+	{
+		culture = kannada
+		religion = hindu
+		size=92691
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=5140
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=20561
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=3701
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=874
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=411
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=4318
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=386318
+	}
+
+	slaves=
+	{
+		culture = kannada
+		religion = orthodox
+		size=9346
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=518
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = orthodox
+		size=12353
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = orthodox
+		size=2224
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=525
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=247
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=2594
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=24023
+	}
+
+}
+1172 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=1632
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=6529
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=1061
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=196
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=131
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=1371
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=152313
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=139
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = orthodox
+		size=3820
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = orthodox
+		size=621
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=115
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=802
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=8302
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=189
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = hindu
+		size=754
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = hindu
+		size=123
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=23
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=158
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=17599
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=19
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=455
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=74
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=14
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=95
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=1267
+	}
+
+}
+1174 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=688
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = hindu
+		size=2752
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = hindu
+		size=447
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=83
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=578
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=64198
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=72
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=1665
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=271
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=50
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=33
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=350
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=4783
+	}
+
+}

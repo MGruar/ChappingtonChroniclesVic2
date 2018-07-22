@@ -1,0 +1,7 @@
+owner=YAR
+controller=YAR
+add_core=YAR
+add_core=X04
+add_core=UGR
+trade_goods = timber
+life_rating = 35

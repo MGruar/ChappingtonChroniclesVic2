@@ -1,0 +1,149 @@
+2535 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=627
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=1254
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=204
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=53
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=263
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=28915
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = sunni
+		size=580
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = sunni
+		size=1786
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = sunni
+		size=290
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = sunni
+		size=76
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = sunni
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = sunni
+		size=375
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = sunni
+		size=25847
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size=136
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size=899
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = hindu
+		size=146
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = hindu
+		size=38
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = hindu
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = hindu
+		size=189
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size=5391
+	}
+
+}

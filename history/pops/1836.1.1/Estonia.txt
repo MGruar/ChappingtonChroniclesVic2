@@ -1,0 +1,276 @@
+349 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = cathar
+		size=2169
+	}
+
+	craftsmen=
+	{
+		culture = estonian
+		religion = cathar
+		size=2639
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = cathar
+		size=4338
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = cathar
+		size=705
+	}
+
+	clerks=
+	{
+		culture = estonian
+		religion = cathar
+		size=181
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=184
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = cathar
+		size=119
+	}
+
+	capitalists=
+	{
+		culture = estonian
+		religion = cathar
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=911
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = cathar
+		size=97116
+	}
+
+}
+350 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = cathar
+		size=2029
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = cathar
+		size=4057
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = cathar
+		size=659
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=172
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = cathar
+		size=112
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=852
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = cathar
+		size=93545
+	}
+
+}
+351 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = cathar
+		size=2169
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = cathar
+		size=4338
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = cathar
+		size=705
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=184
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = cathar
+		size=119
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=911
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = cathar
+		size=100024
+	}
+
+}
+352 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = cathar
+		size=2029
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = cathar
+		size=4057
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = cathar
+		size=659
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=172
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = cathar
+		size=112
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=852
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = cathar
+		size=93545
+	}
+
+}
+353 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = cathar
+		size=2485
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = cathar
+		size=4970
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = cathar
+		size=808
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=211
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = cathar
+		size=137
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=1044
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = cathar
+		size=114601
+	}
+
+}

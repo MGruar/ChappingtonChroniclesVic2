@@ -1,0 +1,9 @@
+owner=YAN
+controller=YAN
+add_core=BRT
+add_core=KLK
+add_core=YAN
+add_core=KHA
+add_core=MGL
+trade_goods = cattle
+life_rating = 32

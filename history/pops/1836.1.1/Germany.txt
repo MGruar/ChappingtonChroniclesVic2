@@ -1,0 +1,6467 @@
+369 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2959
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=5642
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=957
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=148
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=163
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1243
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=136569
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=784
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=4316
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=732
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=113
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=125
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=951
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=31973
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = jewish
+		size=6
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=4
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = jewish
+		size=278
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=212
+	}
+
+}
+529 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=6199
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=12399
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2015
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=310
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=341
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2604
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=286100
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1565
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=9330
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1516
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=233
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=257
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1959
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=63407
+	}
+
+}
+528 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=6606
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=12226
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=2122
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=330
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=363
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=2775
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=304881
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3138
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=11920
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=2069
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=322
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=354
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=2705
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=135406
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=987
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=963
+	}
+
+}
+531 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=16533
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=10439
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1696
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=261
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=287
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2192
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=229574
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1122
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=7464
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1213
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=187
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=205
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1567
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=44353
+	}
+
+}
+532 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2582
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=5165
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=839
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=129
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=142
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1085
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=119177
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=413
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3409
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=554
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=85
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=94
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=716
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=15388
+	}
+
+}
+533 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2965
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=5931
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=964
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=148
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=163
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1245
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=136851
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=786
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=4537
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=737
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=113
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=125
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=953
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=32040
+	}
+
+}
+530 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=5338
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=10675
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1735
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=267
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=294
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2242
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=246328
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1348
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=8033
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1305
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=201
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=221
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1687
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=54592
+	}
+
+}
+544 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = orthodox
+		size=2624
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = orthodox
+		size=4946
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = orthodox
+		size=846
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = orthodox
+		size=131
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = orthodox
+		size=144
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = orthodox
+		size=1102
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = orthodox
+		size=121109
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=1955
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=6158
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1053
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=163
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=180
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1372
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=86486
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=610
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=4861
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=831
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=129
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1083
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=22548
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=18
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=8
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=678
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=297
+	}
+
+}
+545 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3972
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=7944
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1291
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=338
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=159
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1668
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=183225
+	}
+
+}
+534 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3842
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=7118
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1235
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=192
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=211
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1614
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=177310
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=855
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=5144
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=892
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=139
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=153
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1166
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=33976
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = jewish
+		size=15
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = jewish
+		size=566
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=409
+	}
+
+}
+535 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1089
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=1580
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=339
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=54
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=457
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=50253
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=996
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=214
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=34
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=38
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=288
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4981
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = jewish
+		size=15
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = jewish
+		size=598
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=377
+	}
+
+}
+537 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1420
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=2841
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=462
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=71
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=597
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=65545
+	}
+
+}
+538 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1792
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3584
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=582
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=90
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=99
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=753
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=82699
+	}
+
+}
+536 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1420
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=2841
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=462
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=71
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=597
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=65545
+	}
+
+}
+539 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=5417
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=10833
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1760
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=271
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=298
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2275
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=249981
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1165
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=7746
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1259
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=194
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=213
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1627
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=46026
+	}
+
+}
+540 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=5522
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=11044
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=1795
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=276
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=304
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=2319
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=254844
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=345
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=6212
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1010
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=155
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=171
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1305
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=8059
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1187
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=7897
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1283
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=197
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=217
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1658
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=46923
+	}
+
+}
+541 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1089
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=2178
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=354
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=54
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=457
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=50253
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1372
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=223
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=34
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=38
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=288
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4981
+	}
+
+}
+542 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1792
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3584
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=582
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=90
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=99
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=753
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=82699
+	}
+
+}
+543 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4811
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=9622
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1564
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=241
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=265
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=2021
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=222038
+	}
+
+}
+547 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=12737
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=25474
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=4140
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1083
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=509
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=5350
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=587560
+	}
+
+}
+548 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3388
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=6531
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1096
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=288
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=136
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1423
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=156278
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=245
+	}
+
+}
+549 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2440
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=3461
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=763
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=207
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=98
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1025
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=112579
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=30
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=1420
+	}
+
+}
+550 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2324
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=4648
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=755
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=198
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=93
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=976
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=107218
+	}
+
+}
+551 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3063
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=6126
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=995
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=260
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=123
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1286
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=141291
+	}
+
+}
+552 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=2844
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=5688
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=924
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=242
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=114
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1194
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=131191
+	}
+
+}
+553 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3842
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=7389
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1244
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=192
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=211
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1614
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=177310
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=295
+	}
+
+}
+554 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=990
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=1863
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=319
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=50
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=416
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=45696
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=158
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1230
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=211
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=274
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5901
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=3
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=2
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=117
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=78
+	}
+
+}
+556 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3526
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=6808
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1141
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=176
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=194
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1481
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=162747
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=245
+	}
+
+}
+557 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3677
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=7354
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1195
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=184
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=202
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1544
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=169699
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=469
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=4615
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=750
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=115
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=127
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=969
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=16397
+	}
+
+}
+555 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3621
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=7243
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1177
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=181
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=199
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1521
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=167125
+	}
+
+}
+558 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3550
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=6520
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1149
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=178
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=195
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1491
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=163838
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=580
+	}
+
+}
+559 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3215
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=5529
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1035
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=161
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=177
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1350
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=148358
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=900
+	}
+
+}
+560 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4774
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=9549
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1552
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=239
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=263
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=2005
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=220341
+	}
+
+}
+561 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=990
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=1833
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=319
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=50
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=416
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=45696
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=158
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1210
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=211
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=274
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5901
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=3
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=2
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=148
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=97
+	}
+
+}
+562 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=990
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=1980
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=322
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=50
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=416
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=45696
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=158
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1307
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=212
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=274
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5901
+	}
+
+}
+563 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=990
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=1980
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=322
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=50
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=416
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=45696
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=158
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1307
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=212
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=274
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5901
+	}
+
+}
+564 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=10501
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=20378
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=3407
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=525
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=578
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=4410
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=484630
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=893
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=11921
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1994
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=307
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=338
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=2580
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=26229
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=6
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=4
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=625
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=365
+	}
+
+}
+565 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=8328
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=16280
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=2700
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=416
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=458
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=3498
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=384318
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=583
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=9279
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1540
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=237
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=261
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1994
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=15036
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=6
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=4
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=376
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=214
+	}
+
+}
+566 = {
+	soldiers=
+	{
+		culture = french
+		religion = orthodox
+		size=6664
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = orthodox
+		size=13172
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = orthodox
+		size=2164
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = orthodox
+		size=333
+	}
+
+	officers=
+	{
+		culture = french
+		religion = orthodox
+		size=367
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = orthodox
+		size=2799
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = orthodox
+		size=307533
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=2566
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=11657
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=1915
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=295
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=324
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=2477
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=108904
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = jewish
+		size=295
+	}
+
+}
+568 = {
+	soldiers=
+	{
+		culture = french
+		religion = orthodox
+		size=2518
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = orthodox
+		size=5037
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = orthodox
+		size=818
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = orthodox
+		size=126
+	}
+
+	officers=
+	{
+		culture = french
+		religion = orthodox
+		size=139
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = orthodox
+		size=1058
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = orthodox
+		size=116224
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1020
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=4558
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=741
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=114
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=125
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=957
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=43483
+	}
+
+}
+567 = {
+	soldiers=
+	{
+		culture = french
+		religion = orthodox
+		size=2518
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = orthodox
+		size=5037
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = orthodox
+		size=818
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = orthodox
+		size=126
+	}
+
+	officers=
+	{
+		culture = french
+		religion = orthodox
+		size=139
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = orthodox
+		size=1058
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = orthodox
+		size=116224
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1020
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=4558
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=741
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=114
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=125
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=957
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=43483
+	}
+
+}
+2560 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=1134
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=2269
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=369
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=57
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=476
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=52352
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1418
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=230
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=35
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=298
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4928
+	}
+
+}
+569 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=5161
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=10078
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=1853
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=258
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=206
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=2168
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=238089
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = jewish
+		size=245
+	}
+
+}
+570 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=1134
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=1934
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=366
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=57
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=476
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=52352
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1209
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=229
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=35
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=298
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4928
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = jewish
+		size=3
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=2
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = jewish
+		size=335
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=210
+	}
+
+}
+571 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=7233
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=6748
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=1299
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=181
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=145
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=1521
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=163440
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = jewish
+		size=495
+	}
+
+}
+572 = {
+	soldiers=
+	{
+		culture = breton
+		religion = orthodox
+		size=2613
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = orthodox
+		size=5226
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = orthodox
+		size=849
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = orthodox
+		size=131
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = orthodox
+		size=144
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = orthodox
+		size=1097
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = orthodox
+		size=120587
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = cathar
+		size=875
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = cathar
+		size=4364
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = cathar
+		size=709
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = cathar
+		size=109
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = cathar
+		size=120
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = cathar
+		size=916
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = cathar
+		size=36674
+	}
+
+}
+573 = {
+	soldiers=
+	{
+		culture = breton
+		religion = orthodox
+		size=2613
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = orthodox
+		size=5226
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = orthodox
+		size=849
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = orthodox
+		size=131
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = orthodox
+		size=144
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = orthodox
+		size=1097
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = orthodox
+		size=120587
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = cathar
+		size=875
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = cathar
+		size=4364
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = cathar
+		size=709
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = cathar
+		size=109
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = cathar
+		size=120
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = cathar
+		size=916
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = cathar
+		size=36674
+	}
+
+}
+574 = {
+	soldiers=
+	{
+		culture = breton
+		religion = orthodox
+		size=3109
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = orthodox
+		size=6217
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = orthodox
+		size=1010
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = orthodox
+		size=155
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = orthodox
+		size=171
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = orthodox
+		size=1306
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = orthodox
+		size=143468
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = cathar
+		size=1119
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = cathar
+		size=5347
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = cathar
+		size=869
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = cathar
+		size=134
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = cathar
+		size=147
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = cathar
+		size=1123
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = cathar
+		size=47218
+	}
+
+}
+575 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3251
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=6154
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1051
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=163
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=179
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1365
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=150042
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=398
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3832
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=655
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=101
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=111
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=850
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=13747
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=6
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=4
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=348
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=217
+	}
+
+}
+576 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=2564
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=5127
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=833
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=128
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=141
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=1077
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=118315
+	}
+
+}
+577 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=2582
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=5165
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=839
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=129
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1085
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=119177
+	}
+
+}
+578 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2485
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=4970
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=808
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=124
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=137
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1044
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=114672
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=304
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3094
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=503
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=77
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=85
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=650
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=10506
+	}
+
+}
+579 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=8328
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=16655
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=2706
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=416
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=458
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=3498
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=384318
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=583
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=9493
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1543
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=237
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=261
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1994
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=15036
+	}
+
+}
+2561 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2485
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=4970
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=808
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=124
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=137
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1044
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=114672
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=304
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3094
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=503
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=77
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=85
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=650
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=10506
+	}
+
+}
+580 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1420
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2596
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=457
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=71
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=597
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=65545
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = jewish
+		size=245
+	}
+
+}
+581 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1420
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2841
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=462
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=71
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=597
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=65545
+	}
+
+}
+582 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1638
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=3277
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=533
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=82
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=90
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=688
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=75616
+	}
+
+}
+583 = {
+	soldiers=
+	{
+		culture = french
+		religion = orthodox
+		size=6944
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = orthodox
+		size=13888
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = orthodox
+		size=2257
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = orthodox
+		size=347
+	}
+
+	officers=
+	{
+		culture = french
+		religion = orthodox
+		size=382
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = orthodox
+		size=2917
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = orthodox
+		size=320468
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=2639
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=12222
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=1986
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=306
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=336
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=2567
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=111881
+	}
+
+}
+584 = {
+	soldiers=
+	{
+		culture = french
+		religion = orthodox
+		size=2518
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = orthodox
+		size=5037
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = orthodox
+		size=818
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = orthodox
+		size=126
+	}
+
+	officers=
+	{
+		culture = french
+		religion = orthodox
+		size=139
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = orthodox
+		size=1058
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = orthodox
+		size=116224
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1020
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=4558
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=741
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=114
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=125
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=957
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=43483
+	}
+
+}
+585 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1638
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=3277
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=533
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=82
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=90
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=688
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=75616
+	}
+
+}
+586 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=17006
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=33767
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=6117
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=850
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=680
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=7143
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=784497
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = jewish
+		size=245
+	}
+
+}
+587 = {
+	soldiers=
+	{
+		culture = french
+		religion = orthodox
+		size=2375
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = orthodox
+		size=4751
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = orthodox
+		size=772
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = orthodox
+		size=119
+	}
+
+	officers=
+	{
+		culture = french
+		religion = orthodox
+		size=131
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = orthodox
+		size=998
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = orthodox
+		size=109624
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=1063
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=4501
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=731
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=113
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=124
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=945
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=45673
+	}
+
+}
+588 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=3799
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=7598
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=1235
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=190
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=209
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=1596
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=175323
+	}
+
+}
+589 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=4756
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=9511
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=1712
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=238
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=190
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=1997
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=219376
+	}
+
+}
+590 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=6033
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=12066
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=2172
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=302
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=241
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=2534
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=278300
+	}
+
+}
+591 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=4756
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=9511
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=1712
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=238
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=190
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=1997
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=219376
+	}
+
+}
+592 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=10016
+	}
+
+	craftsmen=
+	{
+		culture = south_german
+		religion = cathar
+		size=5278
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=20033
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=3606
+	}
+
+	clerks=
+	{
+		culture = south_german
+		religion = cathar
+		size=362
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=501
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=401
+	}
+
+	capitalists=
+	{
+		culture = south_german
+		religion = cathar
+		size=176
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=4207
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=456235
+	}
+
+}
+593 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=7077
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=14153
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=2548
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=354
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=283
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=2972
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=326443
+	}
+
+}
+594 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=3799
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=7598
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=1235
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=190
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=209
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=1596
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=175323
+	}
+
+}
+595 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1607
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=5449
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1137
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=161
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=129
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=1350
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=149902
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = jewish
+		size=20
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = jewish
+		size=980
+	}
+
+}
+596 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=1134
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=2269
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=369
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=57
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=476
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=52352
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1418
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=230
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=35
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=298
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4928
+	}
+
+}
+597 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=13433
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=15825
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=2849
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=396
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=317
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=3323
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=359491
+	}
+
+}
+598 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=3483
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=6965
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=1132
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=296
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=139
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=1463
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=160656
+	}
+
+}
+599 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=4484
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=7742
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=1589
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=224
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=179
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=1883
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=206834
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = jewish
+		size=1225
+	}
+
+}
+600 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1629
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=6516
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1173
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=163
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=130
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=1368
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=151930
+	}
+
+}
+601 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=7233
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=9534
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=1716
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=238
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=191
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=2002
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=217444
+	}
+
+}
+602 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1839
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=7357
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1324
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=184
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=147
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=1545
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=171532
+	}
+
+}
+687 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=4811
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=9622
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=1564
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=409
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=192
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=2021
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=221943
+	}
+
+}
+695 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=2384
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=4273
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=770
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=203
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=131
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=1001
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=109929
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = jewish
+		size=495
+	}
+
+}
+697 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=2384
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=4768
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=775
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=203
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=131
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=1001
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=109929
+	}
+
+}

@@ -1,0 +1,605 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=-12
+		level=2
+	}
+	ARK=
+	{
+		value=61
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=67
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=61
+		level=2
+	}
+	BRZ=
+	{
+		value=-11
+		level=2
+	}
+	CAL=
+	{
+		value=79
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=43
+		level=2
+	}
+	DOM=
+	{
+		value=-11
+		level=2
+	}
+	GER=
+	{
+		value=-18
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=95
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=43
+		level=2
+	}
+	KUR=
+	{
+		value=19
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=-27
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=-8
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=32
+		level=2
+	}
+	SIA=
+	{
+		value=58
+		level=2
+	}
+	SII=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=61
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=-51
+		level=2
+	}
+	X03=
+	{
+		value=97
+		level=2
+	}
+	X05=
+	{
+		value=22
+		level=2
+	}
+	X08=
+	{
+		value=-111
+		level=2
+	}
+	X09=
+	{
+		value=-93
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=58
+		level=2
+	}
+	X19=
+	{
+		value=46
+		level=2
+	}
+	X22=
+	{
+		value=-134
+		level=2
+	}
+	X23=
+	{
+		value=-69
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=-334
+		level=2
+	}
+	X26=
+	{
+		value=-98
+		level=2
+	}
+	X28=
+	{
+		value=130
+		level=2
+	}
+	X29=
+	{
+		value=54
+		level=2
+	}
+	X30=
+	{
+		value=-12
+		level=2
+	}
+	X31=
+	{
+		value=-16
+		level=2
+	}
+	X32=
+	{
+		value=77
+		level=2
+	}
+	X33=
+	{
+		value=-181
+		level=2
+	}
+	X34=
+	{
+		value=-19
+		level=2
+	}
+	X35=
+	{
+		value=-8
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=79
+		level=3
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=834
+	ship = {
+		name="1st Silistria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Morea Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=826
+	ship = {
+		name="1st Burgas Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="37th Army"
+	location=877
+	regiment = {
+		name="1st Zitómir Infantry"
+		type=infantry
+		home=959
+	}
+	regiment = {
+		name="1st Pantikapes Infantry"
+		type=infantry
+		home=970
+	}
+	regiment = {
+		name="1st Tbilisi Infantry"
+		type=infantry
+		home=1090
+	}
+	regiment = {
+		name="1st Tserkássi Infantry"
+		type=infantry
+		home=961
+	}
+	regiment = {
+		name="1st Tromeró Infantry"
+		type=infantry
+		home=1053
+	}
+	regiment = {
+		name="1st Atzloún Infantry"
+		type=infantry
+		home=909
+	}
+	regiment = {
+		name="1st Derbént Infantry"
+		type=infantry
+		home=1103
+	}
+	regiment = {
+		name="1st Theodoroús Infantry"
+		type=infantry
+		home=967
+	}
+	regiment = {
+		name="1st Chersóna Infantry"
+		type=infantry
+		home=965
+	}
+	regiment = {
+		name="1st Vínitsa Infantry"
+		type=infantry
+		home=960
+	}
+	regiment = {
+		name="1st Tánaïs Infantry"
+		type=infantry
+		home=1047
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=863
+	ship = {
+		name="2nd Odishi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Cuscat	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Burgas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Melilla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Silistria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Corfu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Corfu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kabylia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Corfu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rosetta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oran Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=1560
+	ship = {
+		name="1st Asmat Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1040
+	regiment = {
+		name="2nd Vínitsa Infantry"
+		type=infantry
+		home=960
+	}
+	regiment = {
+		name="3rd Vínitsa Infantry"
+		type=infantry
+		home=960
+	}
+	regiment = {
+		name="1st Nikópolis Infantry"
+		type=infantry
+		home=866
+	}
+	regiment = {
+		name="1st Gángra Infantry"
+		type=infantry
+		home=880
+	}
+	regiment = {
+		name="1st Attáleia Infantry"
+		type=infantry
+		home=875
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=664
+	regiment = {
+		name="1st Athens Infantry"
+		type=infantry
+		home=835
+	}
+	regiment = {
+		name="1st Athens Infantry"
+		type=infantry
+		home=834
+	}
+	regiment = {
+		name="2nd Athens Infantry"
+		type=infantry
+		home=835
+	}
+	regiment = {
+		name="2nd Athens Infantry"
+		type=infantry
+		home=834
+	}
+	regiment = {
+		name="3rd Athens Infantry"
+		type=infantry
+		home=835
+	}
+	regiment = {
+		name="1st Athens Cavalry"
+		type=cavalry
+		home=834
+	}
+	regiment = {
+		name="1st Athens Cavalry"
+		type=cavalry
+		home=835
+	}
+	regiment = {
+		name="1st Athens Artillery"
+		type=artillery
+		home=835
+	}
+	regiment = {
+		name="1st Athens Artillery"
+		type=artillery
+		home=834
+	}
+	regiment = {
+		name="2nd Athens Artillery"
+		type=artillery
+		home=835
+	}
+	regiment = {
+		name="3rd Athens Infantry"
+		type=infantry
+		home=834
+	}
+	regiment = {
+		name="2nd Athens Cavalry"
+		type=cavalry
+		home=835
+	}
+	regiment = {
+		name="2nd Athens Artillery"
+		type=artillery
+		home=834
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1050
+	regiment = {
+		name="1st Guria Cavalry"
+		type=cavalry
+		home=1096
+	}
+}
+

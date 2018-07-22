@@ -1,0 +1,51 @@
+1876 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3137
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=6273
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1019
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=157
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=125
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1317
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=144809
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=CGS
+controller=CGS
+add_core=YUE
+add_core=CGS
+trade_goods = timber
+life_rating = 32

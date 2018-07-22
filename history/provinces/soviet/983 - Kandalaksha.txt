@@ -1,0 +1,7 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=SCA
+add_core=ICL
+trade_goods = sulphur
+life_rating = 35

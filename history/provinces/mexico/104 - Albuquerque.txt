@@ -1,0 +1,8 @@
+owner=X26
+controller=X26
+add_core=X35
+add_core=PUE
+add_core=X26
+trade_goods = cattle
+life_rating = 35
+colonial=2

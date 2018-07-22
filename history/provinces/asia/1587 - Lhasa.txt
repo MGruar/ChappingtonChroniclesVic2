@@ -1,0 +1,9 @@
+owner=X14
+controller=X14
+add_core=UTS
+add_core=X15
+add_core=SHU
+add_core=X14
+add_core=TIB
+trade_goods = cattle
+life_rating = 30

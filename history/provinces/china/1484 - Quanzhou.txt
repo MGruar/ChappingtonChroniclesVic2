@@ -1,0 +1,8 @@
+owner=CGS
+controller=CGS
+add_core=MIN
+add_core=NNG
+add_core=CGS
+add_core=CHI
+trade_goods = tea
+life_rating = 32

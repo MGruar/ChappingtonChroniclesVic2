@@ -1,0 +1,7 @@
+owner=X26
+controller=X26
+add_core=GRE
+add_core=X26
+add_core=TKS
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,625 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=-3
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=64
+		level=2
+	}
+	CAN=
+	{
+		value=-164
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=-51
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=85
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=-95
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=76
+		level=2
+	}
+	USA=
+	{
+		value=-74
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=-49
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=28
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=40
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=-60
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=3163
+	ship = {
+		name="1st 	Sabbiadoro sul Gran Fusto	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Esmeraldo	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Carcassa Ricca	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	San Fernando	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	Carcassa Ricca	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	San Fernando	 Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2961
+	ship = {
+		name="2nd 	San Fernando	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd 	Carcassa Ricca	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd 	San Fernando	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th 	San Fernando	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2973
+	ship = {
+		name="1st 	Meridiana	 Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3205
+	ship = {
+		name="1st 	Tepico	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2962
+	ship = {
+		name="4th 	Sabbiadoro sul Gran Fusto	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2162
+	regiment = {
+		name="1st 	Messico	 Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="1st 	Nuovo Veneto	 Infantry"
+		type=infantry
+		home=2158
+	}
+	regiment = {
+		name="1st 	San Carlo	 Infantry"
+		type=infantry
+		home=2146
+	}
+	regiment = {
+		name="1st 	San Fernando	 Infantry"
+		type=infantry
+		home=2150
+	}
+	regiment = {
+		name="1st 	S.Luigi Potosto	 Infantry"
+		type=infantry
+		home=2159
+	}
+	regiment = {
+		name="1st 	San Michele	 Artillery"
+		type=artillery
+		home=2167
+	}
+	regiment = {
+		name="2nd 	San Michele	 Artillery"
+		type=artillery
+		home=2167
+	}
+	regiment = {
+		name="1st 	S.Luigi Potosto	 Artillery"
+		type=artillery
+		home=2159
+	}
+	regiment = {
+		name="2nd 	Nuovo Veneto	 Infantry"
+		type=infantry
+		home=2158
+	}
+	regiment = {
+		name="1st 	Piedi Negri	 Cavalry"
+		type=cavalry
+		home=2147
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=3005
+	ship = {
+		name="4th 	San Fernando	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Nuovoreggio	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th 	San Fernando	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th 	San Fernando	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2983
+	ship = {
+		name="1st 	California Bassa	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	California Bassa	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2986
+	ship = {
+		name="1st 	Sabbiadoro sul Gran Fusto	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Sabbiadoro sul Gran Fusto	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Nuovoreggio	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Nuovoreggio	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd 	Nuovoreggio	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	San Fernando	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd 	Sabbiadoro sul Gran Fusto	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2149
+	regiment = {
+		name="1st 	Nuovoreggio	 Artillery"
+		type=artillery
+		home=2149
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2162
+	regiment = {
+		name="1st 	Catena di Corona	 Infantry"
+		type=infantry
+		home=2153
+	}
+	regiment = {
+		name="2nd 	Messico	 Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="3rd 	Messico	 Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="1st 	Montecasa	 Artillery"
+		type=artillery
+		home=2175
+	}
+	regiment = {
+		name="4th 	Messico	 Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="1st 	San Carlo	 Artillery"
+		type=artillery
+		home=2148
+	}
+}
+

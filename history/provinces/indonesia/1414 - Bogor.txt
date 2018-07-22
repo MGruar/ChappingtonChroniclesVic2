@@ -1,0 +1,8 @@
+owner=BRU
+controller=BRU
+add_core=SUN
+add_core=MAJ
+add_core=BRU
+add_core=JAV
+trade_goods = coffee
+life_rating = 30

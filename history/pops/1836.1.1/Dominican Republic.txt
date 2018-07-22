@@ -1,0 +1,116 @@
+2214 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=123721
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4207
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=8413
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1367
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=505
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=231
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1767
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=70115
+	}
+
+}
+2216 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=79236
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=10333
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=7395
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1202
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=444
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=203
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1553
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=84518
+	}
+
+}

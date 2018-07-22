@@ -1,0 +1,202 @@
+2234 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=153230
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3167
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=6334
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1029
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=380
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=174
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1330
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=158338
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3167
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=6334
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1029
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=380
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=174
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1330
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=62604
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1252
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2504
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=407
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=106
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=69
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=526
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=163110
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3262
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=6524
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1060
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=277
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=179
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1370
+	}
+
+}

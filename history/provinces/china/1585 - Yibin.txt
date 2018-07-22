@@ -1,0 +1,7 @@
+owner=HSE
+controller=HSE
+add_core=CYI
+add_core=HSE
+add_core=CHI
+trade_goods = tea
+life_rating = 32

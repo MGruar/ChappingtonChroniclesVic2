@@ -1,0 +1,17 @@
+owner=PAT
+controller=PAT
+add_core=PAT
+trade_goods = fish
+life_rating = 10
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

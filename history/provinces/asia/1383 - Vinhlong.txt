@@ -1,0 +1,7 @@
+owner=PSA
+controller=PSA
+add_core=CAM
+add_core=PSA
+add_core=IDC
+trade_goods = grain
+life_rating = 30

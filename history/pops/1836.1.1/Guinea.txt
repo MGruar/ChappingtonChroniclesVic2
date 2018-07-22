@@ -1,0 +1,311 @@
+1879 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=9851
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1576
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3153
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=512
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=134
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=63
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=662
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=62863
+	}
+
+}
+1880 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=3539
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1593
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3185
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=518
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=80
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=64
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=669
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=69982
+	}
+
+}
+1881 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=1651
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=745
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=121
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=19
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=156
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=14885
+	}
+
+}
+1882 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=1434
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=745
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=121
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=19
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=156
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = cathar
+		size=15102
+	}
+
+}
+1883 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=800
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=400
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=1650
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=425
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=32725
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = sunni
+		size=100
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = sunni
+		size=50
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = sunni
+		size=250
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = sunni
+		size=50
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = sunni
+		size=4550
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=5000
+	}
+
+}

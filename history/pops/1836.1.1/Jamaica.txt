@@ -1,0 +1,151 @@
+2217 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=192358
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=4066
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=8131
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=1321
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=488
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=224
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=1708
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=88004
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1860
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=7785
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1265
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=467
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=214
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1635
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=126650
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2533
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=5066
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=823
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=215
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=139
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1064
+	}
+
+}

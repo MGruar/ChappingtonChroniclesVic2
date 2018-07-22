@@ -1,0 +1,485 @@
+2115 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1495
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=2991
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=486
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=75
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=82
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=628
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=69009
+	}
+
+}
+2116 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=2732
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=5463
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=888
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=137
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=150
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1147
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=126064
+	}
+
+}
+2118 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=2078
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=4157
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=676
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=104
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=114
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=873
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=95922
+	}
+
+}
+2119 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=38609
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=3199
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=6398
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1040
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=160
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=176
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1344
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=109028
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=193
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = cathar
+		size=16
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = cathar
+		size=3231
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = cathar
+		size=525
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = cathar
+		size=81
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = cathar
+		size=89
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = cathar
+		size=679
+	}
+
+}
+2120 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=22912
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1986
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=3972
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=645
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=99
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=834
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=68731
+	}
+
+}
+2117 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=2639
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=5277
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=858
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=132
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=145
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1108
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=121773
+	}
+
+}
+2121 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=16899
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1477
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=2954
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=480
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=74
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=81
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=620
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=51261
+	}
+
+}
+2122 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=48797
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=3833
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=7666
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1246
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=192
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=211
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1610
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=128085
+	}
+
+}

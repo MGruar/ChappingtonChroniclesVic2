@@ -1,0 +1,8 @@
+owner=TID
+controller=TID
+add_core=MAJ
+add_core=MKS
+add_core=TID
+add_core=JAV
+trade_goods = fish
+life_rating = 30

@@ -1,0 +1,400 @@
+2197 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=361
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size=2150
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size=349
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=102
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size=59
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=452
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=32654
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = cathar
+		size=145
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = cathar
+		size=1988
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = cathar
+		size=323
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = cathar
+		size=94
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = cathar
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = cathar
+		size=417
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = cathar
+		size=11429
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=361
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size=2150
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size=349
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=102
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size=59
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=452
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=32654
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = cathar
+		size=145
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = cathar
+		size=1988
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = cathar
+		size=323
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = cathar
+		size=94
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = cathar
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = cathar
+		size=417
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = cathar
+		size=11429
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=2247
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size=4494
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size=753
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=191
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size=124
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=944
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=103587
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = cathar
+		size=1123
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = cathar
+		size=4494
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = cathar
+		size=753
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = cathar
+		size=191
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = cathar
+		size=124
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = cathar
+		size=944
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = cathar
+		size=48541
+	}
+
+}
+2200 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=992
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size=1984
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size=332
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=84
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=417
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=45738
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = cathar
+		size=455
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = cathar
+		size=1902
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = cathar
+		size=319
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = cathar
+		size=81
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = cathar
+		size=52
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = cathar
+		size=399
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = cathar
+		size=19547
+	}
+
+}

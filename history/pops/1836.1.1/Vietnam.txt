@@ -1,0 +1,1003 @@
+1369 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=17258
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=8715
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=17431
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=2832
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=436
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=349
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=3660
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=385085
+	}
+
+}
+1370 = {
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=2768
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=5537
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=900
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=138
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=111
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=1163
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=127799
+	}
+
+}
+1371 = {
+	slaves=
+	{
+		culture = zhuang
+		religion = mahayana
+		size=3367
+	}
+
+	soldiers=
+	{
+		culture = zhuang
+		religion = mahayana
+		size=2359
+	}
+
+	artisans=
+	{
+		culture = zhuang
+		religion = mahayana
+		size=4718
+	}
+
+	clergymen=
+	{
+		culture = zhuang
+		religion = mahayana
+		size=767
+	}
+
+	bureaucrats=
+	{
+		culture = zhuang
+		religion = mahayana
+		size=118
+	}
+
+	officers=
+	{
+		culture = zhuang
+		religion = mahayana
+		size=94
+	}
+
+	aristocrats=
+	{
+		culture = zhuang
+		religion = mahayana
+		size=991
+	}
+
+	farmers=
+	{
+		culture = zhuang
+		religion = mahayana
+		size=105531
+	}
+
+}
+1372 = {
+	slaves=
+	{
+		culture = lao
+		religion = theravada
+		size=1251
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size=1711
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size=3422
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size=556
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size=86
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size=68
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size=719
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size=77728
+	}
+
+}
+1373 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=3414
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=2768
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=5537
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=900
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=138
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=111
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=1163
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=124385
+	}
+
+}
+1374 = {
+	slaves=
+	{
+		culture = cantonese
+		religion = mahayana
+		size=4332
+	}
+
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size=3582
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size=7163
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size=1164
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size=179
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size=143
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size=1504
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size=161019
+	}
+
+}
+1375 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=6977
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=7233
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=8373
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=1361
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=209
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=167
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=1758
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size=183255
+	}
+
+}
+1376 = {
+	soldiers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=3648
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=593
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=91
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=73
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=766
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=81886
+	}
+
+}
+1377 = {
+	slaves=
+	{
+		culture = cham
+		religion = theravada
+		size=3794
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=2621
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=5242
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=852
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=131
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=105
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=1101
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=117214
+	}
+
+}
+1378 = {
+	slaves=
+	{
+		culture = cham
+		religion = theravada
+		size=4802
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=1921
+	}
+
+	craftsmen=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=2639
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=3842
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=624
+	}
+
+	clerks=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=181
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=96
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=77
+	}
+
+	capitalists=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=807
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=80974
+	}
+
+}
+1379 = {
+	soldiers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=1485
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=2970
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=483
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=74
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=59
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=624
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=68549
+	}
+
+}
+1380 = {
+	slaves=
+	{
+		culture = khmer
+		religion = theravada
+		size=8321
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size=4413
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size=8825
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size=1434
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = theravada
+		size=375
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = theravada
+		size=177
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size=1853
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size=195233
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = sunni
+		size=1872
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = sunni
+		size=993
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = sunni
+		size=6398
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = sunni
+		size=1040
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = sunni
+		size=272
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = sunni
+		size=128
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = sunni
+		size=1344
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = sunni
+		size=37595
+	}
+
+}
+1381 = {
+	soldiers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=4665
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=9329
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=1516
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=233
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=187
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=1959
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = theravada
+		size=215342
+	}
+
+}
+1382 = {
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size=2177
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size=4354
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size=708
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = theravada
+		size=185
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = theravada
+		size=87
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size=914
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size=100434
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = sunni
+		size=504
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = sunni
+		size=3186
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = sunni
+		size=518
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = sunni
+		size=135
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = sunni
+		size=64
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = sunni
+		size=669
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = sunni
+		size=20143
+	}
+
+}
+1383 = {
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size=2177
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size=4354
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size=708
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = theravada
+		size=185
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = theravada
+		size=87
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size=914
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size=100434
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = sunni
+		size=504
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = sunni
+		size=3186
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = sunni
+		size=518
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = sunni
+		size=135
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = sunni
+		size=64
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = sunni
+		size=669
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = sunni
+		size=20143
+	}
+
+}

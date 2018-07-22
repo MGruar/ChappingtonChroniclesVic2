@@ -1,0 +1,6 @@
+owner=RWA
+controller=RWA
+add_core=RWA
+add_core=BUG
+trade_goods = cotton
+life_rating = 15

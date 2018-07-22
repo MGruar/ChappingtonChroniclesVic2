@@ -1,0 +1,954 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=77
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=67
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=64
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=61
+		level=2
+	}
+	CAN=
+	{
+		value=95
+		level=3
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=79
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=26
+		level=2
+	}
+	FIN=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=5
+		level=2
+	}
+	GRE=
+	{
+		value=-11
+		level=2
+	}
+	HAI=
+	{
+		value=89
+		level=3
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=70
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=2
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=10
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=57
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=-30
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=70
+		level=2
+	}
+	POM=
+	{
+		value=1
+		level=2
+	}
+	PSA=
+	{
+		value=91
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=94
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=85
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=-13
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=-20
+		level=2
+	}
+	X09=
+	{
+		value=-46
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=-5
+		level=3
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=6
+		level=2
+	}
+	X24=
+	{
+		value=7
+		level=2
+	}
+	X25=
+	{
+		value=20
+		level=2
+	}
+	X26=
+	{
+		value=-41
+		level=2
+	}
+	X28=
+	{
+		value=81
+		level=2
+	}
+	X29=
+	{
+		value=64
+		level=2
+	}
+	X30=
+	{
+		value=70
+		level=5
+	}
+	X31=
+	{
+		value=63
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=13
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=79
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="13th Fleet"
+	location=2759
+	ship = {
+		name="1st Tangiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tunis Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tangiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tlemcen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tlemcen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tlemcen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tangiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Missina Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="13th Army"
+	location=2073
+	regiment = {
+		name="1st Tadmekka Infantry"
+		type=infantry
+		home=1807
+	}
+	regiment = {
+		name="1st Kawar Infantry"
+		type=infantry
+		home=1817
+	}
+	regiment = {
+		name="1st Daura Infantry"
+		type=infantry
+		home=1811
+	}
+	regiment = {
+		name="1st Pepper Coast Artillery"
+		type=artillery
+		home=1887
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1919
+	regiment = {
+		name="1st Jufra Infantry"
+		type=infantry
+		home=1732
+	}
+	regiment = {
+		name="1st Moshi Infantry"
+		type=infantry
+		home=1921
+	}
+	regiment = {
+		name="1st Bizerta Infantry"
+		type=infantry
+		home=1726
+	}
+	regiment = {
+		name="1st Annaba Infantry"
+		type=infantry
+		home=1709
+	}
+	regiment = {
+		name="1st Figuig Infantry"
+		type=infantry
+		home=1697
+	}
+	regiment = {
+		name="1st Taudeni Artillery"
+		type=artillery
+		home=1806
+	}
+	regiment = {
+		name="1st Jufra Artillery"
+		type=artillery
+		home=1732
+	}
+	regiment = {
+		name="2nd Jufra Artillery"
+		type=artillery
+		home=1732
+	}
+	regiment = {
+		name="6th Jufra Infantry"
+		type=infantry
+		home=1732
+	}
+	regiment = {
+		name="1st Lobi Artillery"
+		type=artillery
+		home=1905
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1918
+	regiment = {
+		name="1st Djado Infantry"
+		type=infantry
+		home=1814
+	}
+	regiment = {
+		name="1st Air Infantry"
+		type=infantry
+		home=1813
+	}
+	regiment = {
+		name="2nd Jufra Infantry"
+		type=infantry
+		home=1732
+	}
+	regiment = {
+		name="1st Dendi Infantry"
+		type=infantry
+		home=1809
+	}
+	regiment = {
+		name="1st Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+	regiment = {
+		name="1st Hombori Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="2nd Taudeni Artillery"
+		type=artillery
+		home=1806
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1972
+	regiment = {
+		name="3rd Jufra Infantry"
+		type=infantry
+		home=1732
+	}
+	regiment = {
+		name="1st Kasdir Infantry"
+		type=infantry
+		home=1715
+	}
+	regiment = {
+		name="1st Yawuri Infantry"
+		type=infantry
+		home=1941
+	}
+	regiment = {
+		name="4th Jufra Infantry"
+		type=infantry
+		home=1732
+	}
+	regiment = {
+		name="3rd Taudeni Artillery"
+		type=artillery
+		home=1806
+	}
+	regiment = {
+		name="1st Dendi Artillery"
+		type=artillery
+		home=1809
+	}
+	regiment = {
+		name="2nd Figuig Infantry"
+		type=infantry
+		home=1697
+	}
+	regiment = {
+		name="1st Bendugu Artillery"
+		type=artillery
+		home=1799
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2923
+	ship = {
+		name="1st Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Tlemcen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sousse Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Djerba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tangiers Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tangiers Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Algiers Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Benghazi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Algiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kabylia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sirt Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kabylia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gharb Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Algiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tunis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Djerba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tlemcen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trebizond Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Kabylia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gharb Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tangiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tlemcen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Algiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Gharb Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Djerba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Algiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tlemcen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Tlemcen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Benghazi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Tlemcen Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1936
+	regiment = {
+		name="1st Taudeni Infantry"
+		type=infantry
+		home=1806
+	}
+	regiment = {
+		name="5th Jufra Infantry"
+		type=infantry
+		home=1732
+	}
+	regiment = {
+		name="1st Dahra Infantry"
+		type=infantry
+		home=1706
+	}
+	regiment = {
+		name="1st Zarmaganda Infantry"
+		type=infantry
+		home=1808
+	}
+	regiment = {
+		name="1st Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="1st Zuwarah Infantry"
+		type=infantry
+		home=1731
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1948
+	regiment = {
+		name="1st Saoura Infantry"
+		type=infantry
+		home=1698
+	}
+	regiment = {
+		name="1st Titteri Infantry"
+		type=infantry
+		home=1713
+	}
+	regiment = {
+		name="2nd Dendi Artillery"
+		type=artillery
+		home=1809
+	}
+}
+
+army = {
+	name="24th Army"
+	location=1946
+	regiment = {
+		name="2nd Saoura Infantry"
+		type=infantry
+		home=1698
+	}
+	regiment = {
+		name="1st Tuat Infantry"
+		type=infantry
+		home=1717
+	}
+	regiment = {
+		name="1st Gyaaman Artillery"
+		type=artillery
+		home=1897
+	}
+}
+
+army = {
+	name="50th Army"
+	location=1938
+	regiment = {
+		name="2nd Titteri Infantry"
+		type=infantry
+		home=1713
+	}
+	regiment = {
+		name="1st Bure Infantry"
+		type=infantry
+		home=1882
+	}
+}
+
+army = {
+	name="29th Army"
+	location=1741
+	regiment = {
+		name="1st Bure Infantry"
+		type=infantry
+		home=1881
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2771
+	ship = {
+		name="1st Tlemcen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sirt Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2624
+	regiment = {
+		name="1st Draa Infantry"
+		type=infantry
+		home=1699
+	}
+	regiment = {
+		name="1st Tajhari Infantry"
+		type=infantry
+		home=1741
+	}
+	regiment = {
+		name="4th Taudeni Artillery"
+		type=artillery
+		home=1806
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2745
+	ship = {
+		name="1st Tunis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Constantinople Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2924
+	ship = {
+		name="1st Kabylia Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2746
+	ship = {
+		name="6th Algiers Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2198
+	regiment = {
+		name="1st 	New Biggar	 Infantry"
+		type=infantry
+		home=2414
+	}
+	regiment = {
+		name="1st 	Oughtham Rake	 Cavalry"
+		type=cavalry
+		home=2239
+	}
+	regiment = {
+		name="1st 	New Biggar	 Artillery"
+		type=artillery
+		home=2414
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2201
+	ship = {
+		name="1st 	Montrose Sea	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	Montrose Sea	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2199
+	ship = {
+		name="1st 	Endeavour	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Banffsmith	 Man'o'war"
+		type=manowar
+	}
+}
+

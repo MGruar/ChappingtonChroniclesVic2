@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4828
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=12986
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=2110
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=325
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=260
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=2727
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=218179
+	}
+
+}

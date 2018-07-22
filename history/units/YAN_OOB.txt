@@ -1,0 +1,873 @@
+#Sphere of Influence
+
+	ANU=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=67
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=116
+		level=5
+	}
+	BRU=
+	{
+		value=88
+		level=3
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=35
+		level=2
+	}
+	CAN=
+	{
+		value=-78
+		level=2
+	}
+	CGS=
+	{
+		value=98
+		level=3
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=72
+		level=5
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=62
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=79
+		level=2
+	}
+	JAP=
+	{
+		value=8
+		level=2
+	}
+	KHA=
+	{
+		value=84
+		level=5
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=13
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=1
+		level=2
+	}
+	NNG=
+	{
+		value=73
+		level=2
+	}
+	OUC=
+	{
+		value=49
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=97
+		level=3
+	}
+	SIA=
+	{
+		value=91
+		level=2
+	}
+	SMZ=
+	{
+		value=91
+		level=5
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=94
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=97
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=82
+		level=5
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=97
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=91
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=36
+		level=2
+	}
+	X33=
+	{
+		value=7
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=90
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2838
+	ship = {
+		name="1st Wuding Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Beijing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yongping Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Beijing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zhending Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Zhending Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Zhending Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Beijing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Yongping Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Yongping Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Beijing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	King Island	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Beijing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Beijing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Laizhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yongping Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Yongping Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zhending Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Yongping Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jingcheng Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shenyang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Beijing Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Wuding Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Yongping Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tlingit Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Beijing Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zhending Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Yongping Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1330
+	regiment = {
+		name="1st Baoding Infantry"
+		type=infantry
+		home=1618
+	}
+	regiment = {
+		name="1st Aigun Infantry"
+		type=infantry
+		home=1553
+	}
+	regiment = {
+		name="1st Daming Infantry"
+		type=infantry
+		home=1614
+	}
+	regiment = {
+		name="1st Zhending Artillery"
+		type=artillery
+		home=1615
+	}
+	regiment = {
+		name="1st Yongping Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Taining Artillery"
+		type=artillery
+		home=1533
+	}
+	regiment = {
+		name="2nd Daming Infantry"
+		type=infantry
+		home=1614
+	}
+	regiment = {
+		name="1st Yongping Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Kaifeng Artillery"
+		type=artillery
+		home=1508
+	}
+}
+
+navy = {
+	name="18th Fleet"
+	location=2841
+	ship = {
+		name="1st Huaiyin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Shenyang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Zhending Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zhending Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yongping Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Yongping Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kuye Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shk'ituk't Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Beijing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hawai'i Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Yongping Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pijin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	King Island	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zhending Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Beijing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	King Island	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haizhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hawai'i Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jingcheng Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shk'ituk't Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Zhending Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Yongping Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Zhending Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1503
+	regiment = {
+		name="2nd Baoding Infantry"
+		type=infantry
+		home=1618
+	}
+	regiment = {
+		name="3rd Baoding Infantry"
+		type=infantry
+		home=1618
+	}
+	regiment = {
+		name="1st Pijin Infantry"
+		type=infantry
+		home=1083
+	}
+	regiment = {
+		name="1st Shenyang Infantry"
+		type=infantry
+		home=1480
+	}
+	regiment = {
+		name="1st Zhending Infantry"
+		type=infantry
+		home=1617
+	}
+	regiment = {
+		name="1st Haizhou Infantry"
+		type=infantry
+		home=1542
+	}
+	regiment = {
+		name="4th Baoding Infantry"
+		type=infantry
+		home=1618
+	}
+	regiment = {
+		name="1st Yongping Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="1st Beijing Infantry"
+		type=infantry
+		home=1616
+	}
+	regiment = {
+		name="1st Beijing Cavalry"
+		type=cavalry
+		home=1612
+	}
+	regiment = {
+		name="1st Nanyang Artillery"
+		type=artillery
+		home=1513
+	}
+	regiment = {
+		name="1st Jinzhou Artillery"
+		type=artillery
+		home=1635
+	}
+	regiment = {
+		name="1st Hangzhou Artillery"
+		type=artillery
+		home=1606
+	}
+	regiment = {
+		name="1st Taiyuan Artillery"
+		type=artillery
+		home=1573
+	}
+	regiment = {
+		name="1st Shangqiu Artillery"
+		type=artillery
+		home=1509
+	}
+	regiment = {
+		name="1st Daming Artillery"
+		type=artillery
+		home=1614
+	}
+	regiment = {
+		name="2nd Yongping Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="3rd Yongping Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Taining Cavalry"
+		type=cavalry
+		home=1533
+	}
+	regiment = {
+		name="1st Baoding Artillery"
+		type=artillery
+		home=1618
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1660
+	regiment = {
+		name="5th Baoding Infantry"
+		type=infantry
+		home=1618
+	}
+	regiment = {
+		name="2nd Pijin Infantry"
+		type=infantry
+		home=1083
+	}
+	regiment = {
+		name="1st Jiangyuan Infantry"
+		type=infantry
+		home=1631
+	}
+	regiment = {
+		name="2nd Yongping Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="1st Hulan Infantry"
+		type=infantry
+		home=1002
+	}
+	regiment = {
+		name="1st Gaizhou Artillery"
+		type=artillery
+		home=1479
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2634
+	regiment = {
+		name="6th Baoding Infantry"
+		type=infantry
+		home=1618
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1617
+	ship = {
+		name="3rd Shenyang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kuye Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Shenyang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Zhending Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Zhending Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gaizhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Zhending Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gaizhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Zhending Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Zhending Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tauysk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Zhending Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Yongping Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Zhending Frigate"
+		type=frigate
+	}
+}
+

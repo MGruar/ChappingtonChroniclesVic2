@@ -1,0 +1,200 @@
+1485 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = theravada
+		size=566
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = theravada
+		size=2264
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = theravada
+		size=368
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = theravada
+		size=68
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = theravada
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = theravada
+		size=475
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = theravada
+		size=52820
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = sunni
+		size=113
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = sunni
+		size=1583
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = sunni
+		size=257
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = sunni
+		size=47
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = sunni
+		size=32
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = sunni
+		size=332
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = sunni
+		size=8915
+	}
+
+}
+2562 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = theravada
+		size=566
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = theravada
+		size=2264
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = theravada
+		size=368
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = theravada
+		size=68
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = theravada
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = theravada
+		size=475
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = theravada
+		size=52820
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = sunni
+		size=113
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = sunni
+		size=1583
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = sunni
+		size=257
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = sunni
+		size=47
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = sunni
+		size=32
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = sunni
+		size=332
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = sunni
+		size=8915
+	}
+
+}

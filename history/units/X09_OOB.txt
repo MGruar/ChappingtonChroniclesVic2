@@ -1,0 +1,679 @@
+#Sphere of Influence
+
+	ARA=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=54
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=76
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	FIN=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=147
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=53
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=-96
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=15
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=15
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=-1
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=-1
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="4th Army"
+	location=1151
+	regiment = {
+		name="1st Tagale Infantry"
+		type=infantry
+		home=1840
+	}
+	regiment = {
+		name="1st Gonder Infantry"
+		type=infantry
+		home=1853
+	}
+	regiment = {
+		name="1st Hargeysa Infantry"
+		type=infantry
+		home=1873
+	}
+	regiment = {
+		name="1st Aswan Artillery"
+		type=artillery
+		home=1766
+	}
+	regiment = {
+		name="1st Shewa Artillery"
+		type=artillery
+		home=1859
+	}
+	regiment = {
+		name="1st Manfalut Cavalry"
+		type=cavalry
+		home=2559
+	}
+	regiment = {
+		name="1st Dembiya Artillery"
+		type=artillery
+		home=1854
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2782
+	ship = {
+		name="3rd Sharqiya Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1152
+	regiment = {
+		name="1st el-Gadarif Infantry"
+		type=infantry
+		home=1830
+	}
+	regiment = {
+		name="1st Farafreh Artillery"
+		type=artillery
+		home=1759
+	}
+	regiment = {
+		name="1st Gonder Artillery"
+		type=artillery
+		home=1853
+	}
+	regiment = {
+		name="2nd el-Gadarif Infantry"
+		type=infantry
+		home=1830
+	}
+	regiment = {
+		name="1st Minya Cavalry"
+		type=cavalry
+		home=1764
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2782
+	ship = {
+		name="2nd Sharqiya Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="25th Army"
+	location=1859
+	regiment = {
+		name="1st Queseer Infantry"
+		type=infantry
+		home=1770
+	}
+	regiment = {
+		name="1st Minya Infantry"
+		type=infantry
+		home=1764
+	}
+	regiment = {
+		name="1st Kharga Artillery"
+		type=artillery
+		home=1760
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1873
+	ship = {
+		name="1st Sina Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1757
+	ship = {
+		name="1st Ghazzah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ghazzah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hala'ib Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ghazzah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sharqiya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ras Gharib Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ras Gharib Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1873
+	regiment = {
+		name="2nd Farafreh Artillery"
+		type=artillery
+		home=1759
+	}
+	regiment = {
+		name="1st Qus Infantry"
+		type=infantry
+		home=1769
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2769
+	ship = {
+		name="1st Queseer Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=1834
+	ship = {
+		name="1st Sharqiya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sharqiya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hargeysa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Queseer Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Missiwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Queseer Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sharqiya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Missiwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ras Gharib Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Sharqiya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ras Gharib Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Queseer Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ras Gharib Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ras Gharib Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=920
+	ship = {
+		name="4th Sharqiya Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=1755
+	ship = {
+		name="1st Hala'ib Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,7 @@
+owner=PSA
+controller=PSA
+add_core=PSA
+add_core=NGP
+add_core=HND
+trade_goods = grain
+life_rating = 30

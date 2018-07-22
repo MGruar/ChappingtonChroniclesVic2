@@ -1,0 +1,987 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=82
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=61
+		level=2
+	}
+	BNG=
+	{
+		value=-92
+		level=2
+	}
+	BRT=
+	{
+		value=79
+		level=2
+	}
+	BRU=
+	{
+		value=67
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=-48
+		level=5
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=82
+		level=3
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=82
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=64
+		level=2
+	}
+	DOM=
+	{
+		value=52
+		level=2
+	}
+	FIN=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=5
+		level=2
+	}
+	GRE=
+	{
+		value=-102
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=77
+		level=2
+	}
+	JAP=
+	{
+		value=5
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=79
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=91
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=3
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=85
+		level=2
+	}
+	NNG=
+	{
+		value=55
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=-15
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=91
+		level=2
+	}
+	SIA=
+	{
+		value=82
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=85
+		level=2
+	}
+	TID=
+	{
+		value=94
+		level=2
+	}
+	UCA=
+	{
+		value=52
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=-236
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=85
+		level=3
+	}
+	X13=
+	{
+		value=85
+		level=5
+	}
+	X14=
+	{
+		value=6
+		level=2
+	}
+	X18=
+	{
+		value=76
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=6
+		level=2
+	}
+	X24=
+	{
+		value=55
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=-9
+		level=2
+	}
+	X29=
+	{
+		value=51
+		level=5
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=64
+		level=2
+	}
+	X32=
+	{
+		value=-53
+		level=5
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=88
+		level=2
+	}
+	YAN=
+	{
+		value=88
+		level=2
+	}
+	YAR=
+	{
+		value=91
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="11th Fleet"
+	location=1309
+	ship = {
+		name="1st Maldives Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kochin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Medinipura Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Suryapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ratnagiri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st North Kanara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Goa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Arkatu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Konasima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ratnagiri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st South Kanara Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1317
+	regiment = {
+		name="1st Sehwan Infantry"
+		type=infantry
+		home=1289
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1200
+	regiment = {
+		name="1st Varanasi Infantry"
+		type=infantry
+		home=1245
+	}
+	regiment = {
+		name="1st Bidar Infantry"
+		type=infantry
+		home=1286
+	}
+	regiment = {
+		name="1st Köneürgenç Infantry"
+		type=infantry
+		home=1192
+	}
+	regiment = {
+		name="2nd Varanasi Infantry"
+		type=infantry
+		home=1245
+	}
+	regiment = {
+		name="1st Ratnagiri Artillery"
+		type=artillery
+		home=1301
+	}
+	regiment = {
+		name="1st Baglana Artillery"
+		type=artillery
+		home=1298
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1304
+	regiment = {
+		name="1st Caubisi Rajya Infantry"
+		type=infantry
+		home=1327
+	}
+	regiment = {
+		name="1st Kama Doaba Infantry"
+		type=infantry
+		home=1243
+	}
+	regiment = {
+		name="2nd Kama Doaba Infantry"
+		type=infantry
+		home=1243
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2535
+	regiment = {
+		name="1st North Kanara Infantry"
+		type=infantry
+		home=1302
+	}
+	regiment = {
+		name="1st Syghanaq Infantry"
+		type=infantry
+		home=1193
+	}
+	regiment = {
+		name="2nd Syghanaq Infantry"
+		type=infantry
+		home=1193
+	}
+	regiment = {
+		name="1st Bundelakhanda Infantry"
+		type=infantry
+		home=1273
+	}
+	regiment = {
+		name="1st Bidar Artillery"
+		type=artillery
+		home=1286
+	}
+	regiment = {
+		name="1st Xigazê Artillery"
+		type=artillery
+		home=1589
+	}
+}
+
+army = {
+	name="19th Army"
+	location=1328
+	regiment = {
+		name="1st Mandala Infantry"
+		type=infantry
+		home=1281
+	}
+	regiment = {
+		name="1st Marathwada Infantry"
+		type=infantry
+		home=1284
+	}
+	regiment = {
+		name="3rd Varanasi Infantry"
+		type=infantry
+		home=1245
+	}
+	regiment = {
+		name="1st Mahura Infantry"
+		type=infantry
+		home=1285
+	}
+	regiment = {
+		name="1st Changtang Infantry"
+		type=infantry
+		home=1591
+	}
+	regiment = {
+		name="1st Varangal Infantry"
+		type=infantry
+		home=1287
+	}
+	regiment = {
+		name="1st Rayalasima Artillery"
+		type=artillery
+		home=1308
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1312
+	regiment = {
+		name="1st Gorakhapura Infantry"
+		type=infantry
+		home=1246
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1594
+	regiment = {
+		name="1st Baghelakhanda Infantry"
+		type=infantry
+		home=1274
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1304
+	regiment = {
+		name="2nd Baglana Infantry"
+		type=infantry
+		home=1298
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2862
+	ship = {
+		name="1st Arkatu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ratnagiri Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=1303
+	ship = {
+		name="1st Malabar Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=3067
+	ship = {
+		name="1st North Kanara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tirunelveli Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1207
+	regiment = {
+		name="1st Tiruchirappalli Infantry"
+		type=infantry
+		home=1309
+	}
+	regiment = {
+		name="1st Kalapi Infantry"
+		type=infantry
+		home=1241
+	}
+	regiment = {
+		name="1st Badakhshan Infantry"
+		type=infantry
+		home=1210
+	}
+	regiment = {
+		name="1st Xigazê Infantry"
+		type=infantry
+		home=1589
+	}
+	regiment = {
+		name="1st Tiruchirappalli Artillery"
+		type=artillery
+		home=1309
+	}
+	regiment = {
+		name="1st Maisuru Infantry"
+		type=infantry
+		home=1314
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=3067
+	ship = {
+		name="1st Arkatu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st South Kanara Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1284
+	regiment = {
+		name="2nd Badakhshan Infantry"
+		type=infantry
+		home=1210
+	}
+	regiment = {
+		name="3rd Badakhshan Infantry"
+		type=infantry
+		home=1210
+	}
+	regiment = {
+		name="1st Baglana Infantry"
+		type=infantry
+		home=1298
+	}
+	regiment = {
+		name="1st Garjata Infantry"
+		type=infantry
+		home=1305
+	}
+	regiment = {
+		name="1st Surguja Infantry"
+		type=infantry
+		home=1282
+	}
+	regiment = {
+		name="2nd Tiruchirappalli Artillery"
+		type=artillery
+		home=1309
+	}
+	regiment = {
+		name="2nd Patana Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="1st Kama Doaba Cavalry"
+		type=cavalry
+		home=1243
+	}
+	regiment = {
+		name="1st Medinipura Artillery"
+		type=artillery
+		home=1261
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2789
+	ship = {
+		name="1st Kochin Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2885
+	ship = {
+		name="1st South Kanara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Arkatu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Venad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Konasima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Medinipura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Medinipura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Malabar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Malabar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maldives Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arkatu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Venad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Garjata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Venad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Medinipura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tiruchirappalli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kochin Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1210
+	regiment = {
+		name="1st East Berar Infantry"
+		type=infantry
+		home=1277
+	}
+	regiment = {
+		name="2nd Xigazê Infantry"
+		type=infantry
+		home=1589
+	}
+	regiment = {
+		name="1st Ratnagiri Infantry"
+		type=infantry
+		home=1301
+	}
+	regiment = {
+		name="1st West Berar Infantry"
+		type=infantry
+		home=1278
+	}
+	regiment = {
+		name="1st Fargona Artillery"
+		type=artillery
+		home=1189
+	}
+	regiment = {
+		name="1st Konasima Infantry"
+		type=infantry
+		home=1306
+	}
+}
+
+army = {
+	name="29th Army"
+	location=1279
+	regiment = {
+		name="1st Rayalasima Infantry"
+		type=infantry
+		home=1308
+	}
+	regiment = {
+		name="1st Patana Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="4th Badakhshan Infantry"
+		type=infantry
+		home=1210
+	}
+	regiment = {
+		name="1st Toshkent Infantry"
+		type=infantry
+		home=1195
+	}
+	regiment = {
+		name="1st Medinipura Infantry"
+		type=infantry
+		home=1261
+	}
+	regiment = {
+		name="2nd Toshkent Infantry"
+		type=infantry
+		home=1195
+	}
+	regiment = {
+		name="1st Morasanadu Artillery"
+		type=artillery
+		home=1313
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=2792
+	ship = {
+		name="4th Medinipura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tirunelveli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tiruchirappalli Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1318
+	regiment = {
+		name="1st Andhra Infantry"
+		type=infantry
+		home=1307
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=1310
+	ship = {
+		name="1st Ratnagiri Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tirunelveli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Poso Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="19th Fleet"
+	location=2793
+	ship = {
+		name="3rd Mahanuwara Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=1305
+	ship = {
+		name="1st Suryapur Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="14th Fleet"
+	location=1312
+	ship = {
+		name="2nd Arkatu Clipper Transport"
+		type=clipper_transport
+	}
+}
+

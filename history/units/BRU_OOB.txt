@@ -1,0 +1,844 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=73
+		level=3
+	}
+	BNG=
+	{
+		value=72
+		level=3
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=7
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=0
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=-76
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=94
+		level=2
+	}
+	TID=
+	{
+		value=-11
+		level=2
+	}
+	UCA=
+	{
+		value=96
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=-92
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=73
+		level=3
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="6th Fleet"
+	location=1393
+	ship = {
+		name="1st Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sula Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sugbu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brunei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ifugao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kuching Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kuching Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Caraga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Taytay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Caraga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bruneian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jesselton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brunei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Caraga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zamboanga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lamuri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Caraga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lamuri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bangka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Etchu Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1424
+	regiment = {
+		name="1st Kuching Infantry"
+		type=infantry
+		home=1394
+	}
+	regiment = {
+		name="1st Leyte Infantry"
+		type=infantry
+		home=1461
+	}
+	regiment = {
+		name="1st Taytay Infantry"
+		type=infantry
+		home=1459
+	}
+	regiment = {
+		name="1st Barito Infantry"
+		type=infantry
+		home=1424
+	}
+	regiment = {
+		name="1st Pontianak Artillery"
+		type=artillery
+		home=2576
+	}
+	regiment = {
+		name="1st Brunei Cavalry"
+		type=cavalry
+		home=1393
+	}
+	regiment = {
+		name="1st Berau Artillery"
+		type=artillery
+		home=1425
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1414
+	regiment = {
+		name="1st Pontianak Infantry"
+		type=infantry
+		home=1426
+	}
+	regiment = {
+		name="1st Barito Infantry"
+		type=infantry
+		home=1423
+	}
+	regiment = {
+		name="1st Pontianak Infantry"
+		type=infantry
+		home=2576
+	}
+	regiment = {
+		name="1st Buglas Infantry"
+		type=infantry
+		home=1460
+	}
+	regiment = {
+		name="1st Samarinda Artillery"
+		type=artillery
+		home=1429
+	}
+	regiment = {
+		name="2nd Berau Infantry"
+		type=infantry
+		home=1425
+	}
+	regiment = {
+		name="2nd Berau Artillery"
+		type=artillery
+		home=1425
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2818
+	ship = {
+		name="1st Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kuching Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Samarinda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lehad Datu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Timor Barat Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1396
+	regiment = {
+		name="1st Zamboanga Infantry"
+		type=infantry
+		home=1462
+	}
+	regiment = {
+		name="2nd Barito Infantry"
+		type=infantry
+		home=1424
+	}
+	regiment = {
+		name="1st Katapang Infantry"
+		type=infantry
+		home=1427
+	}
+	regiment = {
+		name="1st Berau Infantry"
+		type=infantry
+		home=1425
+	}
+	regiment = {
+		name="1st Lehad Datu Artillery"
+		type=artillery
+		home=1397
+	}
+	regiment = {
+		name="1st Mindoro Artillery"
+		type=artillery
+		home=1455
+	}
+	regiment = {
+		name="1st Jesselton Artillery"
+		type=artillery
+		home=1396
+	}
+	regiment = {
+		name="1st Brunei Infantry"
+		type=infantry
+		home=1395
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2811
+	ship = {
+		name="1st Taytay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mindoro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zamboanga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lehad Datu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kuching Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mindoro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Leyte Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mindoro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Taytay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Taytay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lehad Datu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lehad Datu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zamboanga Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2843
+	ship = {
+		name="5th Lehad Datu Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2805
+	ship = {
+		name="2nd Samarinda Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2812
+	ship = {
+		name="1st Lehad Datu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Caraga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Melaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Melaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Melaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Odishi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ternate Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kochin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mindoro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Taytay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Caraga Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2826
+	ship = {
+		name="4th Taytay Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="12th Fleet"
+	location=2821
+	ship = {
+		name="3rd Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Samarinda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Zamboanga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jesselton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Taytay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jesselton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Taytay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arkatu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Jesselton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mindoro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Corfu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Taytay Clipper Transport"
+		type=clipper_transport
+	}
+}
+

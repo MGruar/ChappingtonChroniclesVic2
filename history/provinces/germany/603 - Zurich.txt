@@ -1,0 +1,8 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=X25
+add_core=FRA
+trade_goods = cattle
+life_rating = 40
+fort = 1

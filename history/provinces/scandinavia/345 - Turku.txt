@@ -1,0 +1,7 @@
+owner=X19
+controller=X19
+add_core=SWE
+add_core=X19
+add_core=SCA
+trade_goods = fish
+life_rating = 35

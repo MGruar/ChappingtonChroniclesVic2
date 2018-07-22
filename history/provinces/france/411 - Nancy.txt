@@ -1,0 +1,6 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=FRA
+trade_goods = dye
+life_rating = 30

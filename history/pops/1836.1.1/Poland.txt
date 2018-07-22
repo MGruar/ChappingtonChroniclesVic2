@@ -1,0 +1,2791 @@
+546 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3109
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=5242
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=985
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=155
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=171
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1306
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=143468
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=975
+	}
+
+}
+679 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3388
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=6776
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1101
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=288
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=136
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1423
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=156278
+	}
+
+}
+680 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=4380
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=8761
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1424
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=372
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=175
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1840
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=202066
+	}
+
+}
+681 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2367
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=4651
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=769
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=201
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=95
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=994
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=109202
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=3302
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=6489
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=1073
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=281
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=132
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1387
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=152334
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=83
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = jewish
+		size=117
+	}
+
+}
+682 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=2229
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=3182
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=707
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=192
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=90
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=947
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=103508
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = jewish
+		size=1325
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = jewish
+		size=450
+	}
+
+}
+683 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=2254
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=4507
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=732
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=192
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=90
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=947
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=103958
+	}
+
+}
+684 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=3194
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=5337
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=1021
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=274
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=129
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1352
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=147621
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = jewish
+		size=850
+	}
+
+}
+685 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=3219
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=6437
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=1046
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=274
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=129
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1352
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=148471
+	}
+
+}
+2584 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=1200
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=2399
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=390
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=102
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=504
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=55343
+	}
+
+}
+690 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=5068
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=9740
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1642
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=431
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=203
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=2128
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=233766
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=395
+	}
+
+}
+691 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3948
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=7896
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1283
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=336
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=158
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1658
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=182122
+	}
+
+}
+692 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2516
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=5031
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=818
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=214
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=101
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1057
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=116039
+	}
+
+}
+693 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=3644
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=7289
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=1184
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=310
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=146
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=1531
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=168116
+	}
+
+}
+694 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=3097
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=6049
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=1002
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=263
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=124
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1301
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=142866
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=145
+	}
+
+}
+696 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=10333
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=3978
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=646
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=169
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=835
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=83389
+	}
+
+}
+699 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=4135
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=6796
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=1319
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=352
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=165
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1737
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=190767
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = jewish
+		size=1475
+	}
+
+}
+700 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=1713
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=2195
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=537
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=146
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=69
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=719
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=79007
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=20
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=1230
+	}
+
+}
+701 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2204
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=3183
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=691
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=187
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=926
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=101662
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = jewish
+		size=1225
+	}
+
+}
+712 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=13433
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=2462
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=675
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=190
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=89
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=937
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=88662
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=2000
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=3000
+	}
+
+}
+717 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=1903
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=2257
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=552
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=164
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=77
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=810
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=86654
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=2300
+	}
+
+}
+703 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=3127
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=4523
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=995
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=270
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=127
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=1335
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=143652
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=1447
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=4353
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=958
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=260
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=122
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1285
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=61972
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=3600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4250
+	}
+
+}
+704 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = orthodox
+		size=1977
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = orthodox
+		size=2598
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = orthodox
+		size=622
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size=153
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = orthodox
+		size=81
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size=855
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = orthodox
+		size=89892
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = catholic
+		size=1774
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = catholic
+		size=3630
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = catholic
+		size=869
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = catholic
+		size=213
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = catholic
+		size=114
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = catholic
+		size=1195
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = catholic
+		size=77892
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = cathar
+		size=371
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = cathar
+		size=1786
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = cathar
+		size=428
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = cathar
+		size=105
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = cathar
+		size=56
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = cathar
+		size=588
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = cathar
+		size=14068
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=126
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4550
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8199
+	}
+
+}
+714 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = catholic
+		size=1036
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = catholic
+		size=69
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = catholic
+		size=313
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = catholic
+		size=93
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = catholic
+		size=44
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = catholic
+		size=461
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = catholic
+		size=46980
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = cathar
+		size=199
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = cathar
+		size=48
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = cathar
+		size=217
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = cathar
+		size=65
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = cathar
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = cathar
+		size=319
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = cathar
+		size=7584
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=3600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4250
+	}
+
+}
+713 = {
+	soldiers=
+	{
+		culture = polish
+		religion = cathar
+		size=1768
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = cathar
+		size=490
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = cathar
+		size=161
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = cathar
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = cathar
+		size=795
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = cathar
+		size=79125
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4550
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8200
+	}
+
+}
+715 = {
+	soldiers=
+	{
+		culture = polish
+		religion = orthodox
+		size=2174
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = orthodox
+		size=2171
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = orthodox
+		size=671
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = orthodox
+		size=192
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = orthodox
+		size=90
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = orthodox
+		size=950
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = orthodox
+		size=98453
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = cathar
+		size=946
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = cathar
+		size=2030
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = cathar
+		size=627
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = cathar
+		size=180
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = cathar
+		size=85
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = cathar
+		size=888
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = cathar
+		size=39764
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4550
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8200
+	}
+
+}
+716 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=2696
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=3244
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=841
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=236
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=111
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=1168
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=122566
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=1247
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=3123
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=809
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=228
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=107
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1124
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=52873
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4550
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8200
+	}
+
+}
+705 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = catholic
+		size=1015
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = catholic
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = catholic
+		size=93
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = catholic
+		size=44
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = catholic
+		size=461
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = catholic
+		size=43558
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = cathar
+		size=195
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = cathar
+		size=196
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = cathar
+		size=65
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = cathar
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = cathar
+		size=319
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = cathar
+		size=7031
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4550
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8225
+	}
+
+}
+706 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=1693
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=415
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=161
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=795
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=76725
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=200
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=10000
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=200
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=10600
+	}
+
+}
+707 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=1222
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=544
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=363
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=108
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=70
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=534
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=55749
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=2000
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=2900
+	}
+
+}
+708 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=2653
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=3484
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=840
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=230
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=108
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=1138
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=121601
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=816
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=2814
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=678
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=186
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=919
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=33610
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=3500
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4350
+	}
+
+}
+709 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = orthodox
+		size=3649
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = orthodox
+		size=6253
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = orthodox
+		size=1177
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size=314
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = orthodox
+		size=148
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size=1554
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = orthodox
+		size=166740
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = cathar
+		size=1688
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = cathar
+		size=6019
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = cathar
+		size=1133
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=303
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = cathar
+		size=142
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = cathar
+		size=1496
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = cathar
+		size=71930
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=2250
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=5625
+	}
+
+}
+710 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size=2632
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size=463
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size=788
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=232
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size=1147
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size=119210
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=5000
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=6800
+	}
+
+}
+711 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = cathar
+		size=620
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = cathar
+		size=117
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=63
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = cathar
+		size=41
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=313
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = cathar
+		size=26149
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=4550
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=125
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8200
+	}
+
+}
+719 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = cathar
+		size=645
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = cathar
+		size=240
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = cathar
+		size=167
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=63
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = cathar
+		size=41
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=313
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = cathar
+		size=25774
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1250
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8575
+	}
+
+}

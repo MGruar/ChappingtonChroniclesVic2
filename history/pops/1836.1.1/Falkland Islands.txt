@@ -1,0 +1,102 @@
+2131 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1451
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3894
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=633
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=97
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=818
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=65572
+	}
+
+}
+2133 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1144
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3219
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=523
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=80
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=89
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=676
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=51446
+	}
+
+}

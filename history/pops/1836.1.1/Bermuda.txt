@@ -1,0 +1,51 @@
+203 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=875
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1751
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=44
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=368
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=40398
+	}
+
+}

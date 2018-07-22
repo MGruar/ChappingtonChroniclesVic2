@@ -1,0 +1,228 @@
+2066 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=12024
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = shamanism
+		size=4167
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = shamanism
+		size=8333
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = shamanism
+		size=1354
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = shamanism
+		size=208
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = shamanism
+		size=229
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = shamanism
+		size=1750
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = shamanism
+		size=180266
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=3006
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = sunni
+		size=1042
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = sunni
+		size=6250
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = sunni
+		size=1016
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = sunni
+		size=156
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = sunni
+		size=172
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = sunni
+		size=1312
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = sunni
+		size=39129
+	}
+
+}
+2067 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=4883
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = shamanism
+		size=972
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = shamanism
+		size=1944
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = shamanism
+		size=316
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = shamanism
+		size=49
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = shamanism
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = shamanism
+		size=408
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = shamanism
+		size=39969
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=1587
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = sunni
+		size=316
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = sunni
+		size=1604
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = sunni
+		size=261
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = sunni
+		size=40
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = sunni
+		size=44
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = sunni
+		size=337
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = sunni
+		size=11604
+	}
+
+}

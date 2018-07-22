@@ -1,0 +1,9 @@
+owner=CMI
+controller=CMI
+add_core=CXI
+add_core=LNG
+add_core=SHU
+add_core=CMI
+add_core=CHI
+trade_goods = grain
+life_rating = 32

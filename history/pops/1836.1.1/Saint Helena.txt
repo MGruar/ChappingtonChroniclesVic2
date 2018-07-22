@@ -1,0 +1,153 @@
+2129 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=651
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1746
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=44
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=367
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=29425
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=651
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1746
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=44
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=367
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=29425
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=651
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1746
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=44
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=367
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=29425
+	}
+
+}

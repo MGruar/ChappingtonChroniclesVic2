@@ -1,0 +1,18 @@
+owner=SUL
+controller=SUL
+add_core=SUL
+add_core=PHI
+trade_goods = fish
+life_rating = 30
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

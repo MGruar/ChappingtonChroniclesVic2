@@ -1,0 +1,149 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size=156271
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size=3169
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size=6339
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size=1062
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=158
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size=174
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=1331
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = nahuatl
+		size=131658
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = nahuatl
+		size=2670
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = nahuatl
+		size=8510
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = nahuatl
+		size=1425
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = nahuatl
+		size=213
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = nahuatl
+		size=234
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = nahuatl
+		size=1787
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = cathar
+		size=46490
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = cathar
+		size=943
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = cathar
+		size=5055
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = cathar
+		size=847
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = cathar
+		size=126
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = cathar
+		size=139
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = cathar
+		size=1062
+	}
+
+}

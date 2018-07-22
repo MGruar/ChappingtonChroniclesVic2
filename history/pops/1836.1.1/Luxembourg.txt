@@ -1,0 +1,51 @@
+397 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size=2627
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size=5255
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size=854
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size=131
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size=145
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size=1104
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size=121254
+	}
+
+}

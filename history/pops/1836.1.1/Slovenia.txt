@@ -1,0 +1,545 @@
+767 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = orthodox
+		size=1945
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = orthodox
+		size=3891
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = orthodox
+		size=632
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = orthodox
+		size=97
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = orthodox
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = orthodox
+		size=817
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = orthodox
+		size=89807
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=165
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=2276
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=370
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=57
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=478
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=4876
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1260
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=6410
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1042
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=160
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=128
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1346
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=52634
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=1065
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=4075
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=662
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=102
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=82
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=856
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=46412
+	}
+
+}
+768 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = orthodox
+		size=1945
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = orthodox
+		size=3891
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = orthodox
+		size=632
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = orthodox
+		size=97
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = orthodox
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = orthodox
+		size=817
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = orthodox
+		size=89807
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = cathar
+		size=165
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = cathar
+		size=2276
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = cathar
+		size=370
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=57
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = cathar
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = cathar
+		size=478
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = cathar
+		size=4876
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1260
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=6410
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1042
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=160
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=128
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1346
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=52634
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=1065
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=4075
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=662
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=102
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=82
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=856
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = orthodox
+		size=46412
+	}
+
+}
+769 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=10278
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=20555
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=3340
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=514
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=411
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=4317
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=474471
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=1336
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=12950
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=2104
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=324
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=259
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=2719
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = cathar
+		size=47113
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3597
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=17472
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2839
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=437
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=349
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3669
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=151497
+	}
+
+}

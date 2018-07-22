@@ -1,0 +1,8 @@
+owner=BNG
+controller=BNG
+add_core=MKS
+add_core=SAK
+add_core=TID
+add_core=BNG
+trade_goods = grain
+life_rating = 30

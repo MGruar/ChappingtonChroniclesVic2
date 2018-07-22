@@ -1,0 +1,626 @@
+923 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=6586
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=26344
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=4742
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=1120
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=527
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=5532
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=613740
+	}
+
+}
+924 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=5372
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=21488
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=3868
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=913
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=430
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=4512
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=500611
+	}
+
+}
+925 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=5111
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=20444
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=3680
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=869
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=409
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=4293
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=476283
+	}
+
+}
+926 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=4718
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=14948
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=3322
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=802
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=377
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=3963
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=439686
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=75
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=3925
+	}
+
+}
+927 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=2400
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=9600
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1728
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=408
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=192
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=2016
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=223651
+	}
+
+}
+928 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=6585
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=26341
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=4741
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=1119
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=527
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=5532
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=613682
+	}
+
+}
+929 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=5037
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=20147
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=3627
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=856
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=403
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=4231
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=469380
+	}
+
+}
+930 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=3805
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=15218
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=2739
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=647
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=304
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=3196
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=354550
+	}
+
+}
+931 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=1857
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=7427
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=1337
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=316
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=149
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=1560
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=173017
+	}
+
+}
+932 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=7233
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=15541
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=2797
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=661
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=311
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=3264
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=358724
+	}
+
+}
+933 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=4804
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=19217
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=3459
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=817
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=384
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=4036
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=447707
+	}
+
+}
+934 = {
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=1130
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=4519
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=813
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=192
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=90
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=949
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=105286
+	}
+
+}

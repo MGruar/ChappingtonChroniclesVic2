@@ -1,0 +1,6 @@
+owner=X33
+controller=X33
+add_core=PTG
+add_core=X33
+trade_goods = coffee
+life_rating = 35

@@ -1,0 +1,72 @@
+vassal=
+{
+	first="KUR"
+	second="X03"
+	start_date="1814.2.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YAR"
+	second="X05"
+	start_date="1820.4.26"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X19"
+	second="X00"
+	start_date="1750.7.12"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X22"
+	second="X30"
+	start_date="1793.12.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X25"
+	second="BRZ"
+	start_date="1685.6.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X26"
+	second="X32"
+	start_date="1559.12.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X26"
+	second="CAL"
+	start_date="1601.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X26"
+	second="X29"
+	start_date="1638.2.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X26"
+	second="X13"
+	start_date="1816.7.12"
+	end_date="1936.1.1"
+}
+

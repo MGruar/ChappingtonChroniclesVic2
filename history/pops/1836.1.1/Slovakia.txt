@@ -1,0 +1,572 @@
+633 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=4981
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=325
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=1509
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=440
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=207
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=2176
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=230387
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=175
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=10039
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=200
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8625
+	}
+
+}
+634 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=2867
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=4683
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=915
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=246
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=116
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1214
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=132536
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=850
+	}
+
+}
+635 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=2867
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=4683
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=915
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=246
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=116
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=1214
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=132536
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=850
+	}
+
+}
+636 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=1025
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=500
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=291
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=89
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=441
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=47100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1325
+	}
+
+}
+637 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size=1345
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size=2268
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size=423
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size=116
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size=572
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size=62210
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = cathar
+		size=105
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = cathar
+		size=1310
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = cathar
+		size=244
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = cathar
+		size=67
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = cathar
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = cathar
+		size=330
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = cathar
+		size=2886
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=444
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=1882
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=350
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=96
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=475
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=18595
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=824
+	}
+
+}
+638 = {
+	soldiers=
+	{
+		culture = czech
+		religion = cathar
+		size=1025
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = cathar
+		size=1000
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = cathar
+		size=291
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = cathar
+		size=89
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = cathar
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = cathar
+		size=441
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = cathar
+		size=47600
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=825
+	}
+
+}

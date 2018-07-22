@@ -1,0 +1,6 @@
+owner=CAN
+controller=CAN
+add_core=CAL
+add_core=CAN
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,7 @@
+owner=NNG
+controller=NNG
+add_core=LNG
+add_core=NNG
+add_core=CHI
+trade_goods = tea
+life_rating = 32

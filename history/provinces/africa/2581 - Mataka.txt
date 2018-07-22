@@ -1,0 +1,7 @@
+owner=X19
+controller=X19
+add_core=SWA
+add_core=X19
+add_core=MRA
+trade_goods = grain
+life_rating = 15

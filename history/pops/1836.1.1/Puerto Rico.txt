@@ -1,0 +1,58 @@
+2222 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=182592
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=7737
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=15475
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2515
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=658
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=426
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3250
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=174217
+	}
+
+}

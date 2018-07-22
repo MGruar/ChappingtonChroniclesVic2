@@ -1,0 +1,8 @@
+owner=SIA
+controller=SIA
+add_core=CDL
+add_core=HSE
+add_core=SIA
+add_core=CHI
+trade_goods = tea
+life_rating = 32

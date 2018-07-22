@@ -1,0 +1,5 @@
+owner=X22
+controller=X22
+add_core=GRE
+trade_goods = grain
+life_rating = 10

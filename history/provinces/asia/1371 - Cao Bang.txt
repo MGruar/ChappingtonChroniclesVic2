@@ -1,0 +1,6 @@
+owner=CGS
+controller=CGS
+add_core=CGS
+add_core=CHI
+trade_goods = grain
+life_rating = 30

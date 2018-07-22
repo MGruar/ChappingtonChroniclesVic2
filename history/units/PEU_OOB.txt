@@ -1,0 +1,511 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=-3
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=-95
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=9
+		level=2
+	}
+	NIC=
+	{
+		value=0
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=89
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=-86
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2313
+	regiment = {
+		name="1st 	Huntlyshire	 Infantry"
+		type=infantry
+		home=2316
+	}
+	regiment = {
+		name="2nd 	Huntlyshire	 Infantry"
+		type=infantry
+		home=2316
+	}
+	regiment = {
+		name="1st 	Loch Lea	 Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="2nd 	Loch Lea	 Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="1st 	Beinn Gauld	 Artillery"
+		type=artillery
+		home=2314
+	}
+	regiment = {
+		name="1st 	Duncawston	 Artillery"
+		type=artillery
+		home=2317
+	}
+	regiment = {
+		name="1st 	New Renfrew	 Infantry"
+		type=infantry
+		home=2550
+	}
+	regiment = {
+		name="1st 	Huntlyshire	 Cavalry"
+		type=cavalry
+		home=2316
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2995
+	ship = {
+		name="1st 	Leith	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2304
+	ship = {
+		name="1st 	Leith	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd 	Leith	 Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2999
+	ship = {
+		name="2nd 	Craiglaing	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2304
+	ship = {
+		name="1st 	Leith	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Craiglaing	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Leith	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd 	Leith	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th 	Leith	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2995
+	ship = {
+		name="2nd 	Leith	 Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2313
+	regiment = {
+		name="1st 	New Renfrew	 Artillery"
+		type=artillery
+		home=2550
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2417
+	regiment = {
+		name="1st 	New Whitburn	 Artillery"
+		type=artillery
+		home=2303
+	}
+}
+

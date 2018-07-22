@@ -1,0 +1,58 @@
+517 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4484
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=8568
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1457
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=224
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=247
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1883
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=206946
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=400
+	}
+
+}

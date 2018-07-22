@@ -1,0 +1,9112 @@
+2401 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=75
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=2700
+	}
+
+}
+2402 = {
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=107
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=427
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=69
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=20
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=90
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=9945
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=67
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=695
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=113
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=146
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5622
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=146
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=585
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=95
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=28
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=123
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=13643
+	}
+
+}
+2403 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=1800
+	}
+
+}
+2404 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=15
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=900
+	}
+
+}
+2405 = {
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=107
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=427
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=69
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=20
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=90
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=9945
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=67
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=695
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=113
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=146
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5622
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=146
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=585
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=95
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=28
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=123
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=13643
+	}
+
+}
+2407 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=15
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=900
+	}
+
+}
+2408 = {
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=107
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=427
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=69
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=20
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=90
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=9945
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=67
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=695
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=113
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=146
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5622
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=146
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=585
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=95
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=28
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=123
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=13643
+	}
+
+}
+2532 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=1156
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=4624
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=751
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=220
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=127
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=971
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=107763
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=413
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3965
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=644
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=188
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=833
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=35179
+	}
+
+}
+2410 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=11671
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=875
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=1751
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=88
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=368
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=28683
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=3577
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=268
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1412
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=229
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=71
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=297
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=7522
+	}
+
+}
+2411 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=4145
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=415
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=966
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=157
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=48
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=203
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=14766
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=1166
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=117
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=643
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=104
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=32
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=135
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3619
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=80
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=13
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=4
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=17
+	}
+
+}
+2412 = {
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=149
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=598
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=97
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=28
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=125
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=13926
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=94
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=973
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=158
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=46
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=204
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=7872
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=205
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=820
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=133
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=39
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=23
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=172
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=19099
+	}
+
+}
+2413 = {
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=415
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=966
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=157
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=48
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=203
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=18911
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=117
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=643
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=104
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=32
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=135
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4785
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=80
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=13
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=4
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=17
+	}
+
+}
+2414 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size=35469
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size=3161
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size=514
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=150
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size=87
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=664
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=34841
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=12148
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=271
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2663
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=433
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=126
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=73
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=559
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=10791
+	}
+
+}
+2415 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=500
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size=2999
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size=487
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=142
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size=82
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=630
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=45184
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=6
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1023
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=166
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=49
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=215
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=157
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1627
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=264
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=77
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=342
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=13206
+	}
+
+}
+2600 = {
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=415
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=966
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=157
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=48
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=203
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=18911
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=117
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=643
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=104
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=32
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=135
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4785
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=80
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=13
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=4
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=17
+	}
+
+}
+2416 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=649
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=1299
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=211
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=65
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=273
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=29939
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=145
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=938
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=152
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=47
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=26
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=197
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5720
+	}
+
+}
+2417 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=1954
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=3909
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=635
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=215
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = animist
+		size=107
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=821
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=90077
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=602
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3809
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=619
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=210
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=105
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=800
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=23944
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=141
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=282
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=46
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=16
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=59
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=6503
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=91
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=181
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=29
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=10
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=38
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=4183
+	}
+
+}
+2418 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1068
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=2136
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=347
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=117
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=59
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=449
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=49228
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=72
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=678
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=37
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=142
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2547
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=81
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=734
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=119
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=40
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=154
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=2922
+	}
+
+}
+2419 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=551
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=1102
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=179
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=55
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=231
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=25409
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=114
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1054
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=171
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=53
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=221
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4042
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=551
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=1103
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=179
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=55
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = animist
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=232
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=25422
+	}
+
+}
+2420 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=649
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=1299
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=211
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=65
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=273
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=29939
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=145
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=938
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=152
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=47
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=26
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=197
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5720
+	}
+
+}
+2421 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=23099
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1016
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=2033
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=330
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=112
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=56
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=427
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=23746
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=3883
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=171
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1358
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=221
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=75
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=37
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=285
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2514
+	}
+
+}
+2422 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1525
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=3050
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=496
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=168
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=84
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=641
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=70296
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=284
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2093
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=340
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=115
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=58
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=440
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=10873
+	}
+
+}
+2423 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=875
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=1751
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=88
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=368
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=40354
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=94
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=713
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=116
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=36
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=150
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3554
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=87
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=715
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=116
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=36
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=150
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3210
+	}
+
+}
+2424 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=47486
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=7561
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=1229
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=378
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=208
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1588
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=64364
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=13990
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=748
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=6462
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1050
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=323
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=178
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1357
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=13293
+	}
+
+}
+2425 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=2033
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=330
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=102
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=56
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=427
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=46838
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=227
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1470
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=239
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=74
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=40
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=309
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=8991
+	}
+
+}
+2426 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=24009
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1070
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=4172
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=678
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=209
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=115
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=876
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=22358
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=6387
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=285
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3618
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=588
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=181
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=100
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=760
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=2310
+	}
+
+}
+2427 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1016
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=2033
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=330
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=102
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=56
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=427
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=46855
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=178
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1372
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=223
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=69
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=38
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=288
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=6725
+	}
+
+}
+2428 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=22301
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=2052
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=5732
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=931
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=287
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=158
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1204
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=69922
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = orthodox
+		size=221
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = orthodox
+		size=20
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = orthodox
+		size=1669
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = orthodox
+		size=271
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = orthodox
+		size=83
+	}
+
+	officers=
+	{
+		culture = je
+		religion = orthodox
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = orthodox
+		size=351
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=16405
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1509
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=5868
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=954
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=293
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=161
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=1232
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=49043
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=2411
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=222
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=3293
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=535
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=165
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=91
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=692
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = cathar
+		size=3684
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=14994
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=1379
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=2759
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=448
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=138
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=579
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=48600
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=1686
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=155
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1690
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=275
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=84
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=355
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3468
+	}
+
+}
+2429 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=41156
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=4358
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=708
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=142
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=120
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=915
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=57411
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=14919
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=790
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3759
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=611
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=122
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=103
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=789
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=18399
+	}
+
+}
+2430 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=29330
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1525
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=3050
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=496
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=153
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=84
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=641
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=40981
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=2933
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=153
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=1830
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=297
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=92
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=384
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1887
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=219
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=11
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=1548
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=252
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=77
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=43
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=325
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=3666
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=191
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1907
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=310
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=95
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=52
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=400
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=2912
+	}
+
+}
+2431 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=64990
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=2851
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=5702
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=927
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=285
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=157
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=1197
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=66437
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=23559
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=4918
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=799
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=246
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=135
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=1033
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=19950
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=974
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=43
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=2936
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=477
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=147
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=81
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=617
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=7473
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=328
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=3507
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=570
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=175
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=96
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=736
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3508
+	}
+
+}
+2432 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=176098
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=8473
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=33685
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=5474
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=2021
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=926
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=7074
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=189922
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=20436
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=983
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=27073
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=4399
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=1624
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=745
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=5685
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=63482
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3055
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=14478
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2353
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=869
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=398
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3040
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=65056
+	}
+
+}
+2433 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=115404
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=3842
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=7684
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=1249
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=461
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=211
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1614
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=61635
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=39814
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1325
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=6493
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1055
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=390
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=179
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1364
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=15655
+	}
+
+}
+2434 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=117478
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=5595
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=16174
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=2628
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=970
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=445
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=3397
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=133058
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=784
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=37
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=5059
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=822
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=304
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=139
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1062
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=38200
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1819
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=8623
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1401
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=517
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=237
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1811
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=38356
+	}
+
+}
+2435 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=134548
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=6210
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=18065
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=2936
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=1084
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=497
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=3794
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=143362
+	}
+
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=917
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=42
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=5730
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=931
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=344
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=158
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1203
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=45868
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2117
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=9879
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1605
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=593
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=272
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2075
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=43442
+	}
+
+}
+2436 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=78273
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=4649
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=9299
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=1511
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=558
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=256
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=1953
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=135973
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=28870
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1715
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=8079
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1313
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=485
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=222
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1697
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=43365
+	}
+
+}
+2437 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=104497
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=3617
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=7234
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=1176
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=434
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=199
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1519
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=62185
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=32829
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1136
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=5890
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=957
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=353
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=162
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1237
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=14256
+	}
+
+}
+2438 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=86034
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=4015
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=8030
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=1305
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=482
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=221
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1686
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=98974
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=21508
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1004
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=6022
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=979
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=361
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=166
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1265
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=18882
+	}
+
+}
+2439 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=58963
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=2721
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=5443
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=884
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=327
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=150
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1143
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=66439
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=20637
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=952
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=4626
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=752
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=278
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=127
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=972
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=19281
+	}
+
+}
+2440 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=14952
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=1545
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=251
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=93
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=324
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=7678
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=9455
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=328
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2180
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=354
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=131
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=458
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=3423
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=14659
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=1016
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=165
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=61
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=213
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=8235
+	}
+
+}
+2441 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=56622
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=2883
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=5766
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=937
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=288
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=159
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=1211
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=76276
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = orthodox
+		size=37654
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=1917
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = orthodox
+		size=6717
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = orthodox
+		size=1092
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = orthodox
+		size=336
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=185
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = orthodox
+		size=1411
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=46542
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = cathar
+		size=6086
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = cathar
+		size=310
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = cathar
+		size=3503
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = cathar
+		size=569
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = cathar
+		size=175
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = cathar
+		size=96
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = cathar
+		size=736
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = cathar
+		size=4020
+	}
+
+}
+2442 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=37704
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1600
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=3199
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=520
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=192
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=672
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=36002
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=8012
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=340
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2279
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=370
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=137
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=63
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=479
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=5315
+	}
+
+}
+2443 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=47411
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1580
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=3161
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=514
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=190
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=87
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=664
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=25412
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=11931
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=398
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2376
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=386
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=143
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=65
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=499
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=4088
+	}
+
+}
+2444 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=25467
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=1121
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=2241
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=364
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=134
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=471
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=26169
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=5730
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=252
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1625
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=264
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=97
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=341
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=4253
+	}
+
+}
+2445 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=98913
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=3363
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=6726
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=1093
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=404
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=185
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=1412
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=56057
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=16815
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=572
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=4507
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=732
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=270
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=124
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=946
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=4620
+	}
+
+}
+2446 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=53882
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=1777
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=3555
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=578
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=178
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=98
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=746
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=28052
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=4310
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=142
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=2062
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=335
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=103
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=57
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=433
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=538
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=18
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=1813
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=295
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=91
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=381
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=6870
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=227
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2231
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=362
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=112
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=61
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=468
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=999
+	}
+
+}
+2447 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=46099
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=5655
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=11310
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1838
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=565
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=311
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=2375
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=214589
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=1152
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=141
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=5938
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=965
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=297
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=163
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=1247
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=3457
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=424
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=6503
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=1057
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=325
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=179
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=1366
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=7895
+	}
+
+}
+2448 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=118544
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=4576
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=9153
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=1487
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=297
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=252
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=1922
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=92588
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = orthodox
+		size=78239
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=3020
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = orthodox
+		size=10617
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = orthodox
+		size=1725
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = orthodox
+		size=345
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=292
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = orthodox
+		size=2230
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=54553
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = cathar
+		size=13929
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = cathar
+		size=538
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = cathar
+		size=5652
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = cathar
+		size=918
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = cathar
+		size=184
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = cathar
+		size=155
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = cathar
+		size=1187
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = cathar
+		size=4323
+	}
+
+}
+2449 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=78030
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=3902
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=7803
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=1268
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=254
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=215
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=1639
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=101965
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = orthodox
+		size=51695
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=2585
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = orthodox
+		size=9071
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = orthodox
+		size=1474
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = orthodox
+		size=295
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=249
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = orthodox
+		size=1905
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = orthodox
+		size=61964
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = cathar
+		size=8193
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = cathar
+		size=410
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = cathar
+		size=4721
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = cathar
+		size=767
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = cathar
+		size=153
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = cathar
+		size=130
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = cathar
+		size=991
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = cathar
+		size=5118
+	}
+
+}
+2306 = {
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=559
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=1118
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=182
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=56
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=235
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=25768
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=49
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=657
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=107
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=33
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=138
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1444
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=3
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=565
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=92
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=28
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=119
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=59
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=676
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=34
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1895
+	}
+
+}
+2450 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=16131
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=1356
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=2711
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=441
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=136
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=75
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=569
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=46359
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=3750
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=315
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1986
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=323
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=99
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=417
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=8813
+	}
+
+}
+2451 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=30849
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=2036
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=4072
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=662
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=204
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=112
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=855
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=63014
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=385
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=25
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=2087
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=339
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=104
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=57
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=438
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=2622
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=173
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2382
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=387
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=119
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=66
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=500
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=2404
+	}
+
+}
+2452 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=10480
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=559
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=1118
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=182
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=56
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=235
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=15288
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=917
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=49
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=657
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=107
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=33
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=138
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=527
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=52
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=3
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=565
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=92
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=28
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=119
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=59
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=676
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=34
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=142
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=795
+	}
+
+}
+2453 = {
+	slaves=
+	{
+		culture = je
+		religion = animist
+		size=6877
+	}
+
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=481
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=963
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=156
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=48
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=26
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=202
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=15319
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=481
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=34
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=549
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=89
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=27
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=115
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=375
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=34
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=2
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=486
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=79
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=24
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=102
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=739
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=52
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=585
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=95
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=29
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=123
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=949
+	}
+
+}
+2455 = {
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size=21325
+	}
+
+	soldiers=
+	{
+		culture = tupi
+		religion = animist
+		size=1356
+	}
+
+	artisans=
+	{
+		culture = tupi
+		religion = animist
+		size=2711
+	}
+
+	clergymen=
+	{
+		culture = tupi
+		religion = animist
+		size=441
+	}
+
+	bureaucrats=
+	{
+		culture = tupi
+		religion = animist
+		size=136
+	}
+
+	officers=
+	{
+		culture = tupi
+		religion = animist
+		size=75
+	}
+
+	aristocrats=
+	{
+		culture = tupi
+		religion = animist
+		size=569
+	}
+
+	farmers=
+	{
+		culture = tupi
+		religion = animist
+		size=41165
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=4958
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=315
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1986
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=323
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=99
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=417
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=7605
+	}
+
+}
+2456 = {
+	soldiers=
+	{
+		culture = je
+		religion = animist
+		size=481
+	}
+
+	artisans=
+	{
+		culture = je
+		religion = animist
+		size=963
+	}
+
+	clergymen=
+	{
+		culture = je
+		religion = animist
+		size=156
+	}
+
+	bureaucrats=
+	{
+		culture = je
+		religion = animist
+		size=48
+	}
+
+	officers=
+	{
+		culture = je
+		religion = animist
+		size=26
+	}
+
+	aristocrats=
+	{
+		culture = je
+		religion = animist
+		size=202
+	}
+
+	farmers=
+	{
+		culture = je
+		religion = animist
+		size=22196
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=34
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=549
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=89
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=27
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=115
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=856
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = cathar
+		size=2
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = cathar
+		size=486
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = cathar
+		size=79
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = cathar
+		size=24
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = cathar
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = cathar
+		size=102
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=52
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=585
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=95
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=29
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=123
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1688
+	}
+
+}
+2457 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=11620
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=1986
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=3972
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=645
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=238
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=834
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=79884
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=2759
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=472
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2929
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=476
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=176
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=81
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=615
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=16073
+	}
+
+}
+2458 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=13731
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=875
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=1751
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=88
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=368
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=26623
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=2643
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=169
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1212
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=197
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=61
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=33
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=255
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3855
+	}
+
+}
+2459 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=5194
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=390
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=779
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=127
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=39
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=164
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=12765
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=1064
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=80
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=549
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=89
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=27
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=115
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=2054
+	}
+
+}
+2460 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=11293
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=1016
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=2033
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=330
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=102
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=56
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=427
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=35562
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=2145
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=193
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1403
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=228
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=70
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=295
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=5283
+	}
+
+}
+2461 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=5312
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=390
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=779
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=127
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=39
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=164
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=12647
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=1089
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=80
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=549
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=89
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=27
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=115
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=2029
+	}
+
+}
+2462 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=6817
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=390
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=779
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=127
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=39
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=164
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=11142
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=1397
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=80
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=549
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=89
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=27
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=115
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1721
+	}
+
+}
+2463 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=9838
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=849
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=2521
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=410
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=151
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=69
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=529
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=28090
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=2382
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=206
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2056
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=334
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=123
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=57
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=432
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=4690
+	}
+
+}
+2464 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=15439
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=849
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=2521
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=410
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=151
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=69
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=529
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=22489
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=3738
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=206
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2056
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=334
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=123
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=57
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=432
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=3334
+	}
+
+}
+2465 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=11687
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=1298
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=2597
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=422
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=110
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=71
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=545
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=48189
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=2483
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=276
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1850
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=301
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=79
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=51
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=389
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=8366
+	}
+
+}
+2466 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size=11936
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size=875
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size=1751
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size=105
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size=368
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size=28401
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=3163
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=232
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1339
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=218
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=80
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=37
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=281
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=6249
+	}
+
+}
+2467 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=900
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1800
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=292
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=108
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=49
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=378
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=41471
+	}
+
+}
+2549 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=75
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=200
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=3625
+	}
+
+}
+2550 = {
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=6055
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=984
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=333
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = animist
+		size=167
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=1272
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=138429
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=660
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=4348
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=707
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=239
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=120
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=913
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=26031
+	}
+
+}

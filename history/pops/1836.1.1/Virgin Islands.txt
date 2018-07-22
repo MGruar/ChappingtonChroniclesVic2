@@ -1,0 +1,58 @@
+2223 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = cathar
+		size=98054
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=2157
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=4314
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=701
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=259
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=119
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=906
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=1350
+	}
+
+}

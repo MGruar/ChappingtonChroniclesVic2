@@ -1,0 +1,7 @@
+owner=BRU
+controller=BRU
+add_core=CEB
+add_core=BRU
+add_core=PHI
+trade_goods = iron
+life_rating = 30

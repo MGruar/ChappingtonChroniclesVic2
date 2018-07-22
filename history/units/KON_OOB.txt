@@ -1,0 +1,445 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=0
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=-15
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=1994
+	regiment = {
+		name="1st Lwããgu Infantry"
+		type=infantry
+		home=2624
+	}
+	regiment = {
+		name="1st Mpemba Infantry"
+		type=infantry
+		home=2001
+	}
+	regiment = {
+		name="1st Mayumba Infantry"
+		type=infantry
+		home=1974
+	}
+	regiment = {
+		name="1st Yaka Artillery"
+		type=artillery
+		home=1985
+	}
+	regiment = {
+		name="1st Anziku Infantry"
+		type=infantry
+		home=1983
+	}
+	regiment = {
+		name="1st Mpemba Cavalry"
+		type=cavalry
+		home=2001
+	}
+	regiment = {
+		name="2nd Yaka Artillery"
+		type=artillery
+		home=1985
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2001
+	ship = {
+		name="1st Mbamba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mpemba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mpemba Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1990
+	regiment = {
+		name="1st Anziku Infantry"
+		type=infantry
+		home=1977
+	}
+	regiment = {
+		name="1st Mpemba Artillery"
+		type=artillery
+		home=2001
+	}
+	regiment = {
+		name="1st Mbamba Infantry"
+		type=infantry
+		home=1999
+	}
+	regiment = {
+		name="1st Ishindi Cavalry"
+		type=cavalry
+		home=2014
+	}
+	regiment = {
+		name="2nd Mpemba Artillery"
+		type=artillery
+		home=2001
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2001
+	ship = {
+		name="1st Mbamba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mbamba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mbamba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lwããgu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mpemba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mbamba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mayumba Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2918
+	ship = {
+		name="1st Mayumba Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1994
+	regiment = {
+		name="1st Anziku Infantry"
+		type=infantry
+		home=1978
+	}
+	regiment = {
+		name="1st Mayumba Artillery"
+		type=artillery
+		home=2000
+	}
+}
+

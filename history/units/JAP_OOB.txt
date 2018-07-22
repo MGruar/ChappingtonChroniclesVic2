@@ -1,0 +1,484 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=7
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=10
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=154
+		level=3
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=0
+		level=2
+	}
+	NNG=
+	{
+		value=2
+		level=2
+	}
+	OUC=
+	{
+		value=183
+		level=3
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=55
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=42
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=97
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=20
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=28
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=-2
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="Imperial Army"
+	location=1485
+	regiment = {
+		name="1st Ugo Infantry"
+		type=infantry
+		home=1671
+	}
+	regiment = {
+		name="1st Owari Artillery"
+		type=artillery
+		home=1675
+	}
+	regiment = {
+		name="1st Shimousa Artillery"
+		type=artillery
+		home=1650
+	}
+}
+
+army = {
+	name="Etchu Zei"
+	location=1640
+	regiment = {
+		name="1st Shimousa Infantry"
+		type=infantry
+		home=1653
+	}
+	regiment = {
+		name="1st Kai Infantry"
+		type=infantry
+		home=1677
+	}
+	regiment = {
+		name="1st Mikawa Artillery"
+		type=artillery
+		home=1676
+	}
+	regiment = {
+		name="1st Etchu Artillery"
+		type=artillery
+		home=1648
+	}
+	regiment = {
+		name="1st Mutsu Infantry"
+		type=infantry
+		home=1670
+	}
+	regiment = {
+		name="1st Etchu Cavalry"
+		type=cavalry
+		home=1646
+	}
+}
+
+navy = {
+	name="Seto Inland Sea Sendan"
+	location=1642
+	ship = {
+		name="1st Echigo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tango Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shimousa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ugo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Etchu Suigun"
+	location=1679
+	ship = {
+		name="1st Shimousa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ugo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rikuzen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ugo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Iyo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ugo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shimousa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Echigo Clipper Transport"
+		type=clipper_transport
+	}
+}
+

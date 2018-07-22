@@ -1,0 +1,200 @@
+2240 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=545
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size=2180
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size=354
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=104
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=458
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=50805
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=230
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=2011
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=327
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=96
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=422
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=19888
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=428
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=1711
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=278
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=81
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=47
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=359
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=39866
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = cathar
+		size=174
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = cathar
+		size=1553
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = cathar
+		size=252
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=74
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = cathar
+		size=43
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = cathar
+		size=326
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = cathar
+		size=15007
+	}
+
+}

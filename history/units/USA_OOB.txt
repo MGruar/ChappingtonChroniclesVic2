@@ -1,0 +1,866 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=97
+		level=2
+	}
+	CAN=
+	{
+		value=-92
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=70
+		level=2
+	}
+	FIN=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=-41
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=-84
+		level=2
+	}
+	NIC=
+	{
+		value=-26
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=97
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=57
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=-12
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=94
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="5th Fleet"
+	location=241
+	ship = {
+		name="1st 	Delaware	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd 	Delaware	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Granville	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fenellan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Biggar	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Fenellan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Baile Earra-Ghàidheil	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Rhode Island	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	New Stirling	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Cheviot Chase	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Shandon	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd 	Shandon	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Argyllstoun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd 	Shandon	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Saunt Dominic	 Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="12th Army"
+	location=2556
+	regiment = {
+		name="1st 	Cape Fear	 Infantry"
+		type=infantry
+		home=210
+	}
+	regiment = {
+		name="1st 	Harrisburgh	 Infantry"
+		type=infantry
+		home=226
+	}
+	regiment = {
+		name="1st 	New Haven	 Infantry"
+		type=infantry
+		home=241
+	}
+	regiment = {
+		name="1st 	Philadelphia	 Artillery"
+		type=artillery
+		home=223
+	}
+	regiment = {
+		name="1st 	Albany	 Artillery"
+		type=artillery
+		home=234
+	}
+	regiment = {
+		name="2nd Argyllstoun Artillery"
+		type=artillery
+		home=243
+	}
+}
+
+army = {
+	name="5th Army"
+	location=136
+	regiment = {
+		name="1st 	Cheviot Chase	 Infantry"
+		type=infantry
+		home=219
+	}
+	regiment = {
+		name="1st 	Delaware	 Infantry"
+		type=infantry
+		home=222
+	}
+	regiment = {
+		name="2nd 	Cheviot Chase	 Infantry"
+		type=infantry
+		home=219
+	}
+	regiment = {
+		name="1st 	Govanstoun	 Artillery"
+		type=artillery
+		home=198
+	}
+	regiment = {
+		name="1st Argyllstoun Artillery"
+		type=artillery
+		home=243
+	}
+	regiment = {
+		name="1st 	Harrisburgh	 Artillery"
+		type=artillery
+		home=226
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=241
+	ship = {
+		name="2nd Argyllstoun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	New Stirling	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	New Stirling	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	New Haven	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd 	New Stirling	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	New Haven	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Delaware	 Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1405
+	regiment = {
+		name="1st 	Rhode Island	 Infantry"
+		type=infantry
+		home=242
+	}
+	regiment = {
+		name="1st 	River Colony	 Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="2nd 	River Colony	 Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="1st Argyllstoun Infantry"
+		type=infantry
+		home=243
+	}
+	regiment = {
+		name="2nd Argyllstoun Infantry"
+		type=infantry
+		home=243
+	}
+	regiment = {
+		name="1st 	New Haven	 Artillery"
+		type=artillery
+		home=241
+	}
+	regiment = {
+		name="1st 	Rhode Island	 Artillery"
+		type=artillery
+		home=242
+	}
+	regiment = {
+		name="1st 	Rappahannock	 Artillery"
+		type=artillery
+		home=213
+	}
+	regiment = {
+		name="2nd Tuscaloosa Infantry"
+		type=infantry
+		home=195
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=192
+	regiment = {
+		name="3rd 	Cheviot Chase	 Infantry"
+		type=infantry
+		home=219
+	}
+	regiment = {
+		name="1st 	Charlottesville	 Infantry"
+		type=infantry
+		home=211
+	}
+	regiment = {
+		name="1st 	Albany	 Infantry"
+		type=infantry
+		home=234
+	}
+	regiment = {
+		name="1st Tuscaloosa Infantry"
+		type=infantry
+		home=195
+	}
+	regiment = {
+		name="2nd 	Cape Fear	 Infantry"
+		type=infantry
+		home=210
+	}
+	regiment = {
+		name="3rd Argyllstoun Infantry"
+		type=infantry
+		home=243
+	}
+	regiment = {
+		name="1st 	Peachtree	 Artillery"
+		type=artillery
+		home=201
+	}
+	regiment = {
+		name="1st 	River Colony	 Artillery"
+		type=artillery
+		home=245
+	}
+	regiment = {
+		name="1st 	New Stirling	 Artillery"
+		type=artillery
+		home=232
+	}
+	regiment = {
+		name="2nd 	Peachtree	 Artillery"
+		type=artillery
+		home=201
+	}
+	regiment = {
+		name="1st 	Shandon	 Cavalry"
+		type=cavalry
+		home=244
+	}
+}
+
+army = {
+	name="7th Army"
+	location=197
+	regiment = {
+		name="1st 	Rappahannock	 Infantry"
+		type=infantry
+		home=213
+	}
+	regiment = {
+		name="1st 	Granville	 Infantry"
+		type=infantry
+		home=207
+	}
+	regiment = {
+		name="2nd 	Albany	 Infantry"
+		type=infantry
+		home=234
+	}
+	regiment = {
+		name="2nd 	River Colony	 Artillery"
+		type=artillery
+		home=245
+	}
+	regiment = {
+		name="1st 	Lake Arthur	 Artillery"
+		type=artillery
+		home=141
+	}
+	regiment = {
+		name="1st 	Ayr	 Artillery"
+		type=artillery
+		home=140
+	}
+	regiment = {
+		name="2nd 	Charlottesville	 Infantry"
+		type=infantry
+		home=211
+	}
+	regiment = {
+		name="2nd 	Lake Arthur	 Artillery"
+		type=artillery
+		home=141
+	}
+}
+
+navy = {
+	name="17th Fleet"
+	location=3204
+	ship = {
+		name="1st 	Maryland	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	New Fife	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Beaufort	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd 	New Haven	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	New Stirling	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Rhode Island	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fenellan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Rhode Island	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fenellan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Fenellan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Rappahannock	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Shandon	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Shandon	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd 	Shandon	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd 	Rhode Island	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Cheviot Chase	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Fenellan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th 	Rhode Island	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th 	Rhode Island	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Rappahannock	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd 	Rappahannock	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th 	Shandon	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Argyllstoun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Argyllstoun Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=241
+	ship = {
+		name="1st 	Cape Fear	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th 	New Haven	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	River Glades	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Shandon	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fenellan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th 	New Haven	 Frigate"
+		type=frigate
+	}
+}
+

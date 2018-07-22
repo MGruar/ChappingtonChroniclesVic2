@@ -1,0 +1,6 @@
+owner=YAN
+controller=YAN
+add_core=YAN
+trade_goods = timber
+life_rating = 20
+colonial=2

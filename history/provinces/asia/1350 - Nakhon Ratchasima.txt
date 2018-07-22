@@ -1,0 +1,7 @@
+owner=SIA
+controller=SIA
+add_core=SIA
+add_core=IDC
+add_core=CAM
+trade_goods = tea
+life_rating = 30

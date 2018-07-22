@@ -1,0 +1,743 @@
+#Sphere of Influence
+
+	ANU=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=134
+		level=3
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=65
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=51
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=-43
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=97
+		level=2
+	}
+	DOM=
+	{
+		value=-38
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=143
+		level=5
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=69
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=0
+		level=2
+	}
+	NNG=
+	{
+		value=5
+		level=5
+	}
+	OUC=
+	{
+		value=91
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=-34
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=88
+		level=3
+	}
+	SIA=
+	{
+		value=193
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=79
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=87
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=82
+		level=3
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=-69
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=96
+		level=3
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=56
+		level=5
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2818
+	ship = {
+		name="1st Zhaoqing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hai Phong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hue Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Guangdong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Zhaoqing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hai Phong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hai Phong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Guangdong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ayutthaya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lianzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hai Phong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lianzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lianzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hai Phong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hai Phong Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1373
+	regiment = {
+		name="1st Hue Infantry"
+		type=infantry
+		home=1375
+	}
+	regiment = {
+		name="1st Ji'an Infantry"
+		type=infantry
+		home=1547
+	}
+	regiment = {
+		name="2nd Hue Infantry"
+		type=infantry
+		home=1375
+	}
+	regiment = {
+		name="1st Wuzhou Artillery"
+		type=artillery
+		home=1504
+	}
+	regiment = {
+		name="3rd Hue Infantry"
+		type=infantry
+		home=1375
+	}
+	regiment = {
+		name="1st Quanzhou Artillery"
+		type=artillery
+		home=1484
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=1484
+	ship = {
+		name="1st Guangdong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lianzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lianzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hai Phong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vijaya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Guangdong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lianzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ha Tinh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Thanh Hóa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Huizhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hue Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vijaya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Guangdong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Thawai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hai Phong Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1260
+	regiment = {
+		name="1st Chaozhou Infantry"
+		type=infantry
+		home=1494
+	}
+	regiment = {
+		name="1st Hai Phong Infantry"
+		type=infantry
+		home=1370
+	}
+	regiment = {
+		name="1st Wulin Infantry"
+		type=infantry
+		home=1525
+	}
+	regiment = {
+		name="1st Tongren Infantry"
+		type=infantry
+		home=1507
+	}
+	regiment = {
+		name="1st Zhaoqing Infantry"
+		type=infantry
+		home=1501
+	}
+	regiment = {
+		name="1st Hai Phong Infantry"
+		type=infantry
+		home=1373
+	}
+	regiment = {
+		name="1st Guilin Artillery"
+		type=artillery
+		home=1503
+	}
+	regiment = {
+		name="1st Ha Tinh Artillery"
+		type=artillery
+		home=1376
+	}
+	regiment = {
+		name="1st Chaozhou Artillery"
+		type=artillery
+		home=1494
+	}
+	regiment = {
+		name="2nd Chaozhou Infantry"
+		type=infantry
+		home=1494
+	}
+	regiment = {
+		name="1st Lingyun Cavalry"
+		type=cavalry
+		home=1502
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1373
+	regiment = {
+		name="1st Ganzhou Infantry"
+		type=infantry
+		home=1550
+	}
+	regiment = {
+		name="1st Tingzhou Infantry"
+		type=infantry
+		home=1486
+	}
+	regiment = {
+		name="1st Lingyun Infantry"
+		type=infantry
+		home=1502
+	}
+	regiment = {
+		name="1st Zhaoqing Artillery"
+		type=artillery
+		home=1501
+	}
+	regiment = {
+		name="1st Cao Bang Infantry"
+		type=infantry
+		home=1371
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1237
+	regiment = {
+		name="1st Guiyang Infantry"
+		type=infantry
+		home=1505
+	}
+	regiment = {
+		name="1st Yazhou Infantry"
+		type=infantry
+		home=1499
+	}
+	regiment = {
+		name="1st Lianzhou Infantry"
+		type=infantry
+		home=1495
+	}
+	regiment = {
+		name="1st Poyang Artillery"
+		type=artillery
+		home=1546
+	}
+	regiment = {
+		name="2nd Zhaoqing Artillery"
+		type=artillery
+		home=1501
+	}
+}
+
+army = {
+	name="31st Army"
+	location=1239
+	regiment = {
+		name="2nd Lianzhou Infantry"
+		type=infantry
+		home=1495
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1665
+	regiment = {
+		name="1st Thanh Hóa Infantry"
+		type=infantry
+		home=1374
+	}
+	regiment = {
+		name="1st Luang Phrabang Infantry"
+		type=infantry
+		home=1360
+	}
+	regiment = {
+		name="2nd Yazhou Infantry"
+		type=infantry
+		home=1499
+	}
+	regiment = {
+		name="1st Ha Tinh Infantry"
+		type=infantry
+		home=1376
+	}
+	regiment = {
+		name="1st Guiyang Artillery"
+		type=artillery
+		home=1505
+	}
+	regiment = {
+		name="1st Tongren Artillery"
+		type=artillery
+		home=1507
+	}
+	regiment = {
+		name="1st Indrapura Infantry"
+		type=infantry
+		home=1377
+	}
+}
+

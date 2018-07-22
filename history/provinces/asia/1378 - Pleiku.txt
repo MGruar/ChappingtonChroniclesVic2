@@ -1,0 +1,13 @@
+owner=CGS
+controller=CGS
+add_core=CHA
+add_core=CGS
+add_core=IDC
+trade_goods = tobacco
+life_rating = 30
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

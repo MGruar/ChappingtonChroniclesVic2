@@ -1,0 +1,7 @@
+owner=X18
+controller=X18
+add_core=X17
+add_core=X18
+add_core=TKS
+trade_goods = sulphur
+life_rating = 32

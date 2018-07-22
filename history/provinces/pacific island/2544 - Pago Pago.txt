@@ -1,0 +1,5 @@
+owner=PAT
+controller=PAT
+add_core=PAT
+trade_goods = fish
+life_rating = 15

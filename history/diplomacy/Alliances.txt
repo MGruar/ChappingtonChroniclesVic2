@@ -1,0 +1,352 @@
+alliance=
+{
+	first="CAN"
+	second="X22"
+	start_date="1800.3.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CHL"
+	second="CLM"
+	start_date="1796.4.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HAI"
+	second="MEX"
+	start_date="1797.6.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HAI"
+	second="X22"
+	start_date="1808.6.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="POM"
+	second="X25"
+	start_date="1782.5.15"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="YAR"
+	second="X08"
+	start_date="1799.1.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BUU"
+	second="RWA"
+	start_date="1677.2.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BUU"
+	second="X09"
+	start_date="1811.6.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ATJ"
+	second="BNG"
+	start_date="1762.9.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ATJ"
+	second="BRU"
+	start_date="1790.5.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SIA"
+	second="BNG"
+	start_date="1688.5.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="JAP"
+	second="PSA"
+	start_date="1801.3.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SMZ"
+	second="KOR"
+	start_date="1813.3.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KHA"
+	second="KOR"
+	start_date="1812.5.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KOR"
+	second="JAP"
+	start_date="1812.12.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SUL"
+	second="BRU"
+	start_date="1725.5.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CMI"
+	second="NNG"
+	start_date="1790.6.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CMI"
+	second="CSH"
+	start_date="1804.7.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="YUE"
+	second="YAN"
+	start_date="1666.8.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SHU"
+	second="YAN"
+	start_date="1645.6.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SHU"
+	second="ARK"
+	start_date="1806.5.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SHU"
+	second="CGS"
+	start_date="1810.7.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="NNG"
+	second="YUE"
+	start_date="1787.10.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="YAN"
+	second="CGS"
+	start_date="1614.7.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="YAN"
+	second="BRU"
+	start_date="1761.2.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CGS"
+	second="X26"
+	start_date="1776.6.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CGS"
+	second="ARK"
+	start_date="1808.4.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BNG"
+	second="BRU"
+	start_date="1761.7.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HSE"
+	second="CMI"
+	start_date="1816.3.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X19"
+	second="USA"
+	start_date="1778.3.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X19"
+	second="POM"
+	start_date="1816.11.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X19"
+	second="CAN"
+	start_date="1820.10.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X19"
+	second="X22"
+	start_date="1820.12.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X25"
+	second="CHL"
+	start_date="1798.12.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X08"
+	second="BNG"
+	start_date="1758.11.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X08"
+	second="KUR"
+	start_date="1800.7.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X12"
+	second="X18"
+	start_date="1746.5.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X18"
+	second="X26"
+	start_date="1791.4.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CAL"
+	second="X32"
+	start_date="1809.11.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ARG"
+	second="DOM"
+	start_date="1807.10.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ARG"
+	second="X33"
+	start_date="1809.7.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X29"
+	second="CAL"
+	start_date="1812.3.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X29"
+	second="X32"
+	start_date="1813.5.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="UCA"
+	second="USA"
+	start_date="1817.8.6"
+	end_date="1936.1.1"
+}
+

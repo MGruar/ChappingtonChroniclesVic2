@@ -1,0 +1,114 @@
+1954 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=42707
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=1087
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=2174
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=353
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=92
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=43
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=456
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=7432
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = cathar
+		size=19538
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=497
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = cathar
+		size=2081
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = cathar
+		size=338
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=88
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = cathar
+		size=437
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = cathar
+		size=1841
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=CGS
+controller=CGS
+add_core=CHA
+add_core=CGS
+add_core=IDC
+trade_goods = cotton
+life_rating = 30

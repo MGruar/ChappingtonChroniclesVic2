@@ -1,0 +1,9 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=UBD
+add_core=EST
+trade_goods = grain
+life_rating = 35
+fort = 1
+railroad = 1

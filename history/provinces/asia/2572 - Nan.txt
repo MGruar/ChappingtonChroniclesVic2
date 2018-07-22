@@ -1,0 +1,8 @@
+owner=SIA
+controller=SIA
+add_core=LNA
+add_core=SUK
+add_core=SIA
+add_core=IDC
+trade_goods = opium
+life_rating = 30

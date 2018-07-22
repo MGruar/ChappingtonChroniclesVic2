@@ -1,0 +1,9 @@
+owner=X14
+controller=X14
+add_core=CSH
+add_core=MNG
+add_core=SHU
+add_core=X14
+add_core=TIB
+trade_goods = grain
+life_rating = 32

@@ -1,0 +1,788 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=14
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	FIN=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=-60
+		level=2
+	}
+	NIC=
+	{
+		value=-14
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=-127
+		level=2
+	}
+	X00=
+	{
+		value=-13
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=59
+		level=3
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=91
+		level=3
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=28
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=72
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=2163
+	regiment = {
+		name="1st 	Loch Abitibi	 Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="1st 	Caledonia	 Infantry"
+		type=infantry
+		home=71
+	}
+	regiment = {
+		name="1st 	Saint Jeremy	 Infantry"
+		type=infantry
+		home=61
+	}
+	regiment = {
+		name="1st 	Swift Current	 Infantry"
+		type=infantry
+		home=35
+	}
+	regiment = {
+		name="1st 	Cape Wick	 Artillery"
+		type=artillery
+		home=67
+	}
+	regiment = {
+		name="1st Three Watters Artillery"
+		type=artillery
+		home=64
+	}
+	regiment = {
+		name="2nd 	Cape Wick	 Artillery"
+		type=artillery
+		home=67
+	}
+	regiment = {
+		name="1st 	Nova Scotia	 Cavalry"
+		type=cavalry
+		home=72
+	}
+	regiment = {
+		name="1st 	Drummondville	 Artillery"
+		type=artillery
+		home=58
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2944
+	ship = {
+		name="1st 	Saint Jeremy	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd 	Saint Jeremy	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Mecatina	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quebec Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Iacobian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Quebec Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Quebec Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd 	Saint Jeremy	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Cape Wick	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Nova Scotia	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Peairt-Atholl Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	Nova Scotia	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th 	Saint Jeremy	 Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2165
+	regiment = {
+		name="1st 	Eastmain	 Infantry"
+		type=infantry
+		home=2593
+	}
+	regiment = {
+		name="1st 	Cape Wick	 Infantry"
+		type=infantry
+		home=67
+	}
+	regiment = {
+		name="1st 	Fort Albany	 Infantry"
+		type=infantry
+		home=2628
+	}
+	regiment = {
+		name="1st 	Moncton	 Infantry"
+		type=infantry
+		home=68
+	}
+	regiment = {
+		name="1st Peairt-Atholl Artillery"
+		type=artillery
+		home=69
+	}
+	regiment = {
+		name="1st 	Caledonia	 Artillery"
+		type=artillery
+		home=71
+	}
+	regiment = {
+		name="1st 	Castine	 Infantry"
+		type=infantry
+		home=249
+	}
+	regiment = {
+		name="2nd Peairt-Atholl Artillery"
+		type=artillery
+		home=69
+	}
+}
+
+army = {
+	name="11th Army"
+	location=127
+	regiment = {
+		name="2nd 	Moncton	 Infantry"
+		type=infantry
+		home=68
+	}
+	regiment = {
+		name="1st Three Watters Infantry"
+		type=infantry
+		home=64
+	}
+	regiment = {
+		name="1st Peairt-Atholl Infantry"
+		type=infantry
+		home=69
+	}
+	regiment = {
+		name="1st 	Drummondville	 Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Quebec Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="2nd Three Watters Artillery"
+		type=artillery
+		home=64
+	}
+	regiment = {
+		name="2nd 	Fort Elspeth	 Infantry"
+		type=infantry
+		home=248
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2163
+	regiment = {
+		name="1st 	Fort Elspeth	 Infantry"
+		type=infantry
+		home=248
+	}
+	regiment = {
+		name="1st 	Nova Scotia	 Infantry"
+		type=infantry
+		home=72
+	}
+	regiment = {
+		name="1st 	Fort Richmond	 Infantry"
+		type=infantry
+		home=2592
+	}
+	regiment = {
+		name="1st 	Ottawa	 Infantry"
+		type=infantry
+		home=57
+	}
+	regiment = {
+		name="2nd Quebec Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="1st 	Kinross	 Artillery"
+		type=artillery
+		home=177
+	}
+	regiment = {
+		name="2nd 	Nova Scotia	 Infantry"
+		type=infantry
+		home=72
+	}
+	regiment = {
+		name="1st 	Whit Muntains	 Cavalry"
+		type=cavalry
+		home=247
+	}
+	regiment = {
+		name="1st 	Nova Scotia	 Artillery"
+		type=artillery
+		home=72
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=3006
+	ship = {
+		name="1st Peairt-Atholl Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Castine	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd 	Castine	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Quebec Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd 	Nova Scotia	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Prince Edward Isl.	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Iacobian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Saint Jeremy	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Iacobian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Iacobian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Iacobian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quebec Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Quebec Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Iacobian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Cape Wick	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Quebec Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Quebec Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Quebec Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Castine	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Quebec Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Iacobian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Moncton	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd 	Cape Wick	 Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=2156
+	regiment = {
+		name="1st 	Saint Jeremy	 Artillery"
+		type=artillery
+		home=59
+	}
+}
+
+army = {
+	name="9th Army"
+	location=65
+	regiment = {
+		name="3rd Three Watters Artillery"
+		type=artillery
+		home=64
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2176
+	regiment = {
+		name="2nd Three Watters Infantry"
+		type=infantry
+		home=64
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3011
+	ship = {
+		name="2nd 	Castine	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd 	Castine	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Saint Jeremy	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Quebec Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th 	Castine	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Cape Wick	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Quebec Clipper Transport"
+		type=clipper_transport
+	}
+}
+

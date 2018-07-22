@@ -1,0 +1,532 @@
+#Sphere of Influence
+
+	ARA=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=-164
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=7
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=-10
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=-4
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=0
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=-92
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=-74
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=-58
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=2
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=127
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=-11
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=-31
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=-31
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="4th Fleet"
+	location=2436
+	ship = {
+		name="1st 	Rivera Verde	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	Rivera Verde	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd 	Rivera Verde	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th 	Rivera Verde	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Saltcoats Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2436
+	regiment = {
+		name="1st 	Forte del Santo	 Infantry"
+		type=infantry
+		home=2434
+	}
+	regiment = {
+		name="1st 	Nuova Ancona	 Cavalry"
+		type=cavalry
+		home=2435
+	}
+	regiment = {
+		name="1st 	Castel Vittoria 	 Artillery"
+		type=artillery
+		home=2440
+	}
+	regiment = {
+		name="2nd 	Nuova Ancona	 Cavalry"
+		type=cavalry
+		home=2435
+	}
+	regiment = {
+		name="2nd 	Castel Vittoria 	 Artillery"
+		type=artillery
+		home=2440
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2440
+	regiment = {
+		name="1st 	Pescara	 Infantry"
+		type=infantry
+		home=2433
+	}
+	regiment = {
+		name="1st 	Nuova Ancona	 Infantry"
+		type=infantry
+		home=2435
+	}
+	regiment = {
+		name="1st 	Croce del Colle	 Cavalry"
+		type=cavalry
+		home=2432
+	}
+	regiment = {
+		name="1st 	San Filiberto	 Artillery"
+		type=artillery
+		home=2444
+	}
+	regiment = {
+		name="1st 	Vesperina	 Infantry"
+		type=infantry
+		home=2437
+	}
+	regiment = {
+		name="1st 	Croce del Colle	 Artillery"
+		type=artillery
+		home=2432
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2983
+	ship = {
+		name="1st 	Baiabassa	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	Baiabassa	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th 	Rivera Verde	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2985
+	ship = {
+		name="1st 	Nuova Ancona	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Porto dell'Incolumità	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Forte del Santo	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Croce del Colle	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	Nuova Ancona	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th 	Rivera Verde	 Frigate"
+		type=frigate
+	}
+}
+

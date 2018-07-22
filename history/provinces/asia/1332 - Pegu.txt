@@ -1,0 +1,9 @@
+owner=BNG
+controller=BNG
+add_core=BUR
+add_core=BNG
+add_core=PEG
+add_core=ARK
+add_core=IDC
+trade_goods = grain
+life_rating = 30

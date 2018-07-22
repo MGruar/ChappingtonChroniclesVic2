@@ -1,0 +1,255 @@
+1321 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=14905
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=29810
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=4844
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=745
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=596
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=6260
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=688082
+	}
+
+}
+1322 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=5697
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=11393
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=1851
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=285
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=228
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=2393
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=262980
+	}
+
+}
+1323 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=1476
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=2952
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=480
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=74
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=59
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=620
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=68144
+	}
+
+}
+1324 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=1476
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=2952
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=480
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=74
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=59
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=620
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=68144
+	}
+
+}
+1325 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = hindu
+		size=2134
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = hindu
+		size=4268
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = hindu
+		size=694
+	}
+
+	bureaucrats=
+	{
+		culture = tamil
+		religion = hindu
+		size=107
+	}
+
+	officers=
+	{
+		culture = tamil
+		religion = hindu
+		size=85
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = hindu
+		size=896
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = hindu
+		size=98509
+	}
+
+}

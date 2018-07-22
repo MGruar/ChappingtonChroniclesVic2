@@ -1,0 +1,186 @@
+2191 = {
+	soldiers=
+	{
+		culture = texan
+		religion = cathar
+		size=717
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = cathar
+		size=1914
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = cathar
+		size=321
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = cathar
+		size=81
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = cathar
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = cathar
+		size=402
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = cathar
+		size=32386
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = mayan
+		size=1
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = mayan
+		size=482
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = mayan
+		size=81
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = mayan
+		size=20
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = mayan
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = mayan
+		size=101
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = texan
+		religion = cathar
+		size=717
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = cathar
+		size=1914
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = cathar
+		size=321
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = cathar
+		size=81
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = cathar
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = cathar
+		size=402
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = cathar
+		size=32386
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = mayan
+		size=1
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = mayan
+		size=482
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = mayan
+		size=81
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = mayan
+		size=20
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = mayan
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = mayan
+		size=101
+	}
+
+}

@@ -1,0 +1,13 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=ENG
+add_core=SCO
+trade_goods = coal
+life_rating = 35
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

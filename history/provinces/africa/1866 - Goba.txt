@@ -1,0 +1,7 @@
+owner=X09
+controller=X09
+add_core=SWA
+add_core=X09
+add_core=ARA
+trade_goods = cattle
+life_rating = 30

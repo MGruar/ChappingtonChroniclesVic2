@@ -1,0 +1,7 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=GER
+trade_goods = fruit
+life_rating = 40
+fort = 1

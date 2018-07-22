@@ -1,0 +1,5 @@
+owner=BUU
+controller=BUU
+add_core=BUU
+trade_goods = cotton
+life_rating = 15

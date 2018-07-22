@@ -1,0 +1,202 @@
+1189 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = hindu
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = hindu
+		size=1393
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = hindu
+		size=226
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = hindu
+		size=35
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = hindu
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = hindu
+		size=293
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = hindu
+		size=31827
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=579
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=1157
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=188
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=29
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=23
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=243
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=26716
+	}
+
+}
+1190 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = hindu
+		size=1087
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = hindu
+		size=2174
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = hindu
+		size=353
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = hindu
+		size=54
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = hindu
+		size=43
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = hindu
+		size=456
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = hindu
+		size=50177
+	}
+
+}
+1203 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = hindu
+		size=10517
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = hindu
+		size=21033
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = hindu
+		size=3418
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size=526
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = hindu
+		size=421
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size=4417
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = hindu
+		size=485496
+	}
+
+}

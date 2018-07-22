@@ -1,0 +1,1619 @@
+1745 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = monophysite
+		size=13560
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=7568
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=13912
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=2700
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=378
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=303
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=3179
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=335566
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=1225
+	}
+
+}
+1746 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=822
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=3289
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=592
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=82
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=66
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=691
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=76674
+	}
+
+	soldiers=
+	{
+		culture = misri
+		religion = orthodox
+		size=1510
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = orthodox
+		size=6039
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = orthodox
+		size=1087
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = orthodox
+		size=151
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = orthodox
+		size=121
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = orthodox
+		size=1268
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = orthodox
+		size=140808
+	}
+
+}
+1747 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=784
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=3136
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=564
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=78
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=63
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=659
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=73116
+	}
+
+}
+1748 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1962
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=7601
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1407
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=196
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=157
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=1648
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=182941
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+1749 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=7568
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=15137
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=2725
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=378
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=303
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=3179
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=349126
+	}
+
+}
+1750 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=784
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=3136
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=564
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=78
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=63
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=659
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=73116
+	}
+
+}
+1751 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size=18260
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=4901
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=18613
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=3518
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=490
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=392
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=4117
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=438776
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=990
+	}
+
+}
+1752 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1398
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=2796
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=454
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=70
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=56
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=587
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=64550
+	}
+
+}
+1753 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1398
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=2796
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=454
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=70
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=56
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=587
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=64550
+	}
+
+}
+1754 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=399
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=799
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=130
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=20
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=168
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=18442
+	}
+
+}
+1755 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=3068
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=6137
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=1105
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=153
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=123
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=1289
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=141539
+	}
+
+}
+1756 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=1040
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=2081
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=375
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=52
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=437
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=47996
+	}
+
+}
+1757 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=875
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=1751
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=315
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=44
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=368
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = monophysite
+		size=40380
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=431
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=1738
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=313
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=43
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=365
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=18631
+	}
+
+}
+1758 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size=50
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=1800
+	}
+
+}
+1759 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4241
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=763
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=106
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=85
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=891
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=95812
+	}
+
+}
+1760 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2366
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4732
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=852
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=118
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=95
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=994
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=109135
+	}
+
+}
+1761 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2344
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4687
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=844
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=117
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=94
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=984
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=108111
+	}
+
+}
+1762 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=7086
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=14171
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2551
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=354
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=283
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2976
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=326856
+	}
+
+}
+1763 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2211
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4423
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=796
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=111
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=929
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=102007
+	}
+
+}
+1764 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=5255
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=946
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=131
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=105
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1104
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=119696
+	}
+
+}
+1765 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1498
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=5990
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1078
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=150
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=120
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=1258
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=139668
+	}
+
+}
+2559 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2770
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=5541
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=997
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=139
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=111
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1164
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=127801
+	}
+
+}
+1766 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2344
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4687
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=844
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=117
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=94
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=984
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=108111
+	}
+
+}
+1767 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=3782
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=7564
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1362
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=189
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=151
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1589
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=174475
+	}
+
+}
+1768 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1321
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2642
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=476
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=66
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=555
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=60941
+	}
+
+}
+1769 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4139
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=8277
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1490
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=207
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=166
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1738
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=190911
+	}
+
+}
+1770 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1321
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2642
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=476
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=66
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=555
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=60941
+	}
+
+}
+1771 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1321
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2642
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=476
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=66
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=555
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=60941
+	}
+
+}
+1772 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4618
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=9237
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1663
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=231
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=185
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1940
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=213040
+	}
+
+}

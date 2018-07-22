@@ -1,0 +1,8 @@
+owner=YAR
+controller=YAR
+add_core=X07
+add_core=YAR
+add_core=KHA
+add_core=MGL
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,599 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=64
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	FIN=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=-35
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=75
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=6
+		level=2
+	}
+	X34=
+	{
+		value=13
+		level=2
+	}
+	X35=
+	{
+		value=91
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="9th Army"
+	location=2262
+	regiment = {
+		name="1st Catherinesland Infantry"
+		type=infantry
+		home=2281
+	}
+	regiment = {
+		name="1st Terrmouth Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="1st New Crieff Infantry"
+		type=infantry
+		home=2205
+	}
+	regiment = {
+		name="1st 	Fort Caesar	 Cavalry"
+		type=cavalry
+		home=2269
+	}
+	regiment = {
+		name="1st Terrmouth Artillery"
+		type=artillery
+		home=2276
+	}
+	regiment = {
+		name="2nd Terrmouth Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="1st 	Fort Caesar	 Cavalry"
+		type=cavalry
+		home=2267
+	}
+	regiment = {
+		name="3rd Terrmouth Artillery"
+		type=artillery
+		home=2276
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2266
+	regiment = {
+		name="1st 	Port Dampier	 Infantry"
+		type=infantry
+		home=2280
+	}
+	regiment = {
+		name="1st 	Marr	 Infantry"
+		type=infantry
+		home=2293
+	}
+	regiment = {
+		name="1st 	Avonlea	 Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="1st 	Saint Basil	 Infantry"
+		type=infantry
+		home=2259
+	}
+	regiment = {
+		name="1st Terrmouth Cavalry"
+		type=cavalry
+		home=2276
+	}
+	regiment = {
+		name="2nd Terrmouth Artillery"
+		type=artillery
+		home=2276
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2258
+	ship = {
+		name="1st New Edinburgh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st 	Princetoon	 Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st New Edinburgh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Catherinesland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st New Crieff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st New Edinburgh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd New Crieff Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2267
+	ship = {
+		name="3rd New Crieff Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2970
+	ship = {
+		name="1st New Crieff Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Edinburgh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Crieff Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th New Crieff Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2970
+	ship = {
+		name="2nd New Crieff Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	Stewartsburgh	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Parkmill	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2975
+	ship = {
+		name="1st 	Stewartsburgh	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2970
+	ship = {
+		name="1st 	Parkmill	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Terrmouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st 	San Bonifazio	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2270
+	ship = {
+		name="1st New Edinburgh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd New Edinburgh Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2258
+	ship = {
+		name="1st 	Fort Caesar	 Frigate"
+		type=frigate
+	}
+}
+

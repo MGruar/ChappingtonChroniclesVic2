@@ -1,0 +1,583 @@
+897 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=5805
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=21771
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=4130
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=581
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=464
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=4876
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=541389
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=1450
+	}
+
+}
+901 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=173
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=693
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=125
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=29
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=146
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=16144
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=770
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=3425
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=616
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=146
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=68
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=719
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=71216
+	}
+
+}
+902 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=2655
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=8672
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1862
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=266
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=212
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=2231
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=247640
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=1950
+	}
+
+}
+903 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=3263
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=13051
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=2349
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=326
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=261
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=2741
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size=304277
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1346
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=11909
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=2144
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=298
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=238
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=2501
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=116150
+	}
+
+}
+904 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=2823
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=11293
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=2033
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=282
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=226
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=2372
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=263304
+	}
+
+}
+905 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=3319
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=13277
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=2390
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=332
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=266
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=2788
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=309554
+	}
+
+}
+906 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1951
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=10619
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1911
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=451
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=212
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=2230
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=177768
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size=1178
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size=7524
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size=1354
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size=320
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size=150
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size=1580
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size=105683
+	}
+
+}
+907 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1232
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=4929
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=887
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=209
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=99
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=1035
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=114844
+	}
+
+}

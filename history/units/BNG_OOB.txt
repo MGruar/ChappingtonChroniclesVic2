@@ -1,0 +1,649 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=82
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=154
+		level=3
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=114
+		level=3
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=79
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=7
+		level=2
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=88
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=7
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=14
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=0
+		level=2
+	}
+	NNG=
+	{
+		value=82
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=-53
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=90
+		level=3
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=-34
+		level=2
+	}
+	UCA=
+	{
+		value=38
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=79
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=3
+	}
+	X13=
+	{
+		value=88
+		level=2
+	}
+	X14=
+	{
+		value=97
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=-92
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=79
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=61
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=41
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="13th Army"
+	location=1603
+	regiment = {
+		name="1st Sagaing Artillery"
+		type=artillery
+		home=1334
+	}
+	regiment = {
+		name="1st Tamanthi Artillery"
+		type=artillery
+		home=1339
+	}
+	regiment = {
+		name="2nd Bangka Infantry"
+		type=infantry
+		home=1404
+	}
+	regiment = {
+		name="1st Sunderbans Cavalry"
+		type=cavalry
+		home=1256
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1357
+	regiment = {
+		name="1st Silhet Infantry"
+		type=infantry
+		home=2566
+	}
+	regiment = {
+		name="1st Bangka Infantry"
+		type=infantry
+		home=1404
+	}
+	regiment = {
+		name="1st Cachar Artillery"
+		type=artillery
+		home=1259
+	}
+	regiment = {
+		name="2nd Tamanthi Artillery"
+		type=artillery
+		home=1339
+	}
+	regiment = {
+		name="1st Mong Pai Artillery"
+		type=artillery
+		home=1338
+	}
+	regiment = {
+		name="1st Mong Pai Infantry"
+		type=infantry
+		home=1338
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1507
+	regiment = {
+		name="1st Katehar Infantry"
+		type=infantry
+		home=1239
+	}
+	regiment = {
+		name="1st Dhaka Infantry"
+		type=infantry
+		home=1257
+	}
+	regiment = {
+		name="2nd Silhet Infantry"
+		type=infantry
+		home=2566
+	}
+	regiment = {
+		name="4th Silhet Infantry"
+		type=infantry
+		home=2566
+	}
+}
+
+army = {
+	name="11th Army"
+	location=610
+	regiment = {
+		name="1st Ava Artillery"
+		type=artillery
+		home=1333
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2857
+	ship = {
+		name="1st Mawlamyine Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mawlamyine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bengal Delta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yamdena Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bengal Delta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dhaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mawlamyine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sumba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dhaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bengal Delta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bengal Delta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dhaka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mawlamyine Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dhaka Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1332
+	ship = {
+		name="1st Bengal Delta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bengal Delta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sunderbans Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dhaka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dhaka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dhaka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Palembang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bengal Delta Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1506
+	regiment = {
+		name="3rd Silhet Infantry"
+		type=infantry
+		home=2566
+	}
+	regiment = {
+		name="1st Sagaing Infantry"
+		type=infantry
+		home=1334
+	}
+	regiment = {
+		name="1st Barind Infantry"
+		type=infantry
+		home=1255
+	}
+	regiment = {
+		name="1st Bengal Delta Infantry"
+		type=infantry
+		home=1251
+	}
+	regiment = {
+		name="1st Bahara'ica Infantry"
+		type=infantry
+		home=1242
+	}
+	regiment = {
+		name="1st Ava Artillery"
+		type=artillery
+		home=1335
+	}
+	regiment = {
+		name="1st Mandu Artillery"
+		type=artillery
+		home=1272
+	}
+	regiment = {
+		name="1st Silhet Artillery"
+		type=artillery
+		home=2566
+	}
+	regiment = {
+		name="1st Tamanthi Infantry"
+		type=infantry
+		home=1339
+	}
+	regiment = {
+		name="2nd Silhet Artillery"
+		type=artillery
+		home=2566
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1372
+	regiment = {
+		name="1st Sunderbans Artillery"
+		type=artillery
+		home=1256
+	}
+}
+

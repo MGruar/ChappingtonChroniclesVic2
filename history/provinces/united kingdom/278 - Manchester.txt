@@ -1,0 +1,7 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=AES
+trade_goods = coal
+life_rating = 40
+railroad = 1

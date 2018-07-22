@@ -1,0 +1,730 @@
+1173 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = sunni
+		size=906
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = sunni
+		size=3625
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = sunni
+		size=589
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = sunni
+		size=109
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = sunni
+		size=73
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = sunni
+		size=761
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = sunni
+		size=84564
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1612
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=11626
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1889
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=349
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=233
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2441
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=143036
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = hindu
+		size=1048
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = hindu
+		size=7557
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = hindu
+		size=1228
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = hindu
+		size=227
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = hindu
+		size=151
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = hindu
+		size=1587
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = hindu
+		size=92973
+	}
+
+}
+1175 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=1217
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = hindu
+		size=4870
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = hindu
+		size=791
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=146
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=97
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=1023
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=113596
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=155
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=3056
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=497
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=92
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=61
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=642
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=11019
+	}
+
+}
+1176 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2169
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=8674
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1410
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=260
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=173
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1822
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=202351
+	}
+
+}
+1177 = {
+	slaves=
+	{
+		culture = amhara
+		religion = sunni
+		size=39286
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = sunni
+		size=2964
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = sunni
+		size=5929
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = sunni
+		size=993
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = sunni
+		size=252
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = sunni
+		size=119
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = sunni
+		size=1245
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = sunni
+		size=97428
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = hindu
+		size=14241
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = hindu
+		size=1075
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = hindu
+		size=5113
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = hindu
+		size=857
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = hindu
+		size=217
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = hindu
+		size=102
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = hindu
+		size=1074
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = hindu
+		size=31049
+	}
+
+}
+1178 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=3248
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=11544
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=2087
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=390
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=260
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=2728
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=303052
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=63
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=224
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=41
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=8
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=53
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=5846
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=1475
+	}
+
+}
+1179 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4384
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=8767
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1578
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=219
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=175
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1841
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=202212
+	}
+
+}
+1180 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2315
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=4631
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=834
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=116
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=93
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=972
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=106812
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=5740
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=11479
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=2066
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=287
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=230
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=2411
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = monophysite
+		size=264768
+	}
+
+}
+1412 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=2169
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = monophysite
+		size=8674
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1410
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=260
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=173
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = monophysite
+		size=1822
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = monophysite
+		size=202351
+	}
+
+}

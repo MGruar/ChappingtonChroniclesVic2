@@ -1,0 +1,204 @@
+251 = {
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=1210
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=2420
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=393
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=103
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=67
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=508
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=55810
+	}
+
+}
+2591 = {
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=1210
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=2420
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=393
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=103
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=67
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=508
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=55810
+	}
+
+}
+2632 = {
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=1210
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=2420
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=393
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=103
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=67
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=508
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=55810
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=1210
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=2420
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=393
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=103
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=67
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=508
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = cathar
+		size=55810
+	}
+
+}

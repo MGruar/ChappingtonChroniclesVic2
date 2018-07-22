@@ -1,0 +1,495 @@
+#Sphere of Influence
+
+	ARA=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUU=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=-94
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=-11
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=-14
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=-35
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=-13
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=-13
+		level=2
+	}
+	X22=
+	{
+		value=98
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X26=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=-9
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=-13
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=0
+		level=2
+	}
+	YAR=
+	{
+		value=0
+		level=2
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=2298
+	regiment = {
+		name="1st 	Baile nan Righ	 Infantry"
+		type=infantry
+		home=2299
+	}
+	regiment = {
+		name="1st 	A 'Mhearcair	 Infantry"
+		type=infantry
+		home=2296
+	}
+	regiment = {
+		name="2nd 	Baile nan Righ	 Infantry"
+		type=infantry
+		home=2299
+	}
+	regiment = {
+		name="1st 	Great Culster	 Cavalry"
+		type=cavalry
+		home=2297
+	}
+	regiment = {
+		name="1st 	A 'Mhearcair	 Cavalry"
+		type=cavalry
+		home=2296
+	}
+	regiment = {
+		name="1st 	A 'Mhearcair	 Artillery"
+		type=artillery
+		home=2296
+	}
+	regiment = {
+		name="1st 	Great Culster	 Artillery"
+		type=artillery
+		home=2297
+	}
+	regiment = {
+		name="1st 	Great Culster	 Infantry"
+		type=infantry
+		home=2297
+	}
+	regiment = {
+		name="2nd 	A 'Mhearcair	 Cavalry"
+		type=cavalry
+		home=2296
+	}
+	regiment = {
+		name="2nd 	A 'Mhearcair	 Artillery"
+		type=artillery
+		home=2296
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2297
+	ship = {
+		name="1st 	Great Culster	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th 	Wemyss	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2984
+	ship = {
+		name="1st 	Great Culster	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd 	Great Culster	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st 	Thirldom	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2998
+	ship = {
+		name="1st 	Wemyss	 Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd 	Great Culster	 Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2973
+	ship = {
+		name="1st 	Wemyss	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Wemyss	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd 	Wemyss	 Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd 	Great Culster	 Clipper Transport"
+		type=clipper_transport
+	}
+}
+

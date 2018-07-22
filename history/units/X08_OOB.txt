@@ -1,0 +1,1035 @@
+#Sphere of Influence
+
+	ARG=
+	{
+		value=31
+		level=2
+	}
+	ARK=
+	{
+		value=79
+		level=2
+	}
+	AST=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=85
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=82
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=79
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CGS=
+	{
+		value=0
+		level=2
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHL=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CMI=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CSH=
+	{
+		value=0
+		level=2
+	}
+	DOM=
+	{
+		value=0
+		level=2
+	}
+	FIN=
+	{
+		value=0
+		level=2
+	}
+	GER=
+	{
+		value=0
+		level=2
+	}
+	GRE=
+	{
+		value=-9
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HSE=
+	{
+		value=40
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KLK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=78
+		level=3
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	MEX=
+	{
+		value=0
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NIC=
+	{
+		value=79
+		level=2
+	}
+	NNG=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	PSA=
+	{
+		value=0
+		level=2
+	}
+	RWA=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SHU=
+	{
+		value=76
+		level=2
+	}
+	SIA=
+	{
+		value=82
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=91
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=-3
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=3
+	}
+	X13=
+	{
+		value=55
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=82
+		level=2
+	}
+	X19=
+	{
+		value=11
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=-35
+		level=2
+	}
+	X25=
+	{
+		value=-5
+		level=2
+	}
+	X26=
+	{
+		value=-64
+		level=2
+	}
+	X28=
+	{
+		value=-10
+		level=2
+	}
+	X29=
+	{
+		value=82
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=63
+		level=2
+	}
+	X32=
+	{
+		value=82
+		level=2
+	}
+	X33=
+	{
+		value=7
+		level=2
+	}
+	X34=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	YAN=
+	{
+		value=97
+		level=2
+	}
+	YAR=
+	{
+		value=78
+		level=3
+	}
+	YUE=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="5th Fleet"
+	location=1165
+	ship = {
+		name="1st Thatta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st ash-Sharjah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Giranara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Thatta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Thatta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd ash-Sharjah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Giranara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Giranara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Thatta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Thatta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kutch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Giranara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dashtestan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Larestan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zufra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ahvaz Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2781
+	ship = {
+		name="1st Zufra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Qatar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Giranara Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2793
+	ship = {
+		name="1st Bela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Giranara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kutch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bela Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=925
+	regiment = {
+		name="1st Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="2nd Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="1st Soltanieh Infantry"
+		type=infantry
+		home=1123
+	}
+	regiment = {
+		name="3rd Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="4th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="5th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="6th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="7th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="8th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="1st Isfahan Artillery"
+		type=artillery
+		home=1127
+	}
+	regiment = {
+		name="1st Siraf Artillery"
+		type=artillery
+		home=1138
+	}
+	regiment = {
+		name="1st Kashan Cavalry"
+		type=cavalry
+		home=1129
+	}
+	regiment = {
+		name="1st Soleymaniyyeh Artillery"
+		type=artillery
+		home=925
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1128
+	regiment = {
+		name="1st Kashan Infantry"
+		type=infantry
+		home=1129
+	}
+	regiment = {
+		name="1st Qazaniyeh Infantry"
+		type=infantry
+		home=928
+	}
+	regiment = {
+		name="1st Savah Infantry"
+		type=infantry
+		home=1125
+	}
+	regiment = {
+		name="1st Arvand Rud Infantry"
+		type=infantry
+		home=933
+	}
+	regiment = {
+		name="1st Basra Infantry"
+		type=infantry
+		home=932
+	}
+	regiment = {
+		name="1st Malamir Artillery"
+		type=artillery
+		home=1134
+	}
+	regiment = {
+		name="1st Hoveyzeh Artillery"
+		type=artillery
+		home=1131
+	}
+	regiment = {
+		name="1st Teheran Artillery"
+		type=artillery
+		home=1121
+	}
+	regiment = {
+		name="1st Savah Artillery"
+		type=artillery
+		home=1128
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1141
+	regiment = {
+		name="9th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2899
+	ship = {
+		name="1st Chabahar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zufra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Zufra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Zufra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kutch Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2791
+	ship = {
+		name="5th Bela Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=1166
+	ship = {
+		name="1st Giranara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Giranara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zufra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Giranara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Zufra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chabahar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kutch Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kutch Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Giranara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st ash-Sharjah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chabahar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd ash-Sharjah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Giranara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kutch Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd ash-Sharjah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Zufra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Thatta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th ash-Sharjah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Thatta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Bela Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1141
+	regiment = {
+		name="1st Kirmanshah Infantry"
+		type=infantry
+		home=1117
+	}
+	regiment = {
+		name="10th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="1st Jask Infantry"
+		type=infantry
+		home=1145
+	}
+	regiment = {
+		name="11th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="12th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="13th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="1st Darab Infantry"
+		type=infantry
+		home=1135
+	}
+	regiment = {
+		name="2nd Savah Infantry"
+		type=infantry
+		home=1125
+	}
+	regiment = {
+		name="1st Darab Artillery"
+		type=artillery
+		home=1135
+	}
+}
+
+army = {
+	name="12th Army"
+	location=892
+	regiment = {
+		name="14th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="2nd Kashan Infantry"
+		type=infantry
+		home=1129
+	}
+	regiment = {
+		name="1st Goravara Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="1st Larestan Infantry"
+		type=infantry
+		home=1141
+	}
+	regiment = {
+		name="1st Kirmanshah Artillery"
+		type=artillery
+		home=1117
+	}
+	regiment = {
+		name="1st Baghdad Artillery"
+		type=artillery
+		home=926
+	}
+	regiment = {
+		name="1st Malamir Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="1st Basra Cavalry"
+		type=cavalry
+		home=932
+	}
+	regiment = {
+		name="2nd Hoveyzeh Artillery"
+		type=artillery
+		home=1131
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1135
+	regiment = {
+		name="15th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="2nd Basra Infantry"
+		type=infantry
+		home=932
+	}
+	regiment = {
+		name="16th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="17th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="1st Ilam Artillery"
+		type=artillery
+		home=1119
+	}
+	regiment = {
+		name="20th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="1st Savah Cavalry"
+		type=cavalry
+		home=1128
+	}
+	regiment = {
+		name="2nd Malamir Artillery"
+		type=artillery
+		home=1134
+	}
+}
+
+army = {
+	name="6th Army"
+	location=928
+	regiment = {
+		name="1st Qalat Infantry"
+		type=infantry
+		home=1220
+	}
+	regiment = {
+		name="2nd Teheran Artillery"
+		type=artillery
+		home=1121
+	}
+	regiment = {
+		name="1st Qalat Infantry"
+		type=infantry
+		home=1221
+	}
+	regiment = {
+		name="1st Soltanieh Artillery"
+		type=artillery
+		home=1123
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1132
+	regiment = {
+		name="2nd Darab Infantry"
+		type=infantry
+		home=1135
+	}
+	regiment = {
+		name="18th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="19th Saidabad Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="2nd Arvand Rud Infantry"
+		type=infantry
+		home=933
+	}
+	regiment = {
+		name="1st Semnan Artillery"
+		type=artillery
+		home=1126
+	}
+	regiment = {
+		name="1st Ahvaz Artillery"
+		type=artillery
+		home=1132
+	}
+	regiment = {
+		name="1st Siraf Infantry"
+		type=infantry
+		home=1138
+	}
+	regiment = {
+		name="1st Orumiyeh Artillery"
+		type=artillery
+		home=1110
+	}
+}
+

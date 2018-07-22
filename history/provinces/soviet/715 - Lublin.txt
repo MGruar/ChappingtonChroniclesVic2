@@ -1,0 +1,7 @@
+owner=POM
+controller=POM
+add_core=POM
+add_core=POL
+add_core=PLC
+trade_goods = grain
+life_rating = 35

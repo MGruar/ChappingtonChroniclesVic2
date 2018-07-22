@@ -1,0 +1,8 @@
+owner=HSE
+controller=HSE
+add_core=CDL
+add_core=HSE
+add_core=SST
+add_core=CHI
+trade_goods = timber
+life_rating = 32

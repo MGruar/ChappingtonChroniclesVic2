@@ -1,0 +1,9 @@
+owner=NNG
+controller=NNG
+add_core=OTM
+add_core=OUC
+add_core=KOR
+add_core=SMZ
+add_core=JAP
+trade_goods = coal
+life_rating = 35

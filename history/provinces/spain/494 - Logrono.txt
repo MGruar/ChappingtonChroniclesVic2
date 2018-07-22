@@ -1,0 +1,7 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=SPA
+add_core=EUS
+trade_goods = iron
+life_rating = 35

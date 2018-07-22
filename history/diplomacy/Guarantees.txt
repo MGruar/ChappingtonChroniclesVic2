@@ -1,0 +1,48 @@
+guarantee=
+{
+	first="GRE"
+	second="YAR"
+	start_date="1798.12.2"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="KUR"
+	second="YAR"
+	start_date="1804.2.8"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="BNG"
+	second="X12"
+	start_date="1782.12.20"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X25"
+	second="KON"
+	start_date="1751.2.17"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X25"
+	second="GER"
+	start_date="1818.4.22"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X08"
+	second="X12"
+	start_date="1785.1.18"
+	end_date="1936.1.1"
+}
+

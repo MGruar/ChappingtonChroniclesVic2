@@ -1,0 +1,682 @@
+935 = {
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size=1782
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size=7129
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size=1283
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size=303
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size=143
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size=1497
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size=166093
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=281
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=4687
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=844
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=199
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=94
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=984
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=20982
+	}
+
+}
+1162 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=1356
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = hindu
+		size=5424
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = hindu
+		size=976
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=231
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=108
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=1139
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=126364
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=129
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=3227
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=581
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=137
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=65
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=678
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=8065
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=3
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=2726
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=491
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=116
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=572
+	}
+
+}
+1165 = {
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size=1167
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size=4668
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size=840
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size=198
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size=93
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size=980
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size=108750
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=131
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=2859
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=515
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=122
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=57
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=600
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=8844
+	}
+
+}
+1167 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=1994
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = hindu
+		size=7977
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = hindu
+		size=1436
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=339
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=160
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=1675
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=185856
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=274
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=5086
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=915
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=216
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=102
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=1068
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=19762
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size=593
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size=2370
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size=427
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size=101
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size=47
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size=498
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size=55225
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=67
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=1452
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=261
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=62
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=305
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = orthodox
+		size=4491
+	}
+
+}
+1168 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=3248
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = hindu
+		size=12992
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = hindu
+		size=2339
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=552
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=260
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = hindu
+		size=2728
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = hindu
+		size=302693
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=438
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=8250
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=1485
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=351
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=165
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=1733
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = orthodox
+		size=31428
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = orthodox
+		size=57
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = orthodox
+		size=6724
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = orthodox
+		size=1210
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=286
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = orthodox
+		size=134
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = orthodox
+		size=1412
+	}
+
+}

@@ -1,0 +1,51 @@
+1097 = {
+	soldiers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=466
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = hindu
+		size=932
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = hindu
+		size=151
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = hindu
+		size=56
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = hindu
+		size=196
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=21470
+	}
+
+}

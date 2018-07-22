@@ -1,0 +1,6 @@
+owner=X30
+controller=X30
+add_core=CSU
+add_core=X30
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,300 @@
+1201 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=4227
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=8454
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=1374
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=211
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=169
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=1775
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=195137
+	}
+
+}
+1207 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size=5024
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size=14788
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size=2403
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=370
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = hindu
+		size=296
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size=3105
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size=225213
+	}
+
+	soldiers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=2903
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = orthodox
+		size=10546
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = orthodox
+		size=1714
+	}
+
+	bureaucrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=264
+	}
+
+	officers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=211
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = orthodox
+		size=2215
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = orthodox
+		size=127297
+	}
+
+}
+1208 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = hindu
+		size=4659
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = hindu
+		size=11312
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = hindu
+		size=1838
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size=283
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = hindu
+		size=226
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size=2376
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = hindu
+		size=212236
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = orthodox
+		size=1939
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = orthodox
+		size=4906
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = orthodox
+		size=797
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = orthodox
+		size=123
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = orthodox
+		size=98
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = orthodox
+		size=1030
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = orthodox
+		size=88048
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = protestant
+		size=915
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = protestant
+		size=2859
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = protestant
+		size=465
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = protestant
+		size=71
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = protestant
+		size=57
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = protestant
+		size=600
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = protestant
+		size=40804
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=BUU
+controller=BUU
+add_core=BUU
+trade_goods = coffee
+life_rating = 15
+fort = 2

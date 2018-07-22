@@ -1,0 +1,7 @@
+owner=YAN
+controller=YAN
+add_core=KOR
+add_core=JAP
+add_core=YAN
+trade_goods = coal
+life_rating = 35

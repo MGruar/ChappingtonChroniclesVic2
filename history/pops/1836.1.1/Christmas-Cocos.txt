@@ -1,0 +1,200 @@
+2244 = {
+	soldiers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=705
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = hindu
+		size=1845
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = hindu
+		size=300
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = hindu
+		size=78
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=37
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = hindu
+		size=387
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=31876
+	}
+
+	soldiers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=344
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = sunni
+		size=1559
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = sunni
+		size=253
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = sunni
+		size=66
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = sunni
+		size=327
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=14625
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=1055
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = hindu
+		size=2756
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = hindu
+		size=448
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = hindu
+		size=117
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = hindu
+		size=579
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = hindu
+		size=47734
+	}
+
+	soldiers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=489
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = sunni
+		size=2271
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = sunni
+		size=369
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = sunni
+		size=97
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = sunni
+		size=477
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=20726
+	}
+
+}

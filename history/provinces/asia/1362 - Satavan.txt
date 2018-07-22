@@ -1,0 +1,7 @@
+owner=CGS
+controller=CGS
+add_core=CGS
+add_core=IDC
+add_core=LUA
+trade_goods = tobacco
+life_rating = 30

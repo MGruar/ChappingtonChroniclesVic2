@@ -1,0 +1,7 @@
+owner=PSA
+controller=PSA
+add_core=MLC
+add_core=PSA
+add_core=MSA
+trade_goods = timber
+life_rating = 30
