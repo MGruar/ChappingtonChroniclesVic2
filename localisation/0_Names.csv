@@ -1731,13 +1731,13 @@ WIC_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 WIC_fascist;Fascist Party;;;;;;;;;;;;;x
 X00;East Baltica;;;;;;;;;;;;;x
 X00_ADJ;East Baltica;;;;;;;;;;;;;x
-X00_conservative;Conservative Party;;;;;;;;;;;;;x
-X00_liberal;Liberal Party;;;;;;;;;;;;;x
-X00_reactionary;National Party;;;;;;;;;;;;;x
-X00_socialist;Socialist Party;;;;;;;;;;;;;x
-X00_communist;Communist Party;;;;;;;;;;;;;x
-X00_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
-X00_fascist;Fascist Party;;;;;;;;;;;;;x
+X00_conservative;Muirish Imperialists;;;;;;;;;;;;;x
+X00_liberal;Liberals;;;;;;;;;;;;;x
+X00_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+X00_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+X00_communist;Radical Workers Union;;;;;;;;;;;;;x
+X00_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+X00_fascist;Eastern Front;;;;;;;;;;;;;x
 X01;Livonia;Livonie;Livland;;Livonia;;;;;;;;;x
 X01_ADJ;Livonian;livonienne;Livländisch;;livonio;;;;;;;;;x
 X01_conservative;Conservative Party;;;;;;;;;;;;;x
@@ -1748,7 +1748,7 @@ X01_communist;Communist Party;;;;;;;;;;;;;x
 X01_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X01_fascist;Fascist Party;;;;;;;;;;;;;x
 X02;Knights Templar;Chevaliers du Temple;;;;;;;;;;;;x
-X02_ADJ;;templière;;;;;;;;;;;;x
+X02_ADJ;Templar;templière;;;;;;;;;;;;x
 X02_conservative;Conservative Party;;;;;;;;;;;;;x
 X02_liberal;Liberal Party;;;;;;;;;;;;;x
 X02_reactionary;National Party;;;;;;;;;;;;;x
@@ -1902,13 +1902,13 @@ X18_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X18_fascist;Fascist Party;;;;;;;;;;;;;x
 X19;Great Muirland;;;;;;;;;;;;;x
 X19_ADJ;Muirish;;;;;;;;;;;;;x
-X19_conservative;Conservative Party;;;;;;;;;;;;;x
-X19_liberal;Liberal Party;;;;;;;;;;;;;x
-X19_reactionary;National Party;;;;;;;;;;;;;x
-X19_socialist;Socialist Party;;;;;;;;;;;;;x
-X19_communist;Communist Party;;;;;;;;;;;;;x
-X19_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
-X19_fascist;Fascist Party;;;;;;;;;;;;;x
+X19_conservative;Imperialists;;;;;;;;;;;;;x
+X19_liberal;Liberals;;;;;;;;;;;;;x
+X19_reactionary;Royalists;;;;;;;;;;;;;x
+X19_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+X19_communist;Radical Workers Union;;;;;;;;;;;;;x
+X19_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+X19_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 X20;Acatl;;;;;;;;;;;;;x
 X20_ADJ;Acatl;;;;;;;;;;;;;x
 X20_conservative;Conservative Party;;;;;;;;;;;;;x
@@ -1920,22 +1920,22 @@ X20_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X20_fascist;Fascist Party;;;;;;;;;;;;;x
 X21;Baltica;;;;;;;;;;;;;x
 X21_ADJ;Baltican;;;;;;;;;;;;;x
-X21_conservative;Conservative Party;;;;;;;;;;;;;x
-X21_liberal;Liberal Party;;;;;;;;;;;;;x
-X21_reactionary;National Party;;;;;;;;;;;;;x
-X21_socialist;Socialist Party;;;;;;;;;;;;;x
-X21_communist;Communist Party;;;;;;;;;;;;;x
-X21_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
-X21_fascist;Fascist Party;;;;;;;;;;;;;x
+X21_conservative;Muirish Imperialists;;;;;;;;;;;;;x
+X21_liberal;Liberals;;;;;;;;;;;;;x
+X21_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+X21_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+X21_communist;Radical Workers Union;;;;;;;;;;;;;x
+X21_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+X21_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 X22;Gran Atlassia;;;;;;;;;;;;;x
 X22_ADJ;Gran Atlassian;;;;;;;;;;;;;x
-X22_conservative;Conservative Party;;;;;;;;;;;;;x
-X22_liberal;Liberal Party;;;;;;;;;;;;;x
-X22_reactionary;National Party;;;;;;;;;;;;;x
-X22_socialist;Socialist Party;;;;;;;;;;;;;x
-X22_communist;Communist Party;;;;;;;;;;;;;x
-X22_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
-X22_fascist;Fascist Party;;;;;;;;;;;;;x
+X22_conservative;Gran Atlassian Imperialists;;;;;;;;;;;;;x
+X22_liberal;Liberals;;;;;;;;;;;;;x
+X22_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+X22_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+X22_communist;Radical Workers Union;;;;;;;;;;;;;x
+X22_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+X22_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 X23;Gallia;;;;;;;;;;;;;x
 X23_ADJ;Gallic;;;;;;;;;;;;;x
 X23_conservative;Conservative Party;;;;;;;;;;;;;x
@@ -1956,9 +1956,9 @@ X24_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X24_fascist;Fascist Party;;;;;;;;;;;;;x
 X25;Lombardia;;;;;;;;;;;;;x
 X25_ADJ;Lombard;;;;;;;;;;;;;x
-X25_conservative;Conservative Party;;;;;;;;;;;;;x
+X25_conservative;Lombard Imperialists;;;;;;;;;;;;;x
 X25_liberal;Liberal Party;;;;;;;;;;;;;x
-X25_reactionary;National Party;;;;;;;;;;;;;x
+X25_reactionary;Muirish Royalists;;;;;;;;;;;;;x
 X25_socialist;Socialist Party;;;;;;;;;;;;;x
 X25_communist;Communist Party;;;;;;;;;;;;;x
 X25_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
