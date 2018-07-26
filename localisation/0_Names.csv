@@ -1218,6 +1218,14 @@ GER;Deutschland;Allemagne;Deutschland;;Alemania;;;;;;;;;x
 GER_ADJ;Deutsch;allemande;Deutsch;;alemán;;;;;;;;;x
 GRE;Hellas;Grèce;Griechenland;;Grecia;;;;;;;;;x
 GRE_ADJ;Hellenic;grecque;Griechisch;;griego;;;;;;;;;x
+GRE_absolute_monarchy;Hellenic Empire;;;;;;;;;;;;;x
+GRE_prussian_constitutionalism;Hellenic Empire;;;;;;;;;;;;;x
+GRE_hms_government;Hellenic Empire;;;;;;;;;;;;;x
+GRE_democracy;Hellenic Republic;;;;;;;;;;;;;x
+GRE_presidential_dictatorship;Hellenic Empire;;;;;;;;;;;;;x
+GRE_bourgeois_dictatorship;Hellas;;;;;;;;;;;;;x
+GRE_fascist_dictatorship;Neo Byzantium;;;;;;;;;;;;;x
+GRE_proletarian_dictatorship;Union of Hellenic Socialist States;;;;;;;;;;;;;x
 HAI;Haiti;Haïti;Haiti;;Haití;;;;;;;;;x
 HAI_ADJ;Haitian;haïtienne;Haitisch;;de Haití;;;;;;;;;x
 HDA;Haida;Haïdas;Haida;;Haida;;;;;;;;;x
@@ -1711,6 +1719,14 @@ UCA;Pasai Mexico;;;;;;;;;;;;;x
 UCA_ADJ;Pasai Mexican;;;;;;;;;;;;;x
 USA;United States of Fenella;États-Unis d'Amérique;Vereinigte Staaten;;Estados Unidos;;;;;;;;;x
 USA_ADJ;Fenellan;américaine;Amerikanisch;;estadounidense;;;;;;;;;x
+USA_absolute_monarchy;United Empire of Fenella;;;;;;;;;;;;;x
+USA_prussian_constitutionalism;United Empire of Fenella;;;;;;;;;;;;;x
+USA_hms_government;United States of Fenella;;;;;;;;;;;;;x
+USA_democracy;United States of Fenella;;;;;;;;;;;;;x
+USA_presidential_dictatorship;United States of Fenella;;;;;;;;;;;;;x
+USA_bourgeois_dictatorship;United States of Fenella;;;;;;;;;;;;;x
+USA_fascist_dictatorship;United States of Fenella;;;;;;;;;;;;;x
+USA_proletarian_dictatorship;United Syndicates of Fenella;;;;;;;;;;;;;x
 UTS;Ü-Tsang;Ü-Tsang;Ü-Tsang;;Ü-Tsang ;;;;;;;;;x
 UTS_ADJ;Yarlungi;ü-tsang;Ü-Tsangisch;;ütsang;;;;;;;;;x
 UTS_conservative;Conservative Party;;;;;;;;;;;;;x
@@ -1902,6 +1918,14 @@ X18_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X18_fascist;Fascist Party;;;;;;;;;;;;;x
 X19;Great Muirland;;;;;;;;;;;;;x
 X19_ADJ;Muirish;;;;;;;;;;;;;x
+X19_absolute_monarchy;Empire of Great Muirland;;;;;;;;;;;;;x
+X19_prussian_constitutionalism;Empire of Great Muirland;;;;;;;;;;;;;x
+X19_hms_government;Empire of Great Muirland;;;;;;;;;;;;;x
+X19_democracy;Republic of Great Muirland;;;;;;;;;;;;;x
+X19_presidential_dictatorship;Empire of Great Muirland;;;;;;;;;;;;;x
+X19_bourgeois_dictatorship;Great Muirland;;;;;;;;;;;;;x
+X19_fascist_dictatorship;Empire of Great Muirland;;;;;;;;;;;;;x
+X19_proletarian_dictatorship;United Muirish Communist States;;;;;;;;;;;;;x
 X19_conservative;Imperialists;;;;;;;;;;;;;x
 X19_liberal;Liberals;;;;;;;;;;;;;x
 X19_reactionary;Royalists;;;;;;;;;;;;;x
@@ -1929,6 +1953,14 @@ X21_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
 X21_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 X22;Gran Atlassia;;;;;;;;;;;;;x
 X22_ADJ;Gran Atlassian;;;;;;;;;;;;;x
+X22_absolute_monarchy;Empire of Gran Atlassia;;;;;;;;;;;;;x
+X22_prussian_constitutionalism;Empire of Gran Atlassia;;;;;;;;;;;;;x
+X22_hms_government;Empire of Gran Atlassia;;;;;;;;;;;;;x
+X22_democracy;Gran Atlassian Federation;;;;;;;;;;;;;x
+X22_presidential_dictatorship;Empire of Gran Atlassia;;;;;;;;;;;;;x
+X22_bourgeois_dictatorship;Gran Atlassia;;;;;;;;;;;;;x
+X22_fascist_dictatorship;Empire of Gran Atlassia;;;;;;;;;;;;;x
+X22_proletarian_dictatorship;Gran Atlassian Communist Union;;;;;;;;;;;;;x
 X22_conservative;Gran Atlassian Imperialists;;;;;;;;;;;;;x
 X22_liberal;Liberals;;;;;;;;;;;;;x
 X22_reactionary;Muirish Royalists;;;;;;;;;;;;;x
