@@ -952,9 +952,9 @@ political_decisions = {
 		}
 		effect = {
 			139 = {
-				change_province_name = "New Orleans"
+				change_province_name = "Jedburgh Point" # Modded Further
 				state_scope = {
-					change_region_name = "Louisiana"
+					change_region_name = "Jedburgh"
 				}
 			}
 			set_global_flag = 139_changed
@@ -1308,9 +1308,9 @@ political_decisions = {
 		}
 		effect = {
 			232 = {
-				change_province_name = "New York"
+				change_province_name = "New Stirling" # Modded Further
 				state_scope = {
-					change_region_name = "New York"
+					change_region_name = "New Stirling"
 				}
 			}
 			set_global_flag = 232_changed
