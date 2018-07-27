@@ -1026,6 +1026,21 @@ CAM;Khmer;Khmers;Khmer;;Jemeres;;;;;;;;;x
 CAM_ADJ;Cambodian;khmère;Kambodschanisch;;camboyano;;;;;;;;;x
 CAN;Iacobia;Canada;Kanada;;Canadá;;;;;;;;;x
 CAN_ADJ;Iacobian;canadienne;Kanadisch;;canadiense;;;;;;;;;x
+CAN_absolute_monarchy;Kingdom of Iacobia;;;;;;;;;;;;;x
+CAN_prussian_constitutionalism;Kingdom of Iacobia;;;;;;;;;;;;;x
+CAN_hms_government;Kingdom of Iacobia;;;;;;;;;;;;;x
+CAN_democracy;Republic of Iacobia;;;;;;;;;;;;;x
+CAN_presidential_dictatorship;Iacobia;;;;;;;;;;;;;x
+CAN_bourgeois_dictatorship;Iacobia;;;;;;;;;;;;;x
+CAN_fascist_dictatorship;Iacobia;;;;;;;;;;;;;x
+CAN_proletarian_dictatorship;Iacobian Workers Union;;;;;;;;;;;;;x
+CAN_conservative;Imperialists;;;;;;;;;;;;;x
+CAN_liberal;Liberals;;;;;;;;;;;;;x
+CAN_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+CAN_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+CAN_communist;Radical Workers Union;;;;;;;;;;;;;x
+CAN_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+CAN_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 CCQ;Calchaqui;Calchaquís;Calchaqui;;Calchaqui;;;;;;;;;x
 CCQ_ADJ;Calchaqui;calchaquie;Calchaquisch;;calchaquino;;;;;;;;;x
 CCQ_conservative;Conservative Party;;;;;;;;;;;;;x
