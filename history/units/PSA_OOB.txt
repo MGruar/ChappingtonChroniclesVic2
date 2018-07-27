@@ -15,11 +15,6 @@
 		value=6
 		level=2
 	}
-	AST=
-	{
-		value=-6
-		level=2
-	}
 	ATJ=
 	{
 		value=73
@@ -188,6 +183,11 @@
 	NNG=
 	{
 		value=2
+		level=2
+	}
+	NZL=
+	{
+		value=-6
 		level=2
 	}
 	OUC=
