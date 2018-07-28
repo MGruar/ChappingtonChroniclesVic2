@@ -942,6 +942,13 @@ ARA;Arabia;Arabie;Arabien;;Arabia;;;;;;;;;x
 ARA_ADJ;Arabian;arabe;Arabisch;;árabe;;;;;;;;;x
 ARG;Argentine;;;;;;;;;;;;;x
 ARG_ADJ;Argentine;;;;;;;;;;;;;x
+ARG_conservative;Conservative Party;;;;;;;;;;;;;x
+ARG_liberal;Liberal Party;;;;;;;;;;;;;x
+ARG_reactionary;National Party;;;;;;;;;;;;;x
+ARG_socialist;Socialist Party;;;;;;;;;;;;;x
+ARG_communist;Communist Party;;;;;;;;;;;;;x
+ARG_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
+ARG_fascist;Fascist Party;;;;;;;;;;;;;x
 ARK;Arakan;Arakan;Arakan;;Arakan;;;;;;;;;x
 ARK_ADJ;Arakani;arakanaise;Arakanisch;;arakanés;;;;;;;;;x
 ARP;Arapaho;Arapahos;Arapaho;;Arapajós;;;;;;;;;x
@@ -1081,6 +1088,13 @@ CHA;Champa;Champâ;Champa;;Champa;;;;;;;;;x
 CHA_ADJ;Champani;chame;Champanisch;;champa;;;;;;;;;x
 CHL;Airgead;Chili;Chile;;Chile;;;;;;;;;x
 CHL_ADJ;Airgeadan;chilienne;Chilenisch;;chileno;;;;;;;;;x
+CHL_conservative;Imperialists;;;;;;;;;;;;;x
+CHL_liberal;Liberals;;;;;;;;;;;;;x
+CHL_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+CHL_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+CHL_communist;Radical Workers Union;;;;;;;;;;;;;x
+CHL_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+CHL_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 CHM;Chimu;Chimus;Chimu;;Chimu;;;;;;;;;x
 CHM_ADJ;Chimu;chimuane;Chimuisch;;chimu;;;;;;;;;x
 CHN;Chickasaw;Chicachas;Chickasaw;;Chickasaws;;;;;;;;;x
@@ -1114,6 +1128,13 @@ CKW;Chokwe;Tchokwés;Chokwe;;Chokwe;;;;;;;;;x
 CKW_ADJ;Chokwan;tchokwée;Chokweisch;;chokwe;;;;;;;;;x
 CLM;Uargus;Colombie;Kolumbien;;Colombia;;;;;;;;;x
 CLM_ADJ;Uargan;colombienne;Kolumbianisch;;colombiano;;;;;;;;;x
+CLM_conservative;Imperialists;;;;;;;;;;;;;x
+CLM_liberal;Liberals;;;;;;;;;;;;;x
+CLM_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+CLM_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+CLM_communist;Radical Workers Union;;;;;;;;;;;;;x
+CLM_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+CLM_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 CMI;Miao;Miao;Miao;;Miao;;;;;;;;;x
 CMI_ADJ;Miao;miao;Miaoisch;;miao;;;;;;;;;x
 CMI_conservative;Conservative Party;;;;;;;;;;;;;x
@@ -1528,6 +1549,13 @@ PEG;Pegu;Pégou;Pegu;;Pegu;;;;;;;;;x
 PEG_ADJ;Pegu;pégouane;Peguisch;;peguano;;;;;;;;;x
 PEU;Peru;Pérou;Peru;;Perú;;;;;;;;;x
 PEU_ADJ;Peruvian;péruvienne;Peruanisch;;peruano;;;;;;;;;x
+PEU_conservative;Imperialists;;;;;;;;;;;;;x
+PEU_liberal;Liberals;;;;;;;;;;;;;x
+PEU_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+PEU_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+PEU_communist;Radical Workers Union;;;;;;;;;;;;;x
+PEU_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+PEU_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 POM;Pòmòrskô;Poméranie;Pommern;;Pomerania;;;;;;;;;x
 POM_ADJ;Pomeranian;poméranienne;Pommersch;;pomerano;;;;;;;;;x
 POT;Potawatomi;Potawatomis;Potawatomi;;Potawatomis;;;;;;;;;x
@@ -1742,6 +1770,13 @@ USA_presidential_dictatorship;United States of Fenella;;;;;;;;;;;;;x
 USA_bourgeois_dictatorship;United States of Fenella;;;;;;;;;;;;;x
 USA_fascist_dictatorship;United States of Fenella;;;;;;;;;;;;;x
 USA_proletarian_dictatorship;United Syndicates of Fenella;;;;;;;;;;;;;x
+USA_conservative;Imperialists;;;;;;;;;;;;;x
+USA_liberal;Liberals;;;;;;;;;;;;;x
+USA_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+USA_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+USA_communist;Radical Workers Union;;;;;;;;;;;;;x
+USA_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+USA_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 UTS;Ü-Tsang;Ü-Tsang;Ü-Tsang;;Ü-Tsang ;;;;;;;;;x
 UTS_ADJ;Yarlungi;ü-tsang;Ü-Tsangisch;;ütsang;;;;;;;;;x
 UTS_conservative;Conservative Party;;;;;;;;;;;;;x
@@ -1834,6 +1869,14 @@ X07_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X07_fascist;Fascist Party;;;;;;;;;;;;;x
 X08;Ummayyads;;;;;;;;;;;;;x
 X08_ADJ;Ummayyad;;;;;;;;;;;;;x
+X08_absolute_monarchy;Ummayyad Empire;;;;;;;;;;;;;x
+X08_prussian_constitutionalism;Ummayyad Empire;;;;;;;;;;;;;x
+X08_hms_government;Ummayyad Empire;;;;;;;;;;;;;x
+X08_democracy;Persian Republic;;;;;;;;;;;;;x
+X08_presidential_dictatorship;Persian Empire;;;;;;;;;;;;;x
+X08_bourgeois_dictatorship;Persia;;;;;;;;;;;;;x
+X08_fascist_dictatorship;Persian State;;;;;;;;;;;;;x
+X08_proletarian_dictatorship;Socialist Union of Persia;;;;;;;;;;;;;x
 X08_conservative;Conservative Party;;;;;;;;;;;;;x
 X08_liberal;Liberal Party;;;;;;;;;;;;;x
 X08_reactionary;National Party;;;;;;;;;;;;;x
@@ -1994,6 +2037,14 @@ X23_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X23_fascist;Fascist Party;;;;;;;;;;;;;x
 X24;Mosulids;;;;;;;;;;;;;x
 X24_ADJ;Mosulid;;;;;;;;;;;;;x
+X24_absolute_monarchy;Mosulid Kingdom;;;;;;;;;;;;;x
+X24_prussian_constitutionalism;Mosulid Kingdom;;;;;;;;;;;;;x
+X24_hms_government;Mosulid Kingdom;;;;;;;;;;;;;x
+X24_democracy;Mosulid Republic;;;;;;;;;;;;;x
+X24_presidential_dictatorship;Mosulid State;;;;;;;;;;;;;x
+X24_bourgeois_dictatorship;Mosulids;;;;;;;;;;;;;x
+X24_fascist_dictatorship;Mosulid State;;;;;;;;;;;;;x
+X24_proletarian_dictatorship;South Arabian Communist Union;;;;;;;;;;;;;x
 X24_conservative;Conservative Party;;;;;;;;;;;;;x
 X24_liberal;Liberal Party;;;;;;;;;;;;;x
 X24_reactionary;National Party;;;;;;;;;;;;;x
@@ -2012,6 +2063,14 @@ X25_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X25_fascist;Fascist Party;;;;;;;;;;;;;x
 X26;Ayudhas;;;;;;;;;;;;;x
 X26_ADJ;Ayudha;;;;;;;;;;;;;x
+X26_absolute_monarchy;Ayudha Empire;;;;;;;;;;;;;x
+X26_prussian_constitutionalism;Ayudha Empire;;;;;;;;;;;;;x
+X26_hms_government;Ayudha Empire;;;;;;;;;;;;;x
+X26_democracy;Indian Republic;;;;;;;;;;;;;x
+X26_presidential_dictatorship;Indian State;;;;;;;;;;;;;x
+X26_bourgeois_dictatorship;India;;;;;;;;;;;;;x
+X26_fascist_dictatorship;Indian State;;;;;;;;;;;;;x
+X26_proletarian_dictatorship;Union of Indian Socialist States;;;;;;;;;;;;;x
 X26_conservative;Conservative Party;;;;;;;;;;;;;x
 X26_liberal;Liberal Party;;;;;;;;;;;;;x
 X26_reactionary;National Party;;;;;;;;;;;;;x

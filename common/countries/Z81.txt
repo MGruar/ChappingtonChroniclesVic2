@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = IndianGC
 color = { 190 20 50 }
 
 party = {
@@ -97,4 +97,41 @@ party = {
     religious_policy = moralism
     citizenship_policy = residency
     war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
+		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
+	ironclad = {
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
+		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
+	manowar = {
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
+		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
+	cruiser = {
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
+		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
+	frigate = {
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
+		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
+	monitor = {
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
+		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
+		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
 }
