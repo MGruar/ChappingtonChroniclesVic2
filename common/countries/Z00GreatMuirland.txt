@@ -111,6 +111,9 @@ unit_names = {
 		Rainbow "Red Lion" Regent Renown Repulse Revenge
 		"Scourge of Malice" Sovereign "Sovereign o the Seas" Suffolk Superb Swallow Swiftsure 
 		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Whiplash Warmonger Bulldog Grizzly Anihilator Cataclysm Warcraft Victoria Alexandria
+		Saturn Neptune Pluto Jupiter Mars Venus
+		Hurricane Cyclone Tornado Blizzard Torrent "Tropical Storm" Earthquake
 	}
 	
 	battleship = {
@@ -124,6 +127,9 @@ unit_names = {
 		Rainbow "Red Lion" Regent Renown Repulse Revenge
 		"Scourge of Malice" Sovereign "Sovereign o the Seas" Suffolk Superb Swallow Swiftsure 
 		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Whiplash Warmonger Bulldog Grizzly Anihilator Cataclysm Warcraft Victoria Alexandria
+		Saturn Neptune Pluto Jupiter Mars Venus
+		Hurricane Cyclone Tornado Blizzard Torrent "Tropical Storm" Earthquake
 	}
 	
 	ironclad = {
@@ -137,6 +143,9 @@ unit_names = {
 		Rainbow "Red Lion" Regent Renown Repulse Revenge
 		"Scourge of Malice" Sovereign "Sovereign o the Seas" Suffolk Superb Swallow Swiftsure 
 		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Whiplash Warmonger Bulldog Grizzly Anihilator Cataclysm Warcraft Victoria Alexandria
+		Saturn Neptune Pluto Jupiter Mars Venus
+		Hurricane Cyclone Tornado Blizzard Torrent "Tropical Storm" Earthquake
 	}
 	manowar = {
 		Achille Adventure Ajax Albemarle Alexander Antelope "Ark Royal" Assurance Audacious Ayrshire Bear
@@ -149,6 +158,9 @@ unit_names = {
 		Rainbow "Red Lion" Regent Renown Repulse Revenge
 		"Scourge of Malice" Sovereign "Sovereign o the Seas" Suffolk Superb Swallow Swiftsure 
 		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Whiplash Warmonger Bulldog Grizzly Anihilator Cataclysm Warcraft Victoria Alexandria
+		Saturn Neptune Pluto Jupiter Mars Venus
+		Hurricane Cyclone Tornado Blizzard Torrent "Tropical Storm" Earthquake
 	}
 	cruiser = {
 		Achille Adventure Ajax Albemarle Alexander Antelope "Ark Royal" Assurance Audacious Ayrshire Bear
@@ -161,6 +173,9 @@ unit_names = {
 		Rainbow "Red Lion" Regent Renown Repulse Revenge
 		"Scourge of Malice" Sovereign "Sovereign o the Seas" Suffolk Superb Swallow Swiftsure 
 		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Whiplash Warmonger Bulldog Grizzly Anihilator Cataclysm Warcraft Victoria Alexandria
+		Saturn Neptune Pluto Jupiter Mars Venus
+		Hurricane Cyclone Tornado Blizzard Torrent "Tropical Storm" Earthquake
 	}
 	frigate = {
 		Achille Adventure Ajax Albemarle Alexander Antelope "Ark Royal" Assurance Audacious Ayrshire Bear
@@ -173,6 +188,9 @@ unit_names = {
 		Rainbow "Red Lion" Regent Renown Repulse Revenge
 		"Scourge of Malice" Sovereign "Sovereign o the Seas" Suffolk Superb Swallow Swiftsure 
 		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Whiplash Warmonger Bulldog Grizzly Anihilator Cataclysm Warcraft Victoria Alexandria
+		Saturn Neptune Pluto Jupiter Mars Venus
+		Hurricane Cyclone Tornado Blizzard Torrent "Tropical Storm" Earthquake
 	}
 	monitor = {
 		Achille Adventure Ajax Albemarle Alexander Antelope "Ark Royal" Assurance Audacious Ayrshire Bear
