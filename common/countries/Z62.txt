@@ -102,30 +102,36 @@ party = {
 unit_names = {
 	dreadnought = {
 		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki" 	
-	 
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri
 	}
 	ironclad = {
-		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki" 	
+		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki" 
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri		
 	}
 	manowar = {
-		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki" 	
+		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki"
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri
 	}
 	cruiser = {
-		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki" 	
+		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki"
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri
 	}
 	frigate = {
-		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki" 	
+		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki"
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri
 	}
 	monitor = {
-		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki" 	
+		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki"
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri
 	}
 	clipper_transport = {
-		
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri
 	}
 	steam_transport = {
-		
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri
 	}
 	commerce_raider = {
-		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki" 	
+		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir""Abu Bakr" Uthman Umar Ali Al-Rashidun Muawiya Hashimiyyun "Barakat Affindi" "Muhammad Abu al-Nubaj" "Masud bin Said" "Ghalib Affindi""Muhammad ibn Saud" "Abd al-Aziz ibn Muhammad" "Turki ibn Abd Allah" "Saud ibn Abd al-Aziz" "Faisal ibn Turki"
+		Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Salih Said Sefveti Shukri
 	}
 }

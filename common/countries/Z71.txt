@@ -101,54 +101,81 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Lombardia Visconti Sforza "Sant'Ambrogio" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco 	
-
-	              Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro 
-		
+		Lombardia Visconti Sforza "Sant'Ambrogio" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte
+		Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Tritone Veloce Vigilante
+		Zeffiro
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 	}
 	ironclad = {
 		Lombardia Visconti Sforza "Sant'Ambrogio" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco 	
 
 		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro 
-		
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 	}
 	manowar = {
 		Lombardia Visconti Sforza "Sant'Ambrogio" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco 	
 
 		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro 
-		
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 	}
 	cruiser = {
 		Lombardia Visconti Sforza "Sant'Ambrogio" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco 	
 
 		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro 
-		
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 		
 	}
 	frigate = {
 		Lombardia Visconti Sforza "Sant'Ambrogio" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco 	
 
 		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro 
-		
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 	}
 	monitor = {
 		Lombardia Visconti Sforza "Sant'Ambrogio" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco 	
 
 		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro 
-		
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 		
 	}
 	clipper_transport = {
-		
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 	}
 	steam_transport = {
-		
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 	}
 	commerce_raider = {
 		Lombardia Visconti Sforza "Sant'Ambrogio" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco 	
 
 		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro 
-		
+		Medea Vulcano Gloria Minerva Laatea Diligenza Vittoria Eolo Concordia Forza 
+		Fama Sirena Falcon Ercole Idra "San Andrea" "San Zaccaria" "San Spiridon" "San Gaetano"
+		"Fortuna Guerriera" Terror Aquileta Constanza "Regina del Mar" "San Nicolo" Nettuno Rosa
+		Fenice Iride Aurora Tigre Giove "Rizzo d'Oro" "Amazzone Guerriera"
 		
 	}
 }

@@ -103,28 +103,118 @@ unit_names = {
 	dreadnought = {
 		Iran "Esmail Yekom" "Mohammad Khan Qajar" "Abbas Bozorg" "Safieddin Ardabili" "Tahmasp Yekom" "Abbas Duvam"
 		"Fathali Shah" "Abbas Mirza" "Nasireddin" "Mozaffareddin" "Mohammad Ali" "Shah Ahmad"
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 	ironclad = {
 		Azarbayjan Fars Khorasan Kerman Ajami Sistan Gorgan Manzadaran Sanjan Gilan Ardelan Balochistan Lorestan 
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 	manowar = {
 		Ferhumand Jelaleddin Nureddin Danesh Zureddin Nirumand Khosthaneshdani "Sahib-i Azam" Dalir 
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 	cruiser = {
 		Tehran Esfahan Hormuz Mashhad Tabriz Yazd Shiraz Hamedan Qom Bushehr Ahvaz Kermanshah Qazvin Zanjan Rasht Yasuj Semnan
 		Abtin Ardavan Armin Bahram Darab Faramarz Ghobad Goudarz Jamshid Kavus Manuchehr Mehran Parviz Piruz Rustam Sohrab
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 	frigate = {
 		Karun Zab Aras Helmand Diyala "Zab-e Kuchek" Zayande Atrek Alamut 
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 	monitor = {
 		Alborz Damavand Kholeno "Azad Koh" Tochal Sarakchal Kharsang Zagros "Zard Koh"
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 	clipper_transport = {
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 	steam_transport = { 
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 	commerce_raider = {
 		Arzu Fatima Nilofer Omid Laleh "Koh-i Nor" Jaleh Firuz Darya Roshan Shahrazad Shirin Yasmin Ziba Zuleika Behruz Farid Humayun Kambiz Kamyar Ruzbeh     
+		Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+		"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+		"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+		Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+		Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena" Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+		Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+		Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+		Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+		Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+		Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich "Zend-Avesta" Zurvan
 	}
 }
