@@ -2819,7 +2819,7 @@ theocratic_rebels = {
 	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
 	will_rise = 
 	{
-		factor = 0.5
+		factor = 0.0 # Ban them :)
 		
 		modifier = {
 			war = yes
@@ -2854,7 +2854,7 @@ theocratic_rebels = {
 	
 	# The rebel type with the highest modifier for this pop gets picked
 	spawn_chance = {
-		factor = 1.02
+		factor = 0.00 # Ban them :)
 		
 		modifier = {
 			factor = 1.2
