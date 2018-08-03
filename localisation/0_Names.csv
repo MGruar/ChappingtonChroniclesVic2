@@ -2000,6 +2000,14 @@ X19_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
 X19_fascist;Pan-Muir Front;;;;;;;;;;;;;x
 X20;Acatl;;;;;;;;;;;;;x
 X20_ADJ;Acatl;;;;;;;;;;;;;x
+X20_absolute_monarchy;Acatl Kingdom;;;;;;;;;;;;;x
+X20_prussian_constitutionalism;Acatl Kingdom;;;;;;;;;;;;;x
+X20_hms_government;Acatl Kingdom;;;;;;;;;;;;;x
+X20_democracy;Acatl Federation;;;;;;;;;;;;;x
+X20_presidential_dictatorship;Aztec Empire;;;;;;;;;;;;;x
+X20_bourgeois_dictatorship;Acatl State;;;;;;;;;;;;;x
+X20_fascist_dictatorship;Acatl Empire;;;;;;;;;;;;;x
+X20_proletarian_dictatorship;Aztec Communist Union;;;;;;;;;;;;;x
 X20_conservative;Conservative Party;;;;;;;;;;;;;x
 X20_liberal;Liberal Party;;;;;;;;;;;;;x
 X20_reactionary;National Party;;;;;;;;;;;;;x
@@ -2148,8 +2156,16 @@ X33_socialist;Socialist Party;;;;;;;;;;;;;x
 X33_communist;Communist Party;;;;;;;;;;;;;x
 X33_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X33_fascist;Fascist Party;;;;;;;;;;;;;x
-X34;Gran Atlassian Guyana;;;;;;;;;;;;;x
-X34_ADJ;Gran Atlassian Guyanan;;;;;;;;;;;;;x
+X34;Guyana;;;;;;;;;;;;;x
+X34_ADJ;Guyanan;;;;;;;;;;;;;x
+X34_absolute_monarchy;Kingdom of Guyana;;;;;;;;;;;;;x
+X34_prussian_constitutionalism;Kingdom of Guyana;;;;;;;;;;;;;x
+X34_hms_government;Kingdom of Guyana;;;;;;;;;;;;;x
+X34_democracy;Guyana;;;;;;;;;;;;;x
+X34_presidential_dictatorship;Guyana;;;;;;;;;;;;;x
+X34_bourgeois_dictatorship;Guyana;;;;;;;;;;;;;x
+X34_fascist_dictatorship;Guyana;;;;;;;;;;;;;x
+X34_proletarian_dictatorship;Guyanan Communist Union;;;;;;;;;;;;;x
 X34_conservative;Conservative Party;;;;;;;;;;;;;x
 X34_liberal;Liberal Party;;;;;;;;;;;;;x
 X34_reactionary;National Party;;;;;;;;;;;;;x
