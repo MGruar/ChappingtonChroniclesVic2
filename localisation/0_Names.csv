@@ -2182,6 +2182,33 @@ X35_socialist;Socialist Party;;;;;;;;;;;;;x
 X35_communist;Communist Party;;;;;;;;;;;;;x
 X35_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 X35_fascist;Fascist Party;;;;;;;;;;;;;x
+X36;Sverige-Suomi;;;;;;;;;;;;;x
+X36_ADJ;Sverige-Suomi;;;;;;;;;;;;;x
+X36_conservative;Muirish Imperialists;;;;;;;;;;;;;x
+X36_liberal;Liberals;;;;;;;;;;;;;x
+X36_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+X36_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+X36_communist;Radical Workers Union;;;;;;;;;;;;;x
+X36_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+X36_fascist;Northern Front;;;;;;;;;;;;;x
+X37;Cote d'Azur;;;;;;;;;;;;;x
+X37_ADJ;Azur;;;;;;;;;;;;;x
+X37_conservative;Muirish Imperialists;;;;;;;;;;;;;x
+X37_liberal;Liberals;;;;;;;;;;;;;x
+X37_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+X37_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+X37_communist;Radical Workers Union;;;;;;;;;;;;;x
+X37_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+X37_fascist;Black Front;;;;;;;;;;;;;x
+X38;Mozamba;;;;;;;;;;;;;x
+X38_ADJ;Mozamban;;;;;;;;;;;;;x
+X38_conservative;Muirish Imperialists;;;;;;;;;;;;;x
+X38_liberal;Liberals;;;;;;;;;;;;;x
+X38_reactionary;Muirish Royalists;;;;;;;;;;;;;x
+X38_socialist;Progressive Socialist Alliance;;;;;;;;;;;;;x
+X38_communist;Radical Workers Union;;;;;;;;;;;;;x
+X38_anarcho_liberal;Radical Liberals;;;;;;;;;;;;;x
+X38_fascist;African Front;;;;;;;;;;;;;x
 XIU;Xiu;Xius;Tutul Xiu;;Xiu;;;;;;;;;x
 XIU_ADJ;Xiu;xiu;Tutul Xiuisch;;xiu;;;;;;;;;x
 XIU_conservative;Conservative Party;;;;;;;;;;;;;x

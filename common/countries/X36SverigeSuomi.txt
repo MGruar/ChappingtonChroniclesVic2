@@ -1,0 +1,319 @@
+graphical_culture = SwedishGC
+color = { 0 85 148 }
+
+party = {
+    name = "X36_conservative"
+    start_date = 1820.1.1
+    end_date = 2000.1.1
+
+    ideology = conservative
+
+    economic_policy = interventionism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = limited_citizenship
+    war_policy = pro_military
+}
+
+party = {
+    name = "X36_liberal"
+    start_date = 1820.1.1
+    end_date = 2000.1.1
+
+    ideology = liberal
+
+    economic_policy = laissez_faire
+    trade_policy = free_trade
+    religious_policy = pluralism
+    citizenship_policy = limited_citizenship
+    war_policy = anti_military
+}
+
+party = {
+    name = "X36_reactionary"
+    start_date = 1820.1.1
+    end_date = 2000.1.1
+
+    ideology = reactionary
+
+    economic_policy = state_capitalism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+party = {
+    name = "X36_socialist"
+    start_date = 1849.1.1
+    end_date = 2000.1.1
+
+    ideology = socialist
+
+    economic_policy = state_capitalism
+    trade_policy = free_trade
+    religious_policy = secularized
+    citizenship_policy = full_citizenship
+    war_policy = anti_military
+}
+
+party = {
+    name = "X36_communist"
+    start_date = 1849.1.1
+    end_date = 2000.1.1
+
+    ideology = communist
+
+    economic_policy = planned_economy
+    trade_policy = protectionism
+    religious_policy = pro_atheism
+    citizenship_policy = full_citizenship
+    war_policy = pro_military
+}
+
+party = {
+    name = "X36_anarcho_liberal"
+    start_date = 1830.1.1
+    end_date = 2000.1.1
+
+    ideology = anarcho_liberal
+
+    economic_policy = laissez_faire
+    trade_policy = free_trade
+    religious_policy = pro_atheism
+    citizenship_policy = full_citizenship
+    war_policy = pro_military
+}
+
+party = {
+    name = "X36_fascist"
+    start_date = 1905.1.1
+    end_date = 2000.1.1
+
+    ideology = fascist
+
+    economic_policy = state_capitalism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+	ironclad = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+	manowar = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+	cruiser = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+	frigate = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+	monitor = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+	clipper_transport = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+	steam_transport = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+	commerce_raider = {
+		Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+		Bear Bellerophon Bonaventure Boyne Britannia Buckingham Charles Christ Constant Convertine Culloden Cumberland
+		Defence Defiance Destiny Dragon Dreadnought "Edward Howard" Elizabeth Eltham Essex Expedition
+		Foresight Foudroyant "Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara"
+		"Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+		James "John Baptist" "Katherine Forteleza" Kent Leander Leopard Lion
+		Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+		Nonpareil Nonsuch Northumberland Nottingham Orion Peter Providence "Prince Frederick" "Queen Charlotte"
+		Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+		"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+		Theseus Tigre Tramontana Triumph Unicorn Union Vanguard Victory Warspite Worcester
+		Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+		Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+		Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+		Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+		Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+		Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+		Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+		"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+		"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+		Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+		Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	}
+}
