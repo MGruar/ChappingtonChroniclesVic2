@@ -1,5 +1,8 @@
 capital=322
-primary_culture = swedish
+primary_culture = scottish
+culture = swedish
+culture = finnish
+culture = french
 religion = cathar
 government = hms_government
 plurality=0.000000
