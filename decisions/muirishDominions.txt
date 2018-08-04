@@ -1,0 +1,574 @@
+political_decisions = {
+	# Sverige-Suomi
+	chapchron_sverigesuomi = {
+		potential = {
+			tag = X19
+			NOT = {
+				exists = X36
+			}
+		}
+		
+		allow = {
+			tag = X19
+			NOT = {
+				exists = X36
+			}
+		}
+		
+		effect = {
+			317 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			318 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			319 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			320 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			321 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			322 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			323 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			324 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			325 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			326 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			327 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			328 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			336 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			337 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			338 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			339 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			340 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			341 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			342 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			343 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			344 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			345 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			346 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			347 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			348 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			982 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			983 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			984 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			988 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			994 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			995 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			996 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			2580 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			2587 = {
+				limit = { owned_by = X19 }
+				secede_province = X36
+				add_core = X36
+				remove_core = X19
+			}
+			X19 = { create_vassal = X36 }
+		}
+	}
+	
+	# Cote d'Azur
+	chapchron_azur = {
+		potential = {
+			tag = X19
+			NOT = {
+				exists = X37
+			}
+		}
+		
+		allow = {
+			tag = X19
+			NOT = {
+				exists = X37
+			}
+		}
+		
+		effect = {
+			407 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			410 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			411 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			413 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			414 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			428 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			429 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			430 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			431 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			432 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			433 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			445 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			446 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			447 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			448 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			449 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			450 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			451 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			452 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			453 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			454 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			455 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			456 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			457 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			461 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			462 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			463 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			464 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			465 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			466 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			467 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			468 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			469 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			470 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			471 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			472 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			587 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			588 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			594 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			603 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			604 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			605 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			606 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			607 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			608 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			609 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			611 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			720 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			721 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			722 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			723 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			724 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			725 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			2568 = {
+				limit = { owned_by = X19 }
+				secede_province = X37
+				add_core = X37
+				remove_core = X19
+			}
+			X19 = { create_vassal = X37 }
+		}
+	}
+	
+	# Mozamba
+	# TODO
+}
