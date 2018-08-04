@@ -570,5 +570,149 @@ political_decisions = {
 	}
 	
 	# Mozamba
-	# TODO
+	chapchron_mozamba = {
+		potential = {
+			tag = X19
+			NOT = {
+				exists = X38
+			}
+		}
+		
+		allow = {
+			tag = X19
+			NOT = {
+				exists = X38
+			}
+		}
+		
+		effect = {
+			2049 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2050 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2051 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2052 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2098 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2099 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2100 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2101 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2102 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2103 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2104 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2105 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2106 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2107 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2108 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2109 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2110 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2111 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2112 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2113 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			2114 = {
+				limit = { owned_by = X19 }
+				secede_province = X38
+				add_core = X38
+				remove_core = X19
+			}
+			X19 = { create_vassal = X38 }
+		}
+	}
 }
