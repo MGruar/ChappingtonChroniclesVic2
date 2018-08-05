@@ -227,10 +227,24 @@ country_event = {
 	}
 }
 
-# Cascadian Dictatorship
-#country_event = {
-#
-#}
+# Iacobian Dictatorship
+country_event = {
+	id = 260003
+	title = "EVTNAME260003"
+	desc = "EVTDESC260003"
+	fire_only_once = yes
+	
+	trigger = {
+		tag = CAN
+		year = 1880
+		government = theocracy
+	}
+	
+	option = {
+		name = "EVTOPTA260003"
+		government = presidential_dictatorship
+	}
+}
 
 # Cascadian Revolt
 #country_event = {
@@ -253,6 +267,8 @@ country_event = {
 			exists = X33
 		}
 	}
+	
+	mean_time_to_happen = { months = 12 }
 	
 	# Give them "freedom" - as a vassal
 	option = {
