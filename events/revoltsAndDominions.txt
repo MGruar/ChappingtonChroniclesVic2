@@ -8,7 +8,7 @@ country_event = {
 	trigger = { 
 		tag = X19
 		NOT = { has_global_flag = chapchron_lombard_claims }
-		is_year = 1870
+		year = 1870
 	}
 
 	mean_time_to_happen = { months = 12 }
@@ -40,13 +40,12 @@ country_event = {
 	id = 260002
 	title = "EVTNAME260002"
 	desc = "EVTDESC260002"
-	major = yes
 	picture = "Riot"
 	fire_only_once = yes
 
 	trigger = { 
 		tag = GRE
-		is_year = 1875
+		year = 1875
 		NOT = {
 			has_global_flag = chapchron_croatian_claims
 			exists = CRO
@@ -239,9 +238,59 @@ country_event = {
 #}
 
 # New Atlassian Revolt
-#country_event = {
-#
-#}
+country_event = {
+	id = 260005
+	title = "EVTNAME260005"
+	desc = "EVTDESC260005"
+	picture = "Riot"
+	fire_only_once = yes
+	
+	trigger = { 
+		tag = CLM
+		year = 1880
+		NOT = {
+			has_global_flag = chapchron_newatlassia_revolt
+			exists = X33
+		}
+	}
+	
+	# Give them "freedom" - as a vassal
+	option = {
+		name = "EVTOPTA260005"
+		any_owned = {
+			limit = {
+				is_core = X33
+			}
+			secede_province = X33
+		}
+		create_vassal = X33
+		add_global_flag = chapchron_newatlassia_revolt
+		ai_chance = { factor = 10 }
+	}
+	
+	# Independence War
+	option = {
+		name = "EVTOPTB260005"
+		any_owned = {
+			limit = {
+				is_core = X33
+			}
+			secede_province = X33
+		}
+		war = {
+			target = X33
+			attacker_goal = {
+				casus_belli = make_puppet
+			}
+			
+			defender_goal = {
+				casus_belli = become_independent
+			}
+		}
+		add_global_flag = chapchron_newatlassia_revolt
+		ai_chance = { factor = 90 }
+	}
+}
 
 # Cascadian Revolt
 #country_event = {

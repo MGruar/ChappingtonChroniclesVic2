@@ -831,6 +831,10 @@ political_decisions = {
 			2603 = { add_core = X32 }
 			set_global_flag = chapchron_transferred_southland_territories
 		}
+		
+		ai_will_do = {
+			factor = 1
+		}
 	}
 	
 	# NM -> USF
@@ -854,6 +858,10 @@ political_decisions = {
 				remove_core = X26
 			}
 			money = 500
+		}
+		
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }
