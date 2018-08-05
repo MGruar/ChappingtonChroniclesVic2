@@ -30,6 +30,6 @@ country_event = {
 		764 = { add_core = X25 }
 		854 = { add_core = X25 }
 		2567 = { add_core = X25 }
-		clr_global_flag = chapchron_lombard_claims
+		add_global_flag = chapchron_lombard_claims
 	}
 }
