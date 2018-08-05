@@ -1162,6 +1162,8 @@ COC_socialist;Socialist Party;;;;;;;;;;;;;x
 COC_communist;Communist Party;;;;;;;;;;;;;x
 COC_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 COC_fascist;Fascist Party;;;;;;;;;;;;;x
+COL;Cascadia;;;;;;;;;;;;;x
+COL_ADJ;Cascadian;;;;;;;;;;;;;x
 CRA;Charca;Charcas;Charca;;Charca;;;;;;;;;x
 CRA_ADJ;Charcan;charca;Charcanisch;;charcano;;;;;;;;;x
 CRA_conservative;Conservative Party;;;;;;;;;;;;;x
