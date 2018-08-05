@@ -112,13 +112,14 @@ country_event = {
 		782 = { add_core = CRO }
 		793 = { add_core = CRO }
 		2582 = { add_core = CRO }
+		GRE = { create_vassal = CRO }
 		add_global_flag = chapchron_croatian_claims
 		ai_chance = { factor = 75 }
 	}
 	
 	# Ignore this silly revolt (gets bigger, becomes an independence war)
 	option = { 
-		name = "EVTOPTA260002"
+		name = "EVTOPTB260002"
 		733 = {
 			limit = { owned_by = GRE }
 			secede_province = CRO
