@@ -715,4 +715,145 @@ political_decisions = {
 			X19 = { create_vassal = X38 }
 		}
 	}
+	
+	# Andean Territories
+	#chapchron_andeanterritories = {
+	#	
+	#}
+	
+	# African Swap
+	#chapchron_africanswap = {
+	#	
+	#}
+	
+	# Southland Expansion
+	chapchron_southland_expansion = {
+		potential = {
+			tag = X26
+			exists = X32
+			NOT = { has_global_flag = chapchron_transferred_southland_territories }
+		}
+		
+		allow = {
+			tag = X26
+			exists = X32
+			NOT = { has_global_flag = chapchron_transferred_southland_territories }
+		}
+		
+		effect = {
+			2475 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2489 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2490 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2495 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2496 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2500 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2501 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2502 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2503 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2504 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2601 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2602 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2604 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2605 = {
+				limit = { owned_by = X26 }
+				secede_province = X32
+				add_core = X32
+				remove_core = X26
+			}
+			2505 = { add_core = X32 }
+			2506 = { add_core = X32 }
+			2507 = { add_core = X32 }
+			2603 = { add_core = X32 }
+			set_global_flag = chapchron_transferred_southland_territories
+		}
+	}
+	
+	# NM -> USF
+	chapchron_ayudhalandsale = {
+		potential = {
+			tag = X26
+			exists = USA
+			owns = 104
+		}
+		
+		allow = {
+			tag = X26
+			exists = USA
+			owns = 104
+		}
+		
+		effect = {
+			104 = {
+				secede_province = USA
+				add_core = USA
+				remove_core = X26
+			}
+			money = 500
+		}
+	}
 }
