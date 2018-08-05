@@ -1,8 +1,9 @@
 # Lombard Claims
 country_event = { 
 	id = 260001
-	title = EVTNAME260001
-	desc = EVTDESC260001
+	title = "EVTNAME260001"
+	desc = "EVTDESC260001"
+	fire_only_once = yes
 
 	trigger = { 
 		tag = X19
@@ -13,7 +14,7 @@ country_event = {
 	mean_time_to_happen = { months = 12 }
 
 	option = { 
-		name = EVTOPTA260001
+		name = "EVTOPTA260001"
 		734 = { add_core = X25 }
 		735 = { add_core = X25 }
 		753 = { add_core = X25 }
@@ -31,5 +32,197 @@ country_event = {
 		854 = { add_core = X25 }
 		2567 = { add_core = X25 }
 		add_global_flag = chapchron_lombard_claims
+	}
+}
+
+# Croatian Revolt
+country_event = { 
+	id = 260002
+	title = "EVTNAME260002"
+	desc = "EVTDESC260002"
+	major = yes
+	picture = "Riot"
+	fire_only_once = yes
+
+	trigger = { 
+		tag = GRE
+		is_year = 1875
+		NOT = {
+			has_global_flag = chapchron_croatian_claims
+			exists = CRO
+		}
+	}
+
+	mean_time_to_happen = { months = 12 }
+
+	# Let them go, but with a smaller set of provinces
+	option = { 
+		name = "EVTOPTA260002"
+		733 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+			remove_core = GRE
+		}
+		736 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+			remove_core = GRE
+		}
+		770 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+			remove_core = GRE
+		}
+		774 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+			remove_core = GRE
+		}
+		778 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+			remove_core = GRE
+		}
+		780 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+			remove_core = GRE
+		}
+		781 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+			remove_core = GRE
+		}
+		# Add some other provinces as cores, but don't cede
+		737 = { add_core = CRO }
+		769 = { add_core = CRO }
+		771 = { add_core = CRO }
+		772 = { add_core = CRO }
+		775 = { add_core = CRO }
+		776 = { add_core = CRO }
+		777 = { add_core = CRO }
+		779 = { add_core = CRO }
+		782 = { add_core = CRO }
+		793 = { add_core = CRO }
+		2582 = { add_core = CRO }
+		add_global_flag = chapchron_croatian_claims
+		ai_chance = { factor = 75 }
+	}
+	
+	# Ignore this silly revolt (gets bigger, becomes an independence war)
+	option = { 
+		name = "EVTOPTA260002"
+		733 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		736 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		737 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		769 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		770 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		771 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		772 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		774 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		775 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		776 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		777 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		778 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		779 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		780 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		781 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		782 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		793 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		2582 = {
+			limit = { owned_by = GRE }
+			secede_province = CRO
+			add_core = CRO
+		}
+		# Start the war
+		GRE = {
+			war = {
+				target = CRO
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				
+				defender_goal = {
+					casus_belli = become_independent
+				}
+			}
+		}
+		add_global_flag = chapchron_croatian_claims
+		ai_chance = { factor = 25 }
 	}
 }
