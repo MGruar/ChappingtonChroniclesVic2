@@ -240,6 +240,8 @@ country_event = {
 		government = theocracy
 	}
 	
+	mean_time_to_happen = { months = 12 }
+	
 	option = {
 		name = "EVTOPTA260003"
 		government = presidential_dictatorship
@@ -247,9 +249,251 @@ country_event = {
 }
 
 # Cascadian Revolt
-#country_event = {
-#
-#}
+country_event = {
+	id = 260004
+	title = "EVTNAME260004"
+	desc = "EVTDESC260004"
+	picture = "Riot"
+	fire_only_once = yes
+
+	trigger = { 
+		tag = CAN
+		year = 1885
+		NOT = {
+			has_global_flag = chapchron_cascadia_revolt
+			exists = COL
+		}
+	}
+	
+	mean_time_to_happen = { months = 12 }
+	
+	# Let therm go as a vassal
+	option = {
+		name = "EVTOPTA260004"
+		13 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		15 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		16 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		17 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		18 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		19 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		20 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		21 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		78 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		79 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		80 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		81 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		82 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		83 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		91 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		92 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		93 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		2629 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+			remove_core = CAN
+		}
+		14 = { add_core = COL }
+		CAN = { create_vassal = COL }
+		add_global_flag = chapchron_cascadia_revolt
+		ai_chance = { factor = 75 }
+	}
+	
+	# War!
+	option = {
+		name = "EVTOPTB260004"
+		13 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		15 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		16 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		17 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		18 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		19 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		20 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		21 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		78 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		79 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		80 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		81 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		82 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		83 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		91 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		92 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		93 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		2629 = {
+			limit = { owned_by = CAN }
+			secede_province = COL
+			add_core = COL
+		}
+		14 = { add_core = COL }
+		CAN = {
+			war = {
+				target = COL
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				
+				defender_goal = {
+					casus_belli = become_independent
+				}
+			}
+		}
+		add_global_flag = chapchron_cascadia_revolt
+		ai_chance = { factor = 25 }
+	}
+}
 
 # New Atlassian Revolt
 country_event = {
