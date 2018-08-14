@@ -864,4 +864,73 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	
+	# Vancouver Island Deal
+	chapchron_vancouverisland = {
+		potential = {
+			tag = CAN
+			exists = COL
+			owns = 14
+		}
+		
+		allow = {
+			tag = CAN
+			exists = COL
+			owns = 14
+		}
+		
+		effect = {
+			14 = {
+				secede_province = COL
+				add_core = COL
+				remove_core = CAN
+			}
+			money = 500
+		}
+		
+		ai_will_do = {
+			factor = 0.5
+		}
+	}
+	
+	# Piedi Negri Trade
+	chapchron_piedinegri = {
+		potential = {
+			tag = X22
+			exists = MEX
+			OR = {
+				owns = 2142
+				owns = 2144
+			}
+		}
+		
+		allow = {
+			tag = X22
+			exists = MEX
+			OR = {
+				owns = 2142
+				owns = 2144
+			}
+		}
+		
+		effect = {
+			2142 = {
+				limit = { owned_by = X22 }
+				secede_province = MEX
+				add_core = MEX
+				remove_core = X22
+			}
+			2144 = {
+				limit = { owned_by = X22 }
+				secede_province = MEX
+				add_core = MEX
+				remove_core = X22
+			}
+			money = 1000
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }
